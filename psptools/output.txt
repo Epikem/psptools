@@ -1,0 +1,10 @@
+DEBUG   :Start------------------------
+PUT     :3
+DEBUG   :3
+PUT     :@@@@@
+DEBUG   :wwwww
+PUT     :asddssdsd
+PUT     :it
+PUT     :15
+DEBUG   :End------------------------
+DEBUG   :running time : 0.0010197162628173828

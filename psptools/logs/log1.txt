@@ -1,0 +1,3921 @@
+2017-11-12 11:43:11.112000 | Program started.
+time : {duration}
+2017-11-12 11:44:39.516000 | Program started.
+time : {duration}
+2017-11-12 11:44:51.937000 | Program started.
+time : {duration}
+2017-11-12 11:45:33.687000 | Program started.
+time : {duration}
+2017-11-12 11:45:47.885000 | Program started.
+time : {duration}
+2017-11-12 11:47:49.833000 | Program started.
+time : {duration}
+2017-11-12 11:48:11.838000 | Program started.
+time : {duration}
+2017-11-12 11:50:52.910000 | Program started.
+time : {duration}
+2017-11-12 13:10:40.834650 | Program started.
+2017-11-12 13:10:54.596315 | Program started.
+2017-11-12 13:11:11.164223 | Program started.
+2017-11-12 13:12:34.033706 | Program started.
+2017-11-12 13:13:07.359748 | Program started.
+time : {duration}
+2017-11-12 13:22:08.074097 | Program started.
+time : {duration}
+2017-11-12 14:14:21.111484 | Program started.
+2017-11-12 14:14:44.004429 | Program started.
+2017-11-12 14:14:53.627412 | Program started.
+2017-11-12 14:15:33.185823 | Program started.
+time : {duration}
+2017-11-12 15:49:13.516369 | Program started.
+time : {duration}
+2017-11-12 15:49:41.345597 | Program started.
+time : {duration}
+2017-11-12 15:51:10.179147 | Program started.
+time : {duration}
+2017-11-12 15:57:10.169070 | Program started.
+2017-11-12 15:57:30.026993 | Program started.
+time : {duration}
+2017-11-12 15:58:05.807345 | Program started.
+time : {duration}
+2017-11-12 16:00:04.467812 | Program started.
+time : {duration}
+2017-11-12 16:59:37.528264 | Program started.
+2017-11-12 17:00:06.569114 | Program started.
+2017-11-12 17:02:32.962640 | Program started.
+2017-11-12 17:04:54.419732 | Program started.
+2017-11-12 17:06:20.188056 | Program started.
+time : {duration}
+2017-11-12 17:07:31.467598 | Program started.
+time : {duration}
+2017-11-12 17:07:46.531557 | Program started.
+2017-11-12 17:10:07.984691 | Program started.
+2017-11-12 17:11:04.138216 | Program started.
+2017-11-12 17:12:13.303038 | Program started.
+time : {duration}
+2017-11-12 17:33:28.802268 | Program started.
+2017-11-12 17:36:55.907561 | Program started.
+time : {duration}
+2017-11-12 17:38:57.467282 | Program started.
+time : {duration}
+2017-11-12 17:39:32.022185 | Program started.
+time : {duration}
+2017-11-12 17:42:47.920106 | Program started.
+time : {duration}
+2017-11-12 17:44:37.199504 | Program started.
+time : {duration}
+2017-11-12 17:44:55.326076 | Program started.
+time : {duration}
+2017-11-12 17:46:40.337397 | Program started.
+time : {duration}
+2017-11-12 17:47:01.434467 | Program started.
+time : {duration}
+2017-11-12 17:50:23.204673 | Program started.
+2017-11-12 17:52:01.234058 | Program started.
+2017-11-12 17:52:17.463676 | Program started.
+time : {duration}
+2017-11-12 17:52:39.285064 | Program started.
+time : {duration}
+2017-11-12 17:53:12.657789 | Program started.
+time : {duration}
+2017-11-12 17:54:56.377883 | Program started.
+time : {duration}
+2017-11-12 17:55:20.100271 | Program started.
+time : {duration}
+2017-11-12 17:55:54.716319 | Program started.
+time : {duration}
+2017-11-12 17:56:02.752384 | Program started.
+2017-11-12 17:56:15.498757 | Program started.
+time : {duration}
+2017-11-12 17:56:30.399840 | Program started.
+time : {duration}
+2017-11-12 17:56:36.458355 | Program started.
+time : {duration}
+2017-11-12 17:59:02.815509 | Program started.
+time : {duration}
+2017-11-12 18:01:30.491213 | Program started.
+time : {duration}
+2017-11-12 18:04:31.135945 | Program started.
+time : {duration}
+2017-11-12 18:04:42.392532 | Program started.
+time : {duration}
+2017-11-12 18:04:54.392086 | Program started.
+time : {duration}
+2017-11-12 18:05:26.141465 | Program started.
+time : {duration}
+2017-11-12 18:06:04.285066 | Program started.
+time : {duration}
+2017-11-12 18:29:18.174618 | Program started.
+time : {duration}
+2017-11-12 18:34:34.407164 | Program started.
+time : {duration}
+2017-11-12 20:12:13.153076 | Program started.
+time : {duration}
+2017-11-12 20:12:19.121324 | Program started.
+time : {duration}
+2017-11-12 20:13:03.706793 | Program started.
+time : {duration}
+2017-11-12 20:13:18.418609 | Program started.
+2017-11-12 20:13:45.577158 | Program started.
+2017-11-12 20:14:11.886515 | Program started.
+2017-11-12 20:14:56.029265 | Program started.
+2017-11-12 20:29:12.970394 | Program started.
+2017-11-12 20:30:03.477347 | Program started.
+time : {duration}
+2017-11-12 20:32:08.733628 | Program started.
+time : {duration}
+2017-11-12 20:39:57.407551 | Program started.
+time : {duration}
+2017-11-12 20:40:17.669882 | Program started.
+time : {duration}
+2017-11-12 20:41:57.801626 | Program started.
+time : {duration}
+2017-11-12 20:49:39.954698 | Program started.
+time : {duration}
+2017-11-12 21:27:11.378838 | Program started.
+time : {duration}
+2017-11-12 21:34:20.927182 | Program started.
+time : {duration}
+2017-11-12 21:36:05.547862 | Program started.
+time : {duration}
+2017-11-12 21:37:50.333350 | Program started.
+time : {duration}
+2017-11-12 21:39:32.654509 | Program started.
+time : {duration}
+2017-11-12 21:39:50.975533 | Program started.
+time : {duration}
+2017-11-12 21:39:51.205752 | Program started.
+time : {duration}
+2017-11-12 21:40:07.675149 | Program started.
+time : {duration}
+2017-11-12 21:40:07.918331 | Program started.
+time : {duration}
+2017-11-12 21:41:18.484527 | Program started.
+time : {duration}
+2017-11-12 21:41:18.704709 | Program started.
+time : {duration}
+2017-11-12 21:49:30.612221 | Program started.
+time : {duration}
+2017-11-12 21:49:30.897423 | Program started.
+time : {duration}
+2017-11-12 21:51:19.600219 | Program started.
+time : {duration}
+2017-11-12 21:51:32.326175 | Program started.
+time : {duration}
+2017-11-12 21:51:52.880913 | Program started.
+time : {duration}
+2017-11-12 21:52:04.448794 | Program started.
+time : {duration}
+2017-11-12 21:52:18.781904 | Program started.
+time : {duration}
+2017-11-12 21:52:51.297611 | Program started.
+time : {duration}
+2017-11-12 21:53:00.029995 | Program started.
+time : {duration}
+2017-11-12 21:53:14.399705 | Program started.
+time : {duration}
+2017-11-12 21:53:33.362619 | Program started.
+time : {duration}
+2017-11-12 21:54:27.561358 | Program started.
+time : {duration}
+2017-11-12 21:54:48.902163 | Program started.
+time : {duration}
+2017-11-12 21:54:59.028430 | Program started.
+time : {duration}
+2017-11-12 21:56:32.928504 | Program started.
+time : {duration}
+2017-11-12 21:57:11.486758 | Program started.
+time : {duration}
+2017-11-12 21:59:10.286352 | Program started.
+time : {duration}
+2017-11-12 21:59:59.543259 | Program started.
+time : {duration}
+2017-11-12 22:01:46.269854 | Program started.
+time : {duration}
+2017-11-12 22:02:31.518936 | Program started.
+time : {duration}
+2017-11-12 22:03:35.915051 | Program started.
+time : {duration}
+2017-11-12 22:07:26.330306 | Program started.
+time : {duration}
+2017-11-12 22:08:19.028324 | Program started.
+time : {duration}
+2017-11-12 22:09:18.490800 | Program started.
+time : {duration}
+2017-11-12 22:09:44.752464 | Program started.
+time : {duration}
+2017-11-12 22:10:19.015888 | Program started.
+time : {duration}
+2017-11-12 22:12:54.633392 | Program started.
+time : {duration}
+2017-11-12 22:13:22.521849 | Program started.
+time : {duration}
+2017-11-12 22:13:32.826756 | Program started.
+time : {duration}
+2017-11-12 22:14:07.210489 | Program started.
+time : {duration}
+2017-11-12 22:26:43.742677 | Program started.
+time : {duration}
+2017-11-12 22:27:07.618190 | Program started.
+time : {duration}
+2017-11-12 22:51:21.930674 | Program started.
+time : {duration}
+2017-11-12 22:57:08.331426 | Program started.
+time : {duration}
+2017-11-12 23:08:40.159903 | Program started.
+time : {duration}
+2017-11-12 23:11:12.884549 | Program started.
+time : {duration}
+2017-11-12 23:11:23.660007 | Program started.
+time : {duration}
+2017-11-12 23:11:32.644006 | Program started.
+time : {duration}
+2017-11-12 23:12:01.425502 | Program started.
+time : {duration}
+2017-11-12 23:12:33.757555 | Program started.
+time : {duration}
+2017-11-12 23:12:45.122590 | Program started.
+time : {duration}
+2017-11-12 23:13:19.274276 | Program started.
+time : {duration}
+2017-11-12 23:21:36.117596 | Program started.
+time : {duration}
+2017-11-12 23:23:01.452681 | Program started.
+time : {duration}
+2017-11-12 23:28:02.548696 | Program started.
+time : {duration}
+2017-11-12 23:28:49.480559 | Program started.
+time : {duration}
+2017-11-12 23:28:57.645630 | Program started.
+time : {duration}
+2017-11-12 23:31:22.091393 | Program started.
+time : {duration}
+2017-11-12 23:32:06.610076 | Program started.
+time : {duration}
+2017-11-12 23:32:44.708380 | Program started.
+time : {duration}
+2017-11-12 23:33:23.524087 | Program started.
+time : {duration}
+2017-11-12 23:33:36.838526 | Program started.
+time : {duration}
+2017-11-12 23:34:59.469696 | Program started.
+time : {duration}
+2017-11-12 23:35:09.885480 | Program started.
+time : {duration}
+2017-11-12 23:36:01.540132 | Program started.
+time : {duration}
+2017-11-12 23:36:09.607467 | Program started.
+time : {duration}
+2017-11-12 23:37:18.150241 | Program started.
+time : {duration}
+2017-11-13 00:21:06.181244 | Program started.
+2017-11-13 00:22:55.009341 | Program started.
+time : {duration}
+2017-11-13 00:26:05.997938 | Program started.
+2017-11-13 00:28:28.984666 | Program started.
+2017-11-13 00:30:07.014315 | Program started.
+time : {duration}
+2017-11-13 00:32:09.593656 | Program started.
+time : {duration}
+2017-11-13 00:34:18.042093 | Program started.
+time : {duration}
+2017-11-13 00:37:33.188639 | Program started.
+time : {duration}
+2017-11-13 00:37:53.482140 | Program started.
+time : {duration}
+2017-11-13 00:38:08.108385 | Program started.
+time : {duration}
+2017-11-13 00:38:43.759760 | Program started.
+time : {duration}
+2017-11-13 00:39:21.009822 | Program started.
+2017-11-13 00:39:25.072333 | Program started.
+time : {duration}
+2017-11-13 00:39:49.027754 | Program started.
+time : {duration}
+2017-11-13 00:41:30.616014 | Program started.
+time : {duration}
+2017-11-13 00:42:54.704484 | Program started.
+time : {duration}
+2017-11-13 00:43:10.721447 | Program started.
+time : {duration}
+2017-11-13 00:44:55.575514 | Program started.
+time : {duration}
+2017-11-13 00:56:25.390433 | Program started.
+2017-11-13 00:58:43.150884 | Program started.
+time : {duration}
+2017-11-13 01:09:15.932576 | Program started.
+time : {duration}
+2017-11-13 01:11:18.901196 | Program started.
+2017-11-13 01:13:19.841304 | Program started.
+2017-11-13 01:14:10.767544 | Program started.
+time : {duration}
+2017-11-13 01:15:50.474688 | Program started.
+time : {duration}
+2017-11-13 01:18:15.880834 | Program started.
+time : {duration}
+2017-11-13 01:19:04.838951 | Program started.
+time : {duration}
+2017-11-13 01:26:17.895377 | Program started.
+time : {duration}
+2017-11-13 01:29:04.409316 | Program started.
+time : {duration}
+2017-11-13 01:30:06.015449 | Program started.
+time : {duration}
+2017-11-13 01:31:37.650110 | Program started.
+time : {duration}
+2017-11-13 01:31:53.107277 | Program started.
+time : {duration}
+2017-11-13 01:36:29.114192 | Program started.
+2017-11-13 01:37:09.347893 | Program started.
+2017-11-13 01:46:08.262486 | Program started.
+2017-11-13 01:48:04.901700 | Program started.
+2017-11-13 01:59:16.825648 | Program started.
+2017-11-13 02:05:43.778029 | Program started.
+time : {duration}
+2017-11-13 02:08:21.748705 | Program started.
+time : {duration}
+2017-11-13 02:09:17.938181 | Program started.
+time : {duration}
+2017-11-13 02:09:37.296460 | Program started.
+time : {duration}
+2017-11-13 02:11:04.242584 | Program started.
+time : {duration}
+2017-11-13 02:18:38.935628 | Program started.
+time : {duration}
+2017-11-13 02:25:53.849000 | Program started.
+2017-11-13 02:26:57.412000 | Program started.
+2017-11-13 02:29:17.450738 | Program started.
+time : {duration}
+2017-11-13 08:53:37.996000 | Program started.
+2017-11-13 08:56:57.553000 | Program started.
+2017-11-13 08:57:09.659000 | Program started.
+2017-11-13 08:59:23.241000 | Program started.
+2017-11-13 08:59:33.522000 | Program started.
+2017-11-13 09:00:25.084000 | Program started.
+2017-11-13 09:00:43.244000 | Program started.
+2017-11-13 09:03:41.313000 | Program started.
+2017-11-13 09:04:30.016000 | Program started.
+2017-11-13 09:06:26.062000 | Program started.
+2017-11-13 09:07:30.522000 | Program started.
+time : {duration}
+2017-11-13 09:09:25.242000 | Program started.
+time : {duration}
+2017-11-13 09:10:27.130000 | Program started.
+time : {duration}
+2017-11-13 09:11:25.225000 | Program started.
+time : {duration}
+2017-11-13 09:11:47.337000 | Program started.
+time : {duration}
+2017-11-13 09:14:28.766000 | Program started.
+time : {duration}
+2017-11-13 09:19:44.422000 | Program started.
+time : {duration}
+2017-11-13 09:22:08.150000 | Program started.
+time : {duration}
+2017-11-13 09:40:43.202000 | Program started.
+time : {duration}
+2017-11-13 10:08:22.260000 | Program started.
+time : {duration}
+2017-11-13 10:08:45.139000 | Program started.
+time : {duration}
+2017-11-13 10:18:02.548000 | Program started.
+time : {duration}
+2017-11-13 10:19:52.425000 | Program started.
+time : {duration}
+2017-11-13 10:22:57.539000 | Program started.
+time : {duration}
+2017-11-13 10:41:55.811000 | Program started.
+time : {duration}
+2017-11-13 10:44:25.781000 | Program started.
+time : {duration}
+2017-11-13 10:45:30.449000 | Program started.
+time : {duration}
+2017-11-13 11:15:18.106000 | Program started.
+time : {duration}
+2017-11-13 11:15:27.413000 | Program started.
+time : {duration}
+2017-11-13 11:17:08.908000 | Program started.
+time : {duration}
+2017-11-13 11:17:57.977000 | Program started.
+time : {duration}
+2017-11-13 11:19:24.121000 | Program started.
+time : {duration}
+2017-11-13 11:31:05.713000 | Program started.
+time : {duration}
+2017-11-13 11:43:41.923000 | Program started.
+time : {duration}
+2017-11-13 11:44:06.919000 | Program started.
+time : {duration}
+2017-11-13 11:44:25.259000 | Program started.
+time : {duration}
+2017-11-13 11:44:58.651000 | Program started.
+time : {duration}
+2017-11-13 11:52:56.324000 | Program started.
+time : {duration}
+2017-11-13 11:57:32.269000 | Program started.
+time : {duration}
+2017-11-13 12:03:15.421000 | Program started.
+time : {duration}
+2017-11-13 13:28:48.781000 | Program started.
+time : {duration}
+2017-11-13 13:28:58.770000 | Program started.
+time : {duration}
+2017-11-13 13:53:46.522000 | Program started.
+2017-11-13 13:56:10.645000 | Program started.
+time : {duration}
+2017-11-13 13:57:51.682000 | Program started.
+time : {duration}
+2017-11-13 14:08:09.090000 | Program started.
+time : {duration}
+2017-11-13 15:22:19.673000 | Program started.
+2017-11-13 15:23:30.496000 | Program started.
+2017-11-13 15:26:00.142000 | Program started.
+2017-11-13 15:28:54.526000 | Program started.
+time : {duration}
+2017-11-13 15:29:44.792000 | Program started.
+time : {duration}
+2017-11-13 15:31:12.869000 | Program started.
+time : {duration}
+2017-11-13 15:33:54.094000 | Program started.
+2017-11-13 15:37:20.726000 | Program started.
+2017-11-13 15:43:25.295000 | Program started.
+2017-11-13 15:44:12.709000 | Program started.
+2017-11-13 15:46:01.390000 | Program started.
+2017-11-13 15:50:41.946000 | Program started.
+time : {duration}
+2017-11-13 15:59:00.530000 | Program started.
+2017-11-13 15:59:53.635000 | Program started.
+2017-11-13 16:00:14.679000 | Program started.
+2017-11-13 16:30:42.985000 | Program started.
+2017-11-13 16:31:53.714000 | Program started.
+2017-11-13 16:32:14.420000 | Program started.
+time : {duration}
+2017-11-13 16:32:35.089000 | Program started.
+time : {duration}
+2017-11-13 16:34:42.265000 | Program started.
+time : {duration}
+2017-11-13 16:35:31.832000 | Program started.
+time : {duration}
+2017-11-13 16:35:48.380000 | Program started.
+time : {duration}
+2017-11-14 06:59:38.151000 | Program started.
+2017-11-14 07:04:57.907380 | Program started.
+time : {duration}
+2017-11-14 07:11:19.743896 | Program started.
+memory : 30019584
+2017-11-14 07:11:54.131179 | Program started.
+memory : 29052928
+2017-11-14 07:13:27.354315 | Program started.
+memory : 29093888
+2017-11-14 07:21:44.514826 | Program started.
+2017-11-14 07:31:18.660797 | Program started.
+2017-11-14 10:35:50.721000 | Program started.
+2017-11-14 10:38:53.743000 | Program started.
+2017-11-14 10:39:18.484000 | Program started.
+2017-11-14 10:58:17.290000 | Program started.
+2017-11-14 11:02:36.352000 | Program started.
+2017-11-14 11:07:27.578000 | Program started.
+2017-11-14 11:25:57.655000 | Program started.
+2017-11-14 11:26:50.965000 | Program started.
+2017-11-14 11:27:02.433000 | Program started.
+2017-11-14 11:27:19.485000 | Program started.
+2017-11-14 11:44:34.357000 | Program started.
+2017-11-14 11:45:18.669000 | Program started.
+2017-11-14 11:45:29.955000 | Program started.
+2017-11-14 11:46:37.872000 | Program started.
+2017-11-14 11:47:31.583000 | Program started.
+2017-11-14 11:49:27.396000 | Program started.
+2017-11-14 11:49:47.647000 | Program started.
+2017-11-14 11:57:14.191000 | Program started.
+2017-11-14 11:57:48.673000 | Program started.
+2017-11-14 12:00:37.416000 | Program started.
+2017-11-14 12:00:51.836000 | Program started.
+2017-11-14 12:02:23.702000 | Program started.
+2017-11-14 12:03:18.375000 | Program started.
+2017-11-14 12:03:34.776000 | Program started.
+2017-11-14 12:03:46.927000 | Program started.
+2017-11-14 15:11:18.251000 | Program started.
+2017-11-14 15:12:10.166000 | Program started.
+2017-11-14 15:12:45.926000 | Program started.
+2017-11-14 15:14:54.440000 | Program started.
+2017-11-14 15:29:19.395000 | Program started.
+2017-11-14 15:34:42.394000 | Program started.
+2017-11-14 15:49:05.702000 | Program started.
+2017-11-14 15:50:02.729000 | Program started.
+2017-11-14 15:55:40.832000 | Program started.
+2017-11-14 16:06:00.942000 | Program started.
+2017-11-14 16:06:45.044000 | Program started.
+2017-11-14 16:07:02.073000 | Program started.
+2017-11-14 16:07:37.534000 | Program started.
+2017-11-14 16:10:00.695000 | Program started.
+2017-11-14 16:15:45.336000 | Program started.
+2017-11-14 16:21:39.659000 | Program started.
+2017-11-14 16:29:22.015000 | Program started.
+2017-11-14 16:30:56.579000 | Program started.
+2017-11-14 16:34:10.388000 | Program started.
+2017-11-14 16:34:33.514000 | Program started.
+2017-11-16 23:11:33.953000 | Program started.
+2017-11-16 23:12:42.740000 | Program started.
+2017-11-16 23:13:32.555000 | Program started.
+2017-11-16 23:13:37.502000 | Program started.
+2017-11-16 23:13:46.261000 | Program started.
+2017-11-16 23:14:06.120000 | Program started.
+2017-11-16 23:14:16.613000 | Program started.
+2017-11-16 23:15:53.784000 | Program started.
+2017-11-16 23:16:30.898839 | Program started.
+memory : 29102080
+2017-11-16 23:16:56.205184 | Program started.
+memory : 28774400
+2017-11-16 23:20:14.763694 | Program started.
+memory : 28930048
+2017-11-16 23:20:19.621525 | Program started.
+memory : 28708864
+2017-11-16 23:20:23.336350 | Program started.
+memory : 28946432
+2017-11-16 23:20:30.611626 | Program started.
+memory : 28774400
+2017-11-16 23:20:54.721586 | Program started.
+memory : 28856320
+2017-11-16 23:22:48.488601 | Program started.
+memory : 29114368
+2017-11-16 23:24:06.192555 | Program started.
+2017-11-16 23:25:58.724039 | Program started.
+memory : 29016064
+2017-11-16 23:26:12.173315 | Program started.
+memory : 28848128
+2017-11-19 09:49:07.854545 | Program started.
+2017-11-19 12:20:29.901316 | Program started.
+2017-11-19 17:49:49.003616 | Program started.
+memory : 29270016
+2017-11-19 17:54:33.179120 | Program started.
+memory : 28987392
+2017-11-19 23:04:28.086536 | Program started.
+memory : 28946432
+2017-11-19 23:04:39.066329 | Program started.
+memory : 28925952
+2017-11-20 10:30:16.017000 | Program started.
+2017-11-20 10:30:37.007000 | Program started.
+2017-11-20 10:31:23.471000 | Program started.
+2017-11-20 10:31:39.768000 | Program started.
+2017-11-20 10:33:15.906000 | Program started.
+2017-11-20 10:35:02.223000 | Program started.
+2017-11-20 10:37:21.958000 | Program started.
+2017-11-20 10:51:56.327000 | Program started.
+2017-11-20 10:54:13.076000 | Program started.
+2017-11-20 11:12:53.889000 | Program started.
+2017-11-20 11:14:00.440000 | Program started.
+2017-11-20 11:19:11.845000 | Program started.
+2017-11-20 11:23:50.931000 | Program started.
+2017-11-20 11:27:15.237000 | Program started.
+2017-11-20 11:30:26.634000 | Program started.
+2017-11-20 11:37:30.082000 | Program started.
+2017-11-20 11:38:31.896000 | Program started.
+2017-11-20 11:39:33.616000 | Program started.
+2017-11-20 11:53:55.950000 | Program started.
+2017-11-20 11:56:57.281000 | Program started.
+2017-11-20 12:04:06.371000 | Program started.
+2017-11-20 12:14:41.832000 | Program started.
+2017-11-20 16:20:32.077000 | Program started.
+2017-11-20 22:45:42.100000 | Program started.
+2017-11-20 23:00:54.800000 | Program started.
+2017-11-20 23:05:24.535000 | Program started.
+2017-11-20 23:05:44.183000 | Program started.
+2017-11-21 00:20:51.413000 | Program started.
+2017-11-21 08:02:00.256000 | Program started.
+2017-11-21 08:04:07.093000 | Program started.
+2017-11-21 08:12:22.232000 | Program started.
+2017-11-21 08:15:17.985000 | Program started.
+2017-11-21 08:16:07.808000 | Program started.
+2017-11-21 08:17:06.771000 | Program started.
+2017-11-21 09:57:55.367000 | Program started.
+2017-11-21 09:58:18.047000 | Program started.
+2017-11-21 09:58:57.941000 | Program started.
+2017-11-21 09:59:13.498000 | Program started.
+2017-11-21 09:59:36.335000 | Program started.
+2017-11-21 09:59:48.945000 | Program started.
+2017-11-21 10:00:17.002000 | Program started.
+2017-11-21 10:00:41.823000 | Program started.
+2017-11-21 10:01:39.596000 | Program started.
+2017-11-21 10:05:11.558000 | Program started.
+2017-11-21 10:08:15.640000 | Program started.
+2017-11-21 10:12:38.730000 | Program started.
+2017-11-21 10:13:51.403000 | Program started.
+2017-11-21 10:16:59.763000 | Program started.
+2017-11-21 10:19:33.896000 | Program started.
+2017-11-21 10:21:41.462000 | Program started.
+2017-11-21 10:23:47.847000 | Program started.
+2017-11-21 10:27:40.700000 | Program started.
+2017-11-21 10:32:34.089271 | Program started.
+memory : 19439616
+2017-11-21 10:40:03.237000 | Program started.
+2017-11-21 10:40:23.540000 | Program started.
+2017-11-21 10:41:18.716000 | Program started.
+2017-11-21 10:41:45.840000 | Program started.
+2017-11-21 10:48:14.811000 | Program started.
+2017-11-21 10:48:37.272000 | Program started.
+2017-11-21 11:03:09.321000 | Program started.
+2017-11-21 11:03:39.420000 | Program started.
+2017-11-21 11:06:21.090000 | Program started.
+2017-11-21 11:08:19.841000 | Program started.
+2017-11-21 11:09:55.055000 | Program started.
+2017-11-21 11:21:08.929000 | Program started.
+2017-11-21 11:28:41.191000 | Program started.
+2017-11-21 11:29:12.714000 | Program started.
+2017-11-21 11:30:33.677000 | Program started.
+2017-11-21 11:31:01.680000 | Program started.
+2017-11-21 11:31:32.333000 | Program started.
+2017-11-21 11:33:20.396000 | Program started.
+2017-11-21 11:34:08.816000 | Program started.
+2017-11-21 11:51:07.823000 | Program started.
+2017-11-21 13:32:24.835000 | Program started.
+2017-11-21 14:18:45.137000 | Program started.
+2017-11-21 14:19:41.042000 | Program started.
+2017-11-21 14:35:06.813000 | Program started.
+2017-11-21 14:35:31.800000 | Program started.
+2017-11-21 15:17:37.998000 | Program started.
+2017-11-21 15:21:34.924000 | Program started.
+2017-11-21 15:24:53.190000 | Program started.
+2017-11-21 15:25:53.410000 | Program started.
+2017-11-21 15:26:24.862000 | Program started.
+2017-11-21 15:28:21.315000 | Program started.
+2017-11-21 15:28:38.398000 | Program started.
+2017-11-21 15:29:40.905000 | Program started.
+2017-11-21 15:33:33.403000 | Program started.
+2017-11-21 15:34:08.623000 | Program started.
+2017-11-21 15:36:19.522000 | Program started.
+2017-11-21 15:37:18.207000 | Program started.
+2017-11-21 15:39:47.440000 | Program started.
+2017-11-21 15:43:17.572000 | Program started.
+2017-11-21 15:48:37.867000 | Program started.
+2017-11-21 15:49:05.424000 | Program started.
+2017-11-21 15:49:55.145000 | Program started.
+2017-11-21 15:50:18.094000 | Program started.
+2017-11-21 15:51:10.997000 | Program started.
+2017-11-21 15:52:13.376000 | Program started.
+2017-11-21 16:04:05.205000 | Program started.
+2017-11-21 16:04:22.862000 | Program started.
+2017-11-21 16:04:35.608000 | Program started.
+2017-11-21 16:06:12.647000 | Program started.
+2017-11-21 16:09:38.589000 | Program started.
+2017-11-21 16:10:49.039000 | Program started.
+2017-11-21 19:35:10.121000 | Program started.
+2017-11-21 19:35:39.139000 | Program started.
+2017-11-21 19:36:31.893000 | Program started.
+2017-11-21 19:36:54.390000 | Program started.
+2017-11-21 20:53:50.138000 | Program started.
+2017-11-21 21:00:09.863000 | Program started.
+2017-11-21 21:01:26.217000 | Program started.
+2017-11-21 21:02:41.309000 | Program started.
+2017-11-21 21:18:31.896000 | Program started.
+2017-11-21 21:21:04.819000 | Program started.
+2017-11-21 21:40:51.666000 | Program started.
+2017-11-21 21:48:35.732000 | Program started.
+2017-11-21 22:37:24.775000 | Program started.
+2017-11-21 22:40:19.595000 | Program started.
+2017-11-21 22:40:29.117000 | Program started.
+2017-11-21 22:42:24.018000 | Program started.
+2017-11-21 22:42:37.652000 | Program started.
+2017-11-21 22:43:08.049000 | Program started.
+2017-11-21 22:46:58.819000 | Program started.
+2017-11-21 23:01:17.060000 | Program started.
+2017-11-21 23:06:04.786000 | Program started.
+2017-11-21 23:06:42.515000 | Program started.
+2017-11-21 23:07:38.619000 | Program started.
+2017-11-21 23:07:51.152000 | Program started.
+2017-11-21 23:09:05.181000 | Program started.
+2017-11-21 23:10:30.357000 | Program started.
+2017-11-21 23:19:19.219000 | Program started.
+2017-11-21 23:21:18.873000 | Program started.
+2017-11-21 23:22:16.640000 | Program started.
+2017-11-21 23:27:06.824000 | Program started.
+2017-11-21 23:30:16.012000 | Program started.
+2017-11-21 23:31:12.363000 | Program started.
+2017-11-21 23:31:34.840000 | Program started.
+2017-11-22 08:10:06.652000 | Program started.
+2017-11-22 08:10:49.317000 | Program started.
+2017-11-22 08:12:09.132000 | Program started.
+2017-11-22 08:16:25.725000 | Program started.
+2017-11-22 08:16:46.772000 | Program started.
+2017-11-22 09:09:23.823000 | Program started.
+2017-11-22 09:10:01.527000 | Program started.
+2017-11-22 09:12:22.419000 | Program started.
+2017-11-22 09:12:39.575000 | Program started.
+2017-11-22 09:12:48.443000 | Program started.
+2017-11-22 09:12:55.074000 | Program started.
+2017-11-22 09:13:04.250000 | Program started.
+2017-11-22 09:13:14.898000 | Program started.
+2017-11-22 09:13:23.305000 | Program started.
+2017-11-22 09:13:33.577000 | Program started.
+2017-11-22 09:13:54.640000 | Program started.
+2017-11-22 09:14:14.886000 | Program started.
+2017-11-22 09:14:23.821000 | Program started.
+2017-11-22 09:14:34.309000 | Program started.
+2017-11-22 09:14:44.674000 | Program started.
+2017-11-22 09:15:03.620000 | Program started.
+2017-11-22 09:24:14.307000 | Program started.
+2017-11-22 09:27:48.467000 | Program started.
+2017-11-22 09:27:59.933000 | Program started.
+2017-11-22 09:28:07.174000 | Program started.
+2017-11-22 09:28:14.233000 | Program started.
+2017-11-22 09:30:46.777000 | Program started.
+2017-11-22 09:34:31.009000 | Program started.
+2017-11-22 09:35:33.409000 | Program started.
+2017-11-22 09:38:45.337000 | Program started.
+2017-11-22 09:41:18.389000 | Program started.
+2017-11-22 10:04:15.025000 | Program started.
+2017-11-22 10:04:34.154000 | Program started.
+2017-11-22 10:05:28.087000 | Program started.
+2017-11-22 10:43:57.420000 | Program started.
+2017-11-22 10:44:09.464000 | Program started.
+2017-11-22 10:44:26.554000 | Program started.
+2017-11-22 10:53:30.129000 | Program started.
+2017-11-22 10:54:23.263000 | Program started.
+2017-11-22 10:54:49.613000 | Program started.
+2017-11-22 11:06:19.156000 | Program started.
+2017-11-22 11:06:51.697000 | Program started.
+2017-11-22 11:07:08.005000 | Program started.
+2017-11-22 11:43:03.147000 | Program started.
+2017-11-22 11:52:00.102000 | Program started.
+2017-11-22 11:54:25.866000 | Program started.
+2017-11-22 15:18:41.524000 | Program started.
+2017-11-22 15:18:53.027000 | Program started.
+2017-11-22 15:19:35.392000 | Program started.
+2017-11-22 15:19:45.386000 | Program started.
+2017-11-22 15:20:35.068000 | Program started.
+2017-11-22 15:21:12.794000 | Program started.
+2017-11-22 15:21:41.777000 | Program started.
+2017-11-22 15:39:57.499000 | Program started.
+2017-11-22 15:40:52.926000 | Program started.
+2017-11-22 15:41:44.276000 | Program started.
+2017-11-22 15:45:19.552000 | Program started.
+2017-11-22 15:49:58.031000 | Program started.
+2017-11-22 15:54:52.725000 | Program started.
+2017-11-22 15:55:32.776000 | Program started.
+2017-11-22 15:58:41.770000 | Program started.
+2017-11-22 16:00:36.854000 | Program started.
+2017-11-22 16:11:33.681000 | Program started.
+2017-11-22 16:19:12.724000 | Program started.
+2017-11-23 00:10:04.081000 | Program started.
+2017-11-23 00:10:35.673000 | Program started.
+2017-11-23 00:10:55.180000 | Program started.
+2017-11-23 00:11:23.292000 | Program started.
+2017-11-23 00:11:41.210000 | Program started.
+2017-11-23 00:12:10.783000 | Program started.
+2017-11-23 00:13:04.674000 | Program started.
+2017-11-23 00:16:28.738000 | Program started.
+2017-11-23 00:18:29.484000 | Program started.
+2017-11-23 00:18:44.324000 | Program started.
+2017-11-23 00:19:07.195000 | Program started.
+2017-11-23 00:20:17.121000 | Program started.
+2017-11-23 00:20:31.890000 | Program started.
+2017-11-23 00:28:53.315000 | Program started.
+2017-11-23 00:29:09.023000 | Program started.
+2017-11-23 00:29:20.939000 | Program started.
+2017-11-23 00:29:49.182000 | Program started.
+2017-11-23 00:31:19.633000 | Program started.
+2017-11-23 00:36:34.004000 | Program started.
+2017-11-23 00:36:49.424000 | Program started.
+2017-11-23 00:38:18.180000 | Program started.
+2017-11-23 00:38:33.066000 | Program started.
+2017-11-23 00:40:39.842000 | Program started.
+2017-11-23 00:41:22.948000 | Program started.
+2017-11-23 00:42:40.427000 | Program started.
+2017-11-23 00:43:24.595000 | Program started.
+2017-11-23 00:44:10.367000 | Program started.
+2017-11-23 00:44:58.384000 | Program started.
+2017-11-23 00:45:38.412000 | Program started.
+2017-11-23 01:02:04.895000 | Program started.
+2017-11-23 01:02:26.455000 | Program started.
+2017-11-23 01:02:40.773000 | Program started.
+2017-11-23 01:08:42.168000 | Program started.
+2017-11-23 01:09:00.944000 | Program started.
+2017-11-23 01:24:08.222000 | Program started.
+2017-11-23 07:58:15.159000 | Program started.
+2017-11-23 08:07:31.978000 | Program started.
+2017-11-23 08:08:05.430000 | Program started.
+2017-11-23 08:08:15.328000 | Program started.
+2017-11-23 08:21:05.098000 | Program started.
+2017-11-23 08:21:16.854000 | Program started.
+2017-11-23 08:21:47.781000 | Program started.
+2017-11-23 08:22:21.943000 | Program started.
+2017-11-23 08:22:35.765000 | Program started.
+2017-11-23 08:23:13.149000 | Program started.
+2017-11-23 08:25:41.900000 | Program started.
+2017-11-23 08:26:13.060000 | Program started.
+2017-11-23 08:59:26.166000 | Program started.
+2017-11-23 09:02:05.050000 | Program started.
+2017-11-23 09:03:17.386000 | Program started.
+2017-11-23 09:04:01.811000 | Program started.
+2017-11-23 09:04:11.423000 | Program started.
+2017-11-23 09:04:36.552000 | Program started.
+2017-11-23 09:06:32.387000 | Program started.
+2017-11-23 09:08:14.078000 | Program started.
+2017-11-23 09:08:39.272000 | Program started.
+2017-11-23 09:09:02.661000 | Program started.
+2017-11-23 09:09:15.783000 | Program started.
+2017-11-23 09:09:56.066000 | Program started.
+2017-11-23 09:11:48.839000 | Program started.
+2017-11-23 09:11:58.649000 | Program started.
+2017-11-23 09:12:22.927000 | Program started.
+2017-11-23 09:12:32.794000 | Program started.
+2017-11-23 10:55:17.697000 | Program started.
+2017-11-23 11:01:14.657000 | Program started.
+2017-11-23 11:01:26.134000 | Program started.
+2017-11-23 11:02:31.271000 | Program started.
+2017-11-23 11:04:02.512000 | Program started.
+2017-11-23 11:04:23.760000 | Program started.
+2017-11-23 11:04:42.059000 | Program started.
+2017-11-23 11:08:09.598000 | Program started.
+2017-11-23 11:08:48.155000 | Program started.
+2017-11-23 11:12:01.726000 | Program started.
+2017-11-23 11:18:26.473000 | Program started.
+2017-11-23 11:18:54.477000 | Program started.
+2017-11-23 11:20:11.750000 | Program started.
+2017-11-23 11:20:36.687000 | Program started.
+2017-11-23 11:22:26.132000 | Program started.
+2017-11-23 11:22:45.296000 | Program started.
+2017-11-23 11:24:22.753000 | Program started.
+2017-11-23 11:27:58.090000 | Program started.
+2017-11-23 11:28:22.689000 | Program started.
+2017-11-23 11:36:38.033000 | Program started.
+2017-11-23 11:40:25.582000 | Program started.
+2017-11-23 11:40:58.848000 | Program started.
+2017-11-23 11:41:32.248000 | Program started.
+2017-11-23 11:41:45.403000 | Program started.
+2017-11-23 11:44:03.146000 | Program started.
+2017-11-23 11:46:53.251000 | Program started.
+2017-11-23 11:47:22.432000 | Program started.
+2017-11-23 11:48:05.804000 | Program started.
+2017-11-23 11:48:17.729000 | Program started.
+2017-11-23 11:50:01.531000 | Program started.
+2017-11-23 11:57:31.835000 | Program started.
+2017-11-23 12:02:52.570000 | Program started.
+2017-11-23 12:03:12.499000 | Program started.
+2017-11-23 12:03:51.915000 | Program started.
+2017-11-23 12:04:16.997000 | Program started.
+2017-11-23 12:07:09.316000 | Program started.
+2017-11-23 12:07:45.427000 | Program started.
+2017-11-23 12:09:02.654000 | Program started.
+2017-11-23 12:09:32.891000 | Program started.
+2017-11-23 12:12:19.564000 | Program started.
+2017-11-23 13:38:00.063000 | Program started.
+2017-11-23 13:38:37.804000 | Program started.
+2017-11-23 13:39:57.357000 | Program started.
+2017-11-23 13:42:08.633000 | Program started.
+2017-11-23 13:42:22.469000 | Program started.
+2017-11-23 13:44:30.899000 | Program started.
+2017-11-23 13:44:51.582000 | Program started.
+2017-11-23 13:51:15.167000 | Program started.
+2017-11-23 13:53:14.979000 | Program started.
+2017-11-23 13:57:13.752000 | Program started.
+2017-11-23 14:23:30.306000 | Program started.
+2017-11-23 14:24:57.227000 | Program started.
+2017-11-23 14:44:32.415000 | Program started.
+2017-11-23 14:48:57.240000 | Program started.
+2017-11-23 14:49:27.698000 | Program started.
+2017-11-23 14:49:42.641000 | Program started.
+2017-11-23 15:15:58.021000 | Program started.
+2017-11-23 15:28:58.441000 | Program started.
+2017-11-23 15:29:30.171000 | Program started.
+2017-11-23 15:29:48.509000 | Program started.
+2017-11-23 15:31:08.181000 | Program started.
+2017-11-23 15:36:16.914000 | Program started.
+2017-11-23 15:36:54.014000 | Program started.
+2017-11-23 15:37:22.563000 | Program started.
+2017-11-23 15:39:10.697000 | Program started.
+2017-11-23 15:39:32.693000 | Program started.
+2017-11-23 16:00:49.235000 | Program started.
+2017-11-23 16:01:18.864000 | Program started.
+2017-11-23 16:02:06.082000 | Program started.
+2017-11-23 16:02:47.864000 | Program started.
+2017-11-23 16:06:17.480000 | Program started.
+2017-11-23 16:06:56.233000 | Program started.
+2017-11-23 16:07:56.421000 | Program started.
+2017-11-23 16:08:41.791000 | Program started.
+2017-11-23 16:19:33.324000 | Program started.
+2017-11-23 16:24:14.917000 | Program started.
+2017-11-23 21:33:25.667000 | Program started.
+2017-11-23 21:35:37.530000 | Program started.
+2017-11-23 21:37:11.526000 | Program started.
+2017-11-23 21:44:50.277000 | Program started.
+2017-11-23 21:45:55.205000 | Program started.
+2017-11-23 22:02:42.990000 | Program started.
+2017-11-23 22:02:55.692000 | Program started.
+2017-11-24 00:02:52.820000 | Program started.
+2017-11-24 00:12:41.521000 | Program started.
+2017-11-24 00:12:56.688000 | Program started.
+2017-11-24 00:13:41.950000 | Program started.
+2017-11-24 00:16:12.207000 | Program started.
+2017-11-24 00:21:55.435000 | Program started.
+2017-11-24 00:25:07.011000 | Program started.
+2017-11-24 00:26:19.663000 | Program started.
+2017-11-24 00:39:19.177000 | Program started.
+2017-11-24 00:39:35.647000 | Program started.
+2017-11-24 00:45:49.494000 | Program started.
+2017-11-24 00:46:16.961000 | Program started.
+2017-11-24 00:46:59.418000 | Program started.
+2017-11-24 00:47:41.514000 | Program started.
+2017-11-24 00:47:57.090000 | Program started.
+2017-11-24 00:49:05.960000 | Program started.
+2017-11-24 00:49:20.510000 | Program started.
+2017-11-24 00:49:29.144000 | Program started.
+2017-11-24 03:38:26.827000 | Program started.
+2017-11-24 08:16:05.182000 | Program started.
+2017-11-12 11:43:11.112000 | Program started.
+time : {duration}
+2017-11-12 11:44:39.516000 | Program started.
+time : {duration}
+2017-11-12 11:44:51.937000 | Program started.
+time : {duration}
+2017-11-12 11:45:33.687000 | Program started.
+time : {duration}
+2017-11-12 11:45:47.885000 | Program started.
+time : {duration}
+2017-11-12 11:47:49.833000 | Program started.
+time : {duration}
+2017-11-12 11:48:11.838000 | Program started.
+time : {duration}
+2017-11-12 11:50:52.910000 | Program started.
+time : {duration}
+2017-11-12 13:10:40.834650 | Program started.
+2017-11-12 13:10:54.596315 | Program started.
+2017-11-12 13:11:11.164223 | Program started.
+2017-11-12 13:12:34.033706 | Program started.
+2017-11-12 13:13:07.359748 | Program started.
+time : {duration}
+2017-11-12 13:22:08.074097 | Program started.
+time : {duration}
+2017-11-12 14:14:21.111484 | Program started.
+2017-11-12 14:14:44.004429 | Program started.
+2017-11-12 14:14:53.627412 | Program started.
+2017-11-12 14:15:33.185823 | Program started.
+time : {duration}
+2017-11-12 15:49:13.516369 | Program started.
+time : {duration}
+2017-11-12 15:49:41.345597 | Program started.
+time : {duration}
+2017-11-12 15:51:10.179147 | Program started.
+time : {duration}
+2017-11-12 15:57:10.169070 | Program started.
+2017-11-12 15:57:30.026993 | Program started.
+time : {duration}
+2017-11-12 15:58:05.807345 | Program started.
+time : {duration}
+2017-11-12 16:00:04.467812 | Program started.
+time : {duration}
+2017-11-12 16:59:37.528264 | Program started.
+2017-11-12 17:00:06.569114 | Program started.
+2017-11-12 17:02:32.962640 | Program started.
+2017-11-12 17:04:54.419732 | Program started.
+2017-11-12 17:06:20.188056 | Program started.
+time : {duration}
+2017-11-12 17:07:31.467598 | Program started.
+time : {duration}
+2017-11-12 17:07:46.531557 | Program started.
+2017-11-12 17:10:07.984691 | Program started.
+2017-11-12 17:11:04.138216 | Program started.
+2017-11-12 17:12:13.303038 | Program started.
+time : {duration}
+2017-11-12 17:33:28.802268 | Program started.
+2017-11-12 17:36:55.907561 | Program started.
+time : {duration}
+2017-11-12 17:38:57.467282 | Program started.
+time : {duration}
+2017-11-12 17:39:32.022185 | Program started.
+time : {duration}
+2017-11-12 17:42:47.920106 | Program started.
+time : {duration}
+2017-11-12 17:44:37.199504 | Program started.
+time : {duration}
+2017-11-12 17:44:55.326076 | Program started.
+time : {duration}
+2017-11-12 17:46:40.337397 | Program started.
+time : {duration}
+2017-11-12 17:47:01.434467 | Program started.
+time : {duration}
+2017-11-12 17:50:23.204673 | Program started.
+2017-11-12 17:52:01.234058 | Program started.
+2017-11-12 17:52:17.463676 | Program started.
+time : {duration}
+2017-11-12 17:52:39.285064 | Program started.
+time : {duration}
+2017-11-12 17:53:12.657789 | Program started.
+time : {duration}
+2017-11-12 17:54:56.377883 | Program started.
+time : {duration}
+2017-11-12 17:55:20.100271 | Program started.
+time : {duration}
+2017-11-12 17:55:54.716319 | Program started.
+time : {duration}
+2017-11-12 17:56:02.752384 | Program started.
+2017-11-12 17:56:15.498757 | Program started.
+time : {duration}
+2017-11-12 17:56:30.399840 | Program started.
+time : {duration}
+2017-11-12 17:56:36.458355 | Program started.
+time : {duration}
+2017-11-12 17:59:02.815509 | Program started.
+time : {duration}
+2017-11-12 18:01:30.491213 | Program started.
+time : {duration}
+2017-11-12 18:04:31.135945 | Program started.
+time : {duration}
+2017-11-12 18:04:42.392532 | Program started.
+time : {duration}
+2017-11-12 18:04:54.392086 | Program started.
+time : {duration}
+2017-11-12 18:05:26.141465 | Program started.
+time : {duration}
+2017-11-12 18:06:04.285066 | Program started.
+time : {duration}
+2017-11-12 18:29:18.174618 | Program started.
+time : {duration}
+2017-11-12 18:34:34.407164 | Program started.
+time : {duration}
+2017-11-12 20:12:13.153076 | Program started.
+time : {duration}
+2017-11-12 20:12:19.121324 | Program started.
+time : {duration}
+2017-11-12 20:13:03.706793 | Program started.
+time : {duration}
+2017-11-12 20:13:18.418609 | Program started.
+2017-11-12 20:13:45.577158 | Program started.
+2017-11-12 20:14:11.886515 | Program started.
+2017-11-12 20:14:56.029265 | Program started.
+2017-11-12 20:29:12.970394 | Program started.
+2017-11-12 20:30:03.477347 | Program started.
+time : {duration}
+2017-11-12 20:32:08.733628 | Program started.
+time : {duration}
+2017-11-12 20:39:57.407551 | Program started.
+time : {duration}
+2017-11-12 20:40:17.669882 | Program started.
+time : {duration}
+2017-11-12 20:41:57.801626 | Program started.
+time : {duration}
+2017-11-12 20:49:39.954698 | Program started.
+time : {duration}
+2017-11-12 21:27:11.378838 | Program started.
+time : {duration}
+2017-11-12 21:34:20.927182 | Program started.
+time : {duration}
+2017-11-12 21:36:05.547862 | Program started.
+time : {duration}
+2017-11-12 21:37:50.333350 | Program started.
+time : {duration}
+2017-11-12 21:39:32.654509 | Program started.
+time : {duration}
+2017-11-12 21:39:50.975533 | Program started.
+time : {duration}
+2017-11-12 21:39:51.205752 | Program started.
+time : {duration}
+2017-11-12 21:40:07.675149 | Program started.
+time : {duration}
+2017-11-12 21:40:07.918331 | Program started.
+time : {duration}
+2017-11-12 21:41:18.484527 | Program started.
+time : {duration}
+2017-11-12 21:41:18.704709 | Program started.
+time : {duration}
+2017-11-12 21:49:30.612221 | Program started.
+time : {duration}
+2017-11-12 21:49:30.897423 | Program started.
+time : {duration}
+2017-11-12 21:51:19.600219 | Program started.
+time : {duration}
+2017-11-12 21:51:32.326175 | Program started.
+time : {duration}
+2017-11-12 21:51:52.880913 | Program started.
+time : {duration}
+2017-11-12 21:52:04.448794 | Program started.
+time : {duration}
+2017-11-12 21:52:18.781904 | Program started.
+time : {duration}
+2017-11-12 21:52:51.297611 | Program started.
+time : {duration}
+2017-11-12 21:53:00.029995 | Program started.
+time : {duration}
+2017-11-12 21:53:14.399705 | Program started.
+time : {duration}
+2017-11-12 21:53:33.362619 | Program started.
+time : {duration}
+2017-11-12 21:54:27.561358 | Program started.
+time : {duration}
+2017-11-12 21:54:48.902163 | Program started.
+time : {duration}
+2017-11-12 21:54:59.028430 | Program started.
+time : {duration}
+2017-11-12 21:56:32.928504 | Program started.
+time : {duration}
+2017-11-12 21:57:11.486758 | Program started.
+time : {duration}
+2017-11-12 21:59:10.286352 | Program started.
+time : {duration}
+2017-11-12 21:59:59.543259 | Program started.
+time : {duration}
+2017-11-12 22:01:46.269854 | Program started.
+time : {duration}
+2017-11-12 22:02:31.518936 | Program started.
+time : {duration}
+2017-11-12 22:03:35.915051 | Program started.
+time : {duration}
+2017-11-12 22:07:26.330306 | Program started.
+time : {duration}
+2017-11-12 22:08:19.028324 | Program started.
+time : {duration}
+2017-11-12 22:09:18.490800 | Program started.
+time : {duration}
+2017-11-12 22:09:44.752464 | Program started.
+time : {duration}
+2017-11-12 22:10:19.015888 | Program started.
+time : {duration}
+2017-11-12 22:12:54.633392 | Program started.
+time : {duration}
+2017-11-12 22:13:22.521849 | Program started.
+time : {duration}
+2017-11-12 22:13:32.826756 | Program started.
+time : {duration}
+2017-11-12 22:14:07.210489 | Program started.
+time : {duration}
+2017-11-12 22:26:43.742677 | Program started.
+time : {duration}
+2017-11-12 22:27:07.618190 | Program started.
+time : {duration}
+2017-11-12 22:51:21.930674 | Program started.
+time : {duration}
+2017-11-12 22:57:08.331426 | Program started.
+time : {duration}
+2017-11-12 23:08:40.159903 | Program started.
+time : {duration}
+2017-11-12 23:11:12.884549 | Program started.
+time : {duration}
+2017-11-12 23:11:23.660007 | Program started.
+time : {duration}
+2017-11-12 23:11:32.644006 | Program started.
+time : {duration}
+2017-11-12 23:12:01.425502 | Program started.
+time : {duration}
+2017-11-12 23:12:33.757555 | Program started.
+time : {duration}
+2017-11-12 23:12:45.122590 | Program started.
+time : {duration}
+2017-11-12 23:13:19.274276 | Program started.
+time : {duration}
+2017-11-12 23:21:36.117596 | Program started.
+time : {duration}
+2017-11-12 23:23:01.452681 | Program started.
+time : {duration}
+2017-11-12 23:28:02.548696 | Program started.
+time : {duration}
+2017-11-12 23:28:49.480559 | Program started.
+time : {duration}
+2017-11-12 23:28:57.645630 | Program started.
+time : {duration}
+2017-11-12 23:31:22.091393 | Program started.
+time : {duration}
+2017-11-12 23:32:06.610076 | Program started.
+time : {duration}
+2017-11-12 23:32:44.708380 | Program started.
+time : {duration}
+2017-11-12 23:33:23.524087 | Program started.
+time : {duration}
+2017-11-12 23:33:36.838526 | Program started.
+time : {duration}
+2017-11-12 23:34:59.469696 | Program started.
+time : {duration}
+2017-11-12 23:35:09.885480 | Program started.
+time : {duration}
+2017-11-12 23:36:01.540132 | Program started.
+time : {duration}
+2017-11-12 23:36:09.607467 | Program started.
+time : {duration}
+2017-11-12 23:37:18.150241 | Program started.
+time : {duration}
+2017-11-13 00:21:06.181244 | Program started.
+2017-11-13 00:22:55.009341 | Program started.
+time : {duration}
+2017-11-13 00:26:05.997938 | Program started.
+2017-11-13 00:28:28.984666 | Program started.
+2017-11-13 00:30:07.014315 | Program started.
+time : {duration}
+2017-11-13 00:32:09.593656 | Program started.
+time : {duration}
+2017-11-13 00:34:18.042093 | Program started.
+time : {duration}
+2017-11-13 00:37:33.188639 | Program started.
+time : {duration}
+2017-11-13 00:37:53.482140 | Program started.
+time : {duration}
+2017-11-13 00:38:08.108385 | Program started.
+time : {duration}
+2017-11-13 00:38:43.759760 | Program started.
+time : {duration}
+2017-11-13 00:39:21.009822 | Program started.
+2017-11-13 00:39:25.072333 | Program started.
+time : {duration}
+2017-11-13 00:39:49.027754 | Program started.
+time : {duration}
+2017-11-13 00:41:30.616014 | Program started.
+time : {duration}
+2017-11-13 00:42:54.704484 | Program started.
+time : {duration}
+2017-11-13 00:43:10.721447 | Program started.
+time : {duration}
+2017-11-13 00:44:55.575514 | Program started.
+time : {duration}
+2017-11-13 00:56:25.390433 | Program started.
+2017-11-13 00:58:43.150884 | Program started.
+time : {duration}
+2017-11-13 01:09:15.932576 | Program started.
+time : {duration}
+2017-11-13 01:11:18.901196 | Program started.
+2017-11-13 01:13:19.841304 | Program started.
+2017-11-13 01:14:10.767544 | Program started.
+time : {duration}
+2017-11-13 01:15:50.474688 | Program started.
+time : {duration}
+2017-11-13 01:18:15.880834 | Program started.
+time : {duration}
+2017-11-13 01:19:04.838951 | Program started.
+time : {duration}
+2017-11-13 01:26:17.895377 | Program started.
+time : {duration}
+2017-11-13 01:29:04.409316 | Program started.
+time : {duration}
+2017-11-13 01:30:06.015449 | Program started.
+time : {duration}
+2017-11-13 01:31:37.650110 | Program started.
+time : {duration}
+2017-11-13 01:31:53.107277 | Program started.
+time : {duration}
+2017-11-13 01:36:29.114192 | Program started.
+2017-11-13 01:37:09.347893 | Program started.
+2017-11-13 01:46:08.262486 | Program started.
+2017-11-13 01:48:04.901700 | Program started.
+2017-11-13 01:59:16.825648 | Program started.
+2017-11-13 02:05:43.778029 | Program started.
+time : {duration}
+2017-11-13 02:08:21.748705 | Program started.
+time : {duration}
+2017-11-13 02:09:17.938181 | Program started.
+time : {duration}
+2017-11-13 02:09:37.296460 | Program started.
+time : {duration}
+2017-11-13 02:11:04.242584 | Program started.
+time : {duration}
+2017-11-13 02:18:38.935628 | Program started.
+time : {duration}
+2017-11-13 02:25:53.849000 | Program started.
+2017-11-13 02:26:57.412000 | Program started.
+2017-11-13 02:29:17.450738 | Program started.
+time : {duration}
+2017-11-13 08:53:37.996000 | Program started.
+2017-11-13 08:56:57.553000 | Program started.
+2017-11-13 08:57:09.659000 | Program started.
+2017-11-13 08:59:23.241000 | Program started.
+2017-11-13 08:59:33.522000 | Program started.
+2017-11-13 09:00:25.084000 | Program started.
+2017-11-13 09:00:43.244000 | Program started.
+2017-11-13 09:03:41.313000 | Program started.
+2017-11-13 09:04:30.016000 | Program started.
+2017-11-13 09:06:26.062000 | Program started.
+2017-11-13 09:07:30.522000 | Program started.
+time : {duration}
+2017-11-13 09:09:25.242000 | Program started.
+time : {duration}
+2017-11-13 09:10:27.130000 | Program started.
+time : {duration}
+2017-11-13 09:11:25.225000 | Program started.
+time : {duration}
+2017-11-13 09:11:47.337000 | Program started.
+time : {duration}
+2017-11-13 09:14:28.766000 | Program started.
+time : {duration}
+2017-11-13 09:19:44.422000 | Program started.
+time : {duration}
+2017-11-13 09:22:08.150000 | Program started.
+time : {duration}
+2017-11-13 09:40:43.202000 | Program started.
+time : {duration}
+2017-11-13 10:08:22.260000 | Program started.
+time : {duration}
+2017-11-13 10:08:45.139000 | Program started.
+time : {duration}
+2017-11-13 10:18:02.548000 | Program started.
+time : {duration}
+2017-11-13 10:19:52.425000 | Program started.
+time : {duration}
+2017-11-13 10:22:57.539000 | Program started.
+time : {duration}
+2017-11-13 10:41:55.811000 | Program started.
+time : {duration}
+2017-11-13 10:44:25.781000 | Program started.
+time : {duration}
+2017-11-13 10:45:30.449000 | Program started.
+time : {duration}
+2017-11-13 11:15:18.106000 | Program started.
+time : {duration}
+2017-11-13 11:15:27.413000 | Program started.
+time : {duration}
+2017-11-13 11:17:08.908000 | Program started.
+time : {duration}
+2017-11-13 11:17:57.977000 | Program started.
+time : {duration}
+2017-11-13 11:19:24.121000 | Program started.
+time : {duration}
+2017-11-13 11:31:05.713000 | Program started.
+time : {duration}
+2017-11-13 11:43:41.923000 | Program started.
+time : {duration}
+2017-11-13 11:44:06.919000 | Program started.
+time : {duration}
+2017-11-13 11:44:25.259000 | Program started.
+time : {duration}
+2017-11-13 11:44:58.651000 | Program started.
+time : {duration}
+2017-11-13 11:52:56.324000 | Program started.
+time : {duration}
+2017-11-13 11:57:32.269000 | Program started.
+time : {duration}
+2017-11-13 12:03:15.421000 | Program started.
+time : {duration}
+2017-11-13 13:28:48.781000 | Program started.
+time : {duration}
+2017-11-13 13:28:58.770000 | Program started.
+time : {duration}
+2017-11-13 13:53:46.522000 | Program started.
+2017-11-13 13:56:10.645000 | Program started.
+time : {duration}
+2017-11-13 13:57:51.682000 | Program started.
+time : {duration}
+2017-11-13 14:08:09.090000 | Program started.
+time : {duration}
+2017-11-13 15:22:19.673000 | Program started.
+2017-11-13 15:23:30.496000 | Program started.
+2017-11-13 15:26:00.142000 | Program started.
+2017-11-13 15:28:54.526000 | Program started.
+time : {duration}
+2017-11-13 15:29:44.792000 | Program started.
+time : {duration}
+2017-11-13 15:31:12.869000 | Program started.
+time : {duration}
+2017-11-13 15:33:54.094000 | Program started.
+2017-11-13 15:37:20.726000 | Program started.
+2017-11-13 15:43:25.295000 | Program started.
+2017-11-13 15:44:12.709000 | Program started.
+2017-11-13 15:46:01.390000 | Program started.
+2017-11-13 15:50:41.946000 | Program started.
+time : {duration}
+2017-11-13 15:59:00.530000 | Program started.
+2017-11-13 15:59:53.635000 | Program started.
+2017-11-13 16:00:14.679000 | Program started.
+2017-11-13 16:30:42.985000 | Program started.
+2017-11-13 16:31:53.714000 | Program started.
+2017-11-13 16:32:14.420000 | Program started.
+time : {duration}
+2017-11-13 16:32:35.089000 | Program started.
+time : {duration}
+2017-11-13 16:34:42.265000 | Program started.
+time : {duration}
+2017-11-13 16:35:31.832000 | Program started.
+time : {duration}
+2017-11-13 16:35:48.380000 | Program started.
+time : {duration}
+2017-11-14 06:59:38.151000 | Program started.
+2017-11-14 07:04:57.907380 | Program started.
+time : {duration}
+2017-11-14 07:11:19.743896 | Program started.
+memory : 30019584
+2017-11-14 07:11:54.131179 | Program started.
+memory : 29052928
+2017-11-14 07:13:27.354315 | Program started.
+memory : 29093888
+2017-11-14 07:21:44.514826 | Program started.
+2017-11-14 07:31:18.660797 | Program started.
+2017-11-14 10:35:50.721000 | Program started.
+2017-11-14 10:38:53.743000 | Program started.
+2017-11-14 10:39:18.484000 | Program started.
+2017-11-14 10:58:17.290000 | Program started.
+2017-11-14 11:02:36.352000 | Program started.
+2017-11-14 11:07:27.578000 | Program started.
+2017-11-14 11:25:57.655000 | Program started.
+2017-11-14 11:26:50.965000 | Program started.
+2017-11-14 11:27:02.433000 | Program started.
+2017-11-14 11:27:19.485000 | Program started.
+2017-11-14 11:44:34.357000 | Program started.
+2017-11-14 11:45:18.669000 | Program started.
+2017-11-14 11:45:29.955000 | Program started.
+2017-11-14 11:46:37.872000 | Program started.
+2017-11-14 11:47:31.583000 | Program started.
+2017-11-14 11:49:27.396000 | Program started.
+2017-11-14 11:49:47.647000 | Program started.
+2017-11-14 11:57:14.191000 | Program started.
+2017-11-14 11:57:48.673000 | Program started.
+2017-11-14 12:00:37.416000 | Program started.
+2017-11-14 12:00:51.836000 | Program started.
+2017-11-14 12:02:23.702000 | Program started.
+2017-11-14 12:03:18.375000 | Program started.
+2017-11-14 12:03:34.776000 | Program started.
+2017-11-14 12:03:46.927000 | Program started.
+2017-11-14 15:11:18.251000 | Program started.
+2017-11-14 15:12:10.166000 | Program started.
+2017-11-14 15:12:45.926000 | Program started.
+2017-11-14 15:14:54.440000 | Program started.
+2017-11-14 15:29:19.395000 | Program started.
+2017-11-14 15:34:42.394000 | Program started.
+2017-11-14 15:49:05.702000 | Program started.
+2017-11-14 15:50:02.729000 | Program started.
+2017-11-14 15:55:40.832000 | Program started.
+2017-11-14 16:06:00.942000 | Program started.
+2017-11-14 16:06:45.044000 | Program started.
+2017-11-14 16:07:02.073000 | Program started.
+2017-11-14 16:07:37.534000 | Program started.
+2017-11-14 16:10:00.695000 | Program started.
+2017-11-14 16:15:45.336000 | Program started.
+2017-11-14 16:21:39.659000 | Program started.
+2017-11-14 16:29:22.015000 | Program started.
+2017-11-14 16:30:56.579000 | Program started.
+2017-11-14 16:34:10.388000 | Program started.
+2017-11-14 16:34:33.514000 | Program started.
+2017-11-16 23:11:33.953000 | Program started.
+2017-11-16 23:12:42.740000 | Program started.
+2017-11-16 23:13:32.555000 | Program started.
+2017-11-16 23:13:37.502000 | Program started.
+2017-11-16 23:13:46.261000 | Program started.
+2017-11-16 23:14:06.120000 | Program started.
+2017-11-16 23:14:16.613000 | Program started.
+2017-11-16 23:15:53.784000 | Program started.
+2017-11-16 23:16:30.898839 | Program started.
+memory : 29102080
+2017-11-16 23:16:56.205184 | Program started.
+memory : 28774400
+2017-11-16 23:20:14.763694 | Program started.
+memory : 28930048
+2017-11-16 23:20:19.621525 | Program started.
+memory : 28708864
+2017-11-16 23:20:23.336350 | Program started.
+memory : 28946432
+2017-11-16 23:20:30.611626 | Program started.
+memory : 28774400
+2017-11-16 23:20:54.721586 | Program started.
+memory : 28856320
+2017-11-16 23:22:48.488601 | Program started.
+memory : 29114368
+2017-11-16 23:24:06.192555 | Program started.
+2017-11-16 23:25:58.724039 | Program started.
+memory : 29016064
+2017-11-16 23:26:12.173315 | Program started.
+memory : 28848128
+2017-11-19 09:49:07.854545 | Program started.
+2017-11-19 12:20:29.901316 | Program started.
+2017-11-19 17:49:49.003616 | Program started.
+memory : 29270016
+2017-11-19 17:54:33.179120 | Program started.
+memory : 28987392
+2017-11-19 23:04:28.086536 | Program started.
+memory : 28946432
+2017-11-19 23:04:39.066329 | Program started.
+memory : 28925952
+2017-11-20 10:30:16.017000 | Program started.
+2017-11-20 10:30:37.007000 | Program started.
+2017-11-20 10:31:23.471000 | Program started.
+2017-11-20 10:31:39.768000 | Program started.
+2017-11-20 10:33:15.906000 | Program started.
+2017-11-20 10:35:02.223000 | Program started.
+2017-11-20 10:37:21.958000 | Program started.
+2017-11-20 10:51:56.327000 | Program started.
+2017-11-20 10:54:13.076000 | Program started.
+2017-11-20 11:12:53.889000 | Program started.
+2017-11-20 11:14:00.440000 | Program started.
+2017-11-20 11:19:11.845000 | Program started.
+2017-11-20 11:23:50.931000 | Program started.
+2017-11-20 11:27:15.237000 | Program started.
+2017-11-20 11:30:26.634000 | Program started.
+2017-11-20 11:37:30.082000 | Program started.
+2017-11-20 11:38:31.896000 | Program started.
+2017-11-20 11:39:33.616000 | Program started.
+2017-11-20 11:53:55.950000 | Program started.
+2017-11-20 11:56:57.281000 | Program started.
+2017-11-20 12:04:06.371000 | Program started.
+2017-11-20 12:14:41.832000 | Program started.
+2017-11-20 16:20:32.077000 | Program started.
+2017-11-20 22:45:42.100000 | Program started.
+2017-11-20 23:00:54.800000 | Program started.
+2017-11-20 23:05:24.535000 | Program started.
+2017-11-20 23:05:44.183000 | Program started.
+2017-11-21 00:20:51.413000 | Program started.
+2017-11-21 08:02:00.256000 | Program started.
+2017-11-21 08:04:07.093000 | Program started.
+2017-11-21 08:12:22.232000 | Program started.
+2017-11-21 08:15:17.985000 | Program started.
+2017-11-21 08:16:07.808000 | Program started.
+2017-11-21 08:17:06.771000 | Program started.
+2017-11-21 09:57:55.367000 | Program started.
+2017-11-21 09:58:18.047000 | Program started.
+2017-11-21 09:58:57.941000 | Program started.
+2017-11-21 09:59:13.498000 | Program started.
+2017-11-21 09:59:36.335000 | Program started.
+2017-11-21 09:59:48.945000 | Program started.
+2017-11-21 10:00:17.002000 | Program started.
+2017-11-21 10:00:41.823000 | Program started.
+2017-11-21 10:01:39.596000 | Program started.
+2017-11-21 10:05:11.558000 | Program started.
+2017-11-21 10:08:15.640000 | Program started.
+2017-11-21 10:12:38.730000 | Program started.
+2017-11-21 10:13:51.403000 | Program started.
+2017-11-21 10:16:59.763000 | Program started.
+2017-11-21 10:19:33.896000 | Program started.
+2017-11-21 10:21:41.462000 | Program started.
+2017-11-21 10:23:47.847000 | Program started.
+2017-11-21 10:27:40.700000 | Program started.
+2017-11-21 10:32:34.089271 | Program started.
+memory : 19439616
+2017-11-21 10:40:03.237000 | Program started.
+2017-11-21 10:40:23.540000 | Program started.
+2017-11-21 10:41:18.716000 | Program started.
+2017-11-21 10:41:45.840000 | Program started.
+2017-11-21 10:48:14.811000 | Program started.
+2017-11-21 10:48:37.272000 | Program started.
+2017-11-21 11:03:09.321000 | Program started.
+2017-11-21 11:03:39.420000 | Program started.
+2017-11-21 11:06:21.090000 | Program started.
+2017-11-21 11:08:19.841000 | Program started.
+2017-11-21 11:09:55.055000 | Program started.
+2017-11-21 11:21:08.929000 | Program started.
+2017-11-21 11:28:41.191000 | Program started.
+2017-11-21 11:29:12.714000 | Program started.
+2017-11-21 11:30:33.677000 | Program started.
+2017-11-21 11:31:01.680000 | Program started.
+2017-11-21 11:31:32.333000 | Program started.
+2017-11-21 11:33:20.396000 | Program started.
+2017-11-21 11:34:08.816000 | Program started.
+2017-11-21 11:51:07.823000 | Program started.
+2017-11-21 13:32:24.835000 | Program started.
+2017-11-21 14:18:45.137000 | Program started.
+2017-11-21 14:19:41.042000 | Program started.
+2017-11-21 14:35:06.813000 | Program started.
+2017-11-21 14:35:31.800000 | Program started.
+2017-11-21 15:17:37.998000 | Program started.
+2017-11-21 15:21:34.924000 | Program started.
+2017-11-21 15:24:53.190000 | Program started.
+2017-11-21 15:25:53.410000 | Program started.
+2017-11-21 15:26:24.862000 | Program started.
+2017-11-21 15:28:21.315000 | Program started.
+2017-11-21 15:28:38.398000 | Program started.
+2017-11-21 15:29:40.905000 | Program started.
+2017-11-21 15:33:33.403000 | Program started.
+2017-11-21 15:34:08.623000 | Program started.
+2017-11-21 15:36:19.522000 | Program started.
+2017-11-21 15:37:18.207000 | Program started.
+2017-11-21 15:39:47.440000 | Program started.
+2017-11-21 15:43:17.572000 | Program started.
+2017-11-21 15:48:37.867000 | Program started.
+2017-11-21 15:49:05.424000 | Program started.
+2017-11-21 15:49:55.145000 | Program started.
+2017-11-21 15:50:18.094000 | Program started.
+2017-11-21 15:51:10.997000 | Program started.
+2017-11-21 15:52:13.376000 | Program started.
+2017-11-21 16:04:05.205000 | Program started.
+2017-11-21 16:04:22.862000 | Program started.
+2017-11-21 16:04:35.608000 | Program started.
+2017-11-21 16:06:12.647000 | Program started.
+2017-11-21 16:09:38.589000 | Program started.
+2017-11-21 16:10:49.039000 | Program started.
+2017-11-21 19:35:10.121000 | Program started.
+2017-11-21 19:35:39.139000 | Program started.
+2017-11-21 19:36:31.893000 | Program started.
+2017-11-21 19:36:54.390000 | Program started.
+2017-11-21 20:53:50.138000 | Program started.
+2017-11-21 21:00:09.863000 | Program started.
+2017-11-21 21:01:26.217000 | Program started.
+2017-11-21 21:02:41.309000 | Program started.
+2017-11-21 21:18:31.896000 | Program started.
+2017-11-21 21:21:04.819000 | Program started.
+2017-11-21 21:40:51.666000 | Program started.
+2017-11-21 21:48:35.732000 | Program started.
+2017-11-21 22:37:24.775000 | Program started.
+2017-11-21 22:40:19.595000 | Program started.
+2017-11-21 22:40:29.117000 | Program started.
+2017-11-21 22:42:24.018000 | Program started.
+2017-11-21 22:42:37.652000 | Program started.
+2017-11-21 22:43:08.049000 | Program started.
+2017-11-21 22:46:58.819000 | Program started.
+2017-11-21 23:01:17.060000 | Program started.
+2017-11-21 23:06:04.786000 | Program started.
+2017-11-21 23:06:42.515000 | Program started.
+2017-11-21 23:07:38.619000 | Program started.
+2017-11-21 23:07:51.152000 | Program started.
+2017-11-21 23:09:05.181000 | Program started.
+2017-11-21 23:10:30.357000 | Program started.
+2017-11-21 23:19:19.219000 | Program started.
+2017-11-21 23:21:18.873000 | Program started.
+2017-11-21 23:22:16.640000 | Program started.
+2017-11-21 23:27:06.824000 | Program started.
+2017-11-21 23:30:16.012000 | Program started.
+2017-11-21 23:31:12.363000 | Program started.
+2017-11-21 23:31:34.840000 | Program started.
+2017-11-22 08:10:06.652000 | Program started.
+2017-11-22 08:10:49.317000 | Program started.
+2017-11-22 08:12:09.132000 | Program started.
+2017-11-22 08:16:25.725000 | Program started.
+2017-11-22 08:16:46.772000 | Program started.
+2017-11-22 09:09:23.823000 | Program started.
+2017-11-22 09:10:01.527000 | Program started.
+2017-11-22 09:12:22.419000 | Program started.
+2017-11-22 09:12:39.575000 | Program started.
+2017-11-22 09:12:48.443000 | Program started.
+2017-11-22 09:12:55.074000 | Program started.
+2017-11-22 09:13:04.250000 | Program started.
+2017-11-22 09:13:14.898000 | Program started.
+2017-11-22 09:13:23.305000 | Program started.
+2017-11-22 09:13:33.577000 | Program started.
+2017-11-22 09:13:54.640000 | Program started.
+2017-11-22 09:14:14.886000 | Program started.
+2017-11-22 09:14:23.821000 | Program started.
+2017-11-22 09:14:34.309000 | Program started.
+2017-11-22 09:14:44.674000 | Program started.
+2017-11-22 09:15:03.620000 | Program started.
+2017-11-22 09:24:14.307000 | Program started.
+2017-11-22 09:27:48.467000 | Program started.
+2017-11-22 09:27:59.933000 | Program started.
+2017-11-22 09:28:07.174000 | Program started.
+2017-11-22 09:28:14.233000 | Program started.
+2017-11-22 09:30:46.777000 | Program started.
+2017-11-22 09:34:31.009000 | Program started.
+2017-11-22 09:35:33.409000 | Program started.
+2017-11-22 09:38:45.337000 | Program started.
+2017-11-22 09:41:18.389000 | Program started.
+2017-11-22 10:04:15.025000 | Program started.
+2017-11-22 10:04:34.154000 | Program started.
+2017-11-22 10:05:28.087000 | Program started.
+2017-11-22 10:43:57.420000 | Program started.
+2017-11-22 10:44:09.464000 | Program started.
+2017-11-22 10:44:26.554000 | Program started.
+2017-11-22 10:53:30.129000 | Program started.
+2017-11-22 10:54:23.263000 | Program started.
+2017-11-22 10:54:49.613000 | Program started.
+2017-11-22 11:06:19.156000 | Program started.
+2017-11-22 11:06:51.697000 | Program started.
+2017-11-22 11:07:08.005000 | Program started.
+2017-11-22 11:43:03.147000 | Program started.
+2017-11-22 11:52:00.102000 | Program started.
+2017-11-22 11:54:25.866000 | Program started.
+2017-11-22 15:18:41.524000 | Program started.
+2017-11-22 15:18:53.027000 | Program started.
+2017-11-22 15:19:35.392000 | Program started.
+2017-11-22 15:19:45.386000 | Program started.
+2017-11-22 15:20:35.068000 | Program started.
+2017-11-22 15:21:12.794000 | Program started.
+2017-11-22 15:21:41.777000 | Program started.
+2017-11-22 15:39:57.499000 | Program started.
+2017-11-22 15:40:52.926000 | Program started.
+2017-11-22 15:41:44.276000 | Program started.
+2017-11-22 15:45:19.552000 | Program started.
+2017-11-22 15:49:58.031000 | Program started.
+2017-11-22 15:54:52.725000 | Program started.
+2017-11-22 15:55:32.776000 | Program started.
+2017-11-22 15:58:41.770000 | Program started.
+2017-11-22 16:00:36.854000 | Program started.
+2017-11-22 16:11:33.681000 | Program started.
+2017-11-22 16:19:12.724000 | Program started.
+2017-11-23 00:10:04.081000 | Program started.
+2017-11-23 00:10:35.673000 | Program started.
+2017-11-23 00:10:55.180000 | Program started.
+2017-11-23 00:11:23.292000 | Program started.
+2017-11-23 00:11:41.210000 | Program started.
+2017-11-23 00:12:10.783000 | Program started.
+2017-11-23 00:13:04.674000 | Program started.
+2017-11-23 00:16:28.738000 | Program started.
+2017-11-23 00:18:29.484000 | Program started.
+2017-11-23 00:18:44.324000 | Program started.
+2017-11-23 00:19:07.195000 | Program started.
+2017-11-23 00:20:17.121000 | Program started.
+2017-11-23 00:20:31.890000 | Program started.
+2017-11-23 00:28:53.315000 | Program started.
+2017-11-23 00:29:09.023000 | Program started.
+2017-11-23 00:29:20.939000 | Program started.
+2017-11-23 00:29:49.182000 | Program started.
+2017-11-23 00:31:19.633000 | Program started.
+2017-11-23 00:36:34.004000 | Program started.
+2017-11-23 00:36:49.424000 | Program started.
+2017-11-23 00:38:18.180000 | Program started.
+2017-11-23 00:38:33.066000 | Program started.
+2017-11-23 00:40:39.842000 | Program started.
+2017-11-23 00:41:22.948000 | Program started.
+2017-11-23 00:42:40.427000 | Program started.
+2017-11-23 00:43:24.595000 | Program started.
+2017-11-23 00:44:10.367000 | Program started.
+2017-11-23 00:44:58.384000 | Program started.
+2017-11-23 00:45:38.412000 | Program started.
+2017-11-23 01:02:04.895000 | Program started.
+2017-11-23 01:02:26.455000 | Program started.
+2017-11-23 01:02:40.773000 | Program started.
+2017-11-23 01:08:42.168000 | Program started.
+2017-11-23 01:09:00.944000 | Program started.
+2017-11-23 01:24:08.222000 | Program started.
+2017-11-23 07:58:15.159000 | Program started.
+2017-11-23 08:07:31.978000 | Program started.
+2017-11-23 08:08:05.430000 | Program started.
+2017-11-23 08:08:15.328000 | Program started.
+2017-11-23 08:21:05.098000 | Program started.
+2017-11-23 08:21:16.854000 | Program started.
+2017-11-23 08:21:47.781000 | Program started.
+2017-11-23 08:22:21.943000 | Program started.
+2017-11-23 08:22:35.765000 | Program started.
+2017-11-23 08:23:13.149000 | Program started.
+2017-11-23 08:25:41.900000 | Program started.
+2017-11-23 08:26:13.060000 | Program started.
+2017-11-23 08:59:26.166000 | Program started.
+2017-11-23 09:02:05.050000 | Program started.
+2017-11-23 09:03:17.386000 | Program started.
+2017-11-23 09:04:01.811000 | Program started.
+2017-11-23 09:04:11.423000 | Program started.
+2017-11-23 09:04:36.552000 | Program started.
+2017-11-23 09:06:32.387000 | Program started.
+2017-11-23 09:08:14.078000 | Program started.
+2017-11-23 09:08:39.272000 | Program started.
+2017-11-23 09:09:02.661000 | Program started.
+2017-11-23 09:09:15.783000 | Program started.
+2017-11-23 09:09:56.066000 | Program started.
+2017-11-23 09:11:48.839000 | Program started.
+2017-11-23 09:11:58.649000 | Program started.
+2017-11-23 09:12:22.927000 | Program started.
+2017-11-23 09:12:32.794000 | Program started.
+2017-11-23 10:55:17.697000 | Program started.
+2017-11-23 11:01:14.657000 | Program started.
+2017-11-23 11:01:26.134000 | Program started.
+2017-11-23 11:02:31.271000 | Program started.
+2017-11-23 11:04:02.512000 | Program started.
+2017-11-23 11:04:23.760000 | Program started.
+2017-11-23 11:04:42.059000 | Program started.
+2017-11-23 11:08:09.598000 | Program started.
+2017-11-23 11:08:48.155000 | Program started.
+2017-11-23 11:12:01.726000 | Program started.
+2017-11-23 11:18:26.473000 | Program started.
+2017-11-23 11:18:54.477000 | Program started.
+2017-11-23 11:20:11.750000 | Program started.
+2017-11-23 11:20:36.687000 | Program started.
+2017-11-23 11:22:26.132000 | Program started.
+2017-11-23 11:22:45.296000 | Program started.
+2017-11-23 11:24:22.753000 | Program started.
+2017-11-23 11:27:58.090000 | Program started.
+2017-11-23 11:28:22.689000 | Program started.
+2017-11-23 11:36:38.033000 | Program started.
+2017-11-23 11:40:25.582000 | Program started.
+2017-11-23 11:40:58.848000 | Program started.
+2017-11-23 11:41:32.248000 | Program started.
+2017-11-23 11:41:45.403000 | Program started.
+2017-11-23 11:44:03.146000 | Program started.
+2017-11-23 11:46:53.251000 | Program started.
+2017-11-23 11:47:22.432000 | Program started.
+2017-11-23 11:48:05.804000 | Program started.
+2017-11-23 11:48:17.729000 | Program started.
+2017-11-23 11:50:01.531000 | Program started.
+2017-11-23 11:57:31.835000 | Program started.
+2017-11-23 12:02:52.570000 | Program started.
+2017-11-23 12:03:12.499000 | Program started.
+2017-11-23 12:03:51.915000 | Program started.
+2017-11-23 12:04:16.997000 | Program started.
+2017-11-23 12:07:09.316000 | Program started.
+2017-11-23 12:07:45.427000 | Program started.
+2017-11-23 12:09:02.654000 | Program started.
+2017-11-23 12:09:32.891000 | Program started.
+2017-11-23 12:12:19.564000 | Program started.
+2017-11-23 13:38:00.063000 | Program started.
+2017-11-23 13:38:37.804000 | Program started.
+2017-11-23 13:39:57.357000 | Program started.
+2017-11-23 13:42:08.633000 | Program started.
+2017-11-23 13:42:22.469000 | Program started.
+2017-11-23 13:44:30.899000 | Program started.
+2017-11-23 13:44:51.582000 | Program started.
+2017-11-23 13:51:15.167000 | Program started.
+2017-11-23 13:53:14.979000 | Program started.
+2017-11-23 13:57:13.752000 | Program started.
+2017-11-23 14:23:30.306000 | Program started.
+2017-11-23 14:24:57.227000 | Program started.
+2017-11-23 14:44:32.415000 | Program started.
+2017-11-23 14:48:57.240000 | Program started.
+2017-11-23 14:49:27.698000 | Program started.
+2017-11-23 14:49:42.641000 | Program started.
+2017-11-23 15:15:58.021000 | Program started.
+2017-11-23 15:28:58.441000 | Program started.
+2017-11-23 15:29:30.171000 | Program started.
+2017-11-23 15:29:48.509000 | Program started.
+2017-11-23 15:31:08.181000 | Program started.
+2017-11-23 15:36:16.914000 | Program started.
+2017-11-23 15:36:54.014000 | Program started.
+2017-11-23 15:37:22.563000 | Program started.
+2017-11-23 15:39:10.697000 | Program started.
+2017-11-23 15:39:32.693000 | Program started.
+2017-11-23 16:00:49.235000 | Program started.
+2017-11-23 16:01:18.864000 | Program started.
+2017-11-23 16:02:06.082000 | Program started.
+2017-11-23 16:02:47.864000 | Program started.
+2017-11-23 16:06:17.480000 | Program started.
+2017-11-23 16:06:56.233000 | Program started.
+2017-11-23 16:07:56.421000 | Program started.
+2017-11-23 16:08:41.791000 | Program started.
+2017-11-23 16:19:33.324000 | Program started.
+2017-11-23 16:24:14.917000 | Program started.
+2017-11-23 21:33:25.667000 | Program started.
+2017-11-23 21:35:37.530000 | Program started.
+2017-11-23 21:37:11.526000 | Program started.
+2017-11-23 21:44:50.277000 | Program started.
+2017-11-23 21:45:55.205000 | Program started.
+2017-11-23 22:02:42.990000 | Program started.
+2017-11-23 22:02:55.692000 | Program started.
+2017-11-24 00:02:52.820000 | Program started.
+2017-11-24 00:12:41.521000 | Program started.
+2017-11-24 00:12:56.688000 | Program started.
+2017-11-24 00:13:41.950000 | Program started.
+2017-11-24 00:16:12.207000 | Program started.
+2017-11-24 00:21:55.435000 | Program started.
+2017-11-24 00:25:07.011000 | Program started.
+2017-11-24 00:26:19.663000 | Program started.
+2017-11-24 00:39:19.177000 | Program started.
+2017-11-24 00:39:35.647000 | Program started.
+2017-11-24 00:45:49.494000 | Program started.
+2017-11-24 00:46:16.961000 | Program started.
+2017-11-24 00:46:59.418000 | Program started.
+2017-11-24 00:47:41.514000 | Program started.
+2017-11-24 00:47:57.090000 | Program started.
+2017-11-24 00:49:05.960000 | Program started.
+2017-11-24 00:49:20.510000 | Program started.
+2017-11-24 00:49:29.144000 | Program started.
+2017-11-24 03:38:26.827000 | Program started.
+2017-11-24 08:16:05.182000 | Program started.
+2017-11-25 12:39:46.246000 | Program started.
+2017-11-25 12:40:30.888000 | Program started.
+2017-11-25 12:42:13.742000 | Program started.
+2017-11-25 13:47:28.341000 | Program started.
+2017-11-25 13:49:02.504000 | Program started.
+2017-11-25 13:52:42.284000 | Program started.
+2017-11-25 13:58:53.325000 | Program started.
+2017-11-25 13:59:19.737000 | Program started.
+2017-11-25 13:59:35.707000 | Program started.
+2017-11-25 14:03:14.921000 | Program started.
+2017-11-25 14:04:15.217000 | Program started.
+2017-11-25 14:06:20.566000 | Program started.
+2017-11-25 14:06:51.525000 | Program started.
+2017-11-25 14:11:22.457000 | Program started.
+2017-11-25 14:13:31.115000 | Program started.
+2017-11-25 14:16:37.606000 | Program started.
+2017-11-25 14:19:09.806000 | Program started.
+2017-11-25 14:27:32.538000 | Program started.
+2017-11-25 14:38:02.142000 | Program started.
+2017-11-25 14:38:38.217000 | Program started.
+2017-11-25 14:40:14.909000 | Program started.
+2017-11-25 14:41:39.200000 | Program started.
+2017-11-25 14:42:56.137000 | Program started.
+2017-11-25 14:47:29.339000 | Program started.
+2017-11-25 14:48:06.754000 | Program started.
+2017-11-25 14:52:31.051000 | Program started.
+2017-11-25 14:52:53.906000 | Program started.
+2017-11-25 14:54:55.938000 | Program started.
+2017-11-25 14:57:39.859000 | Program started.
+2017-11-25 15:12:11.545000 | Program started.
+2017-11-25 15:12:20.336000 | Program started.
+2017-11-25 15:14:32.815000 | Program started.
+2017-11-25 15:14:53.865000 | Program started.
+2017-11-25 16:15:30.772000 | Program started.
+2017-11-25 16:15:58.565000 | Program started.
+2017-11-25 16:16:55.946000 | Program started.
+2017-11-25 16:17:04.057000 | Program started.
+2017-11-25 16:17:10.981000 | Program started.
+2017-11-25 16:17:57.400000 | Program started.
+2017-11-25 16:18:08.529000 | Program started.
+2017-11-25 16:19:07.662000 | Program started.
+2017-11-25 16:22:01.129000 | Program started.
+2017-11-25 16:22:10.548000 | Program started.
+2017-11-25 16:22:36.598000 | Program started.
+2017-11-25 16:25:22.554000 | Program started.
+2017-11-25 16:26:34.859000 | Program started.
+2017-11-25 16:27:24.249000 | Program started.
+2017-11-25 16:28:41.702000 | Program started.
+2017-11-25 16:29:12.046000 | Program started.
+2017-11-25 16:29:26.719000 | Program started.
+2017-11-25 16:29:39.089000 | Program started.
+2017-11-25 16:29:50.853000 | Program started.
+2017-11-25 16:31:56.881000 | Program started.
+2017-11-25 16:32:37.762000 | Program started.
+2017-11-25 16:32:53.058000 | Program started.
+2017-11-25 16:33:03.833000 | Program started.
+2017-11-25 16:33:22.102000 | Program started.
+2017-11-25 16:34:08.498000 | Program started.
+2017-11-25 16:34:24.726000 | Program started.
+2017-11-25 16:34:33.446000 | Program started.
+2017-11-25 16:35:09.222000 | Program started.
+2017-11-25 16:35:16.360000 | Program started.
+2017-11-25 16:35:29.769000 | Program started.
+2017-11-25 16:35:48.306000 | Program started.
+2017-11-25 16:36:37.547000 | Program started.
+2017-11-25 16:37:23.961000 | Program started.
+2017-11-25 16:42:22.909000 | Program started.
+2017-11-25 16:42:53.458000 | Program started.
+2017-11-25 16:43:45.214000 | Program started.
+2017-11-25 16:44:04.653000 | Program started.
+2017-11-25 16:44:27.922000 | Program started.
+2017-11-25 16:44:41.553000 | Program started.
+2017-11-25 16:44:58.978000 | Program started.
+2017-11-25 16:47:35.998000 | Program started.
+2017-11-26 12:12:27.154000 | Program started.
+2017-11-26 12:12:37.089000 | Program started.
+2017-11-26 12:12:43.523000 | Program started.
+2017-11-26 12:14:18.439000 | Program started.
+2017-11-26 12:16:24.266000 | Program started.
+2017-11-26 12:19:06.894000 | Program started.
+2017-11-26 12:25:10.460000 | Program started.
+2017-11-26 12:26:07.336000 | Program started.
+2017-11-26 12:26:52.286000 | Program started.
+2017-11-26 12:27:10.329000 | Program started.
+2017-11-26 12:28:57.813000 | Program started.
+2017-11-26 12:30:01.335000 | Program started.
+2017-11-26 12:30:15.564000 | Program started.
+2017-11-26 12:30:29.763000 | Program started.
+2017-11-26 12:31:19.549000 | Program started.
+2017-11-26 12:31:43.255000 | Program started.
+2017-11-26 12:31:51.984000 | Program started.
+2017-11-26 12:32:28.721000 | Program started.
+2017-11-26 12:33:10.310000 | Program started.
+2017-11-26 12:33:35.414000 | Program started.
+2017-11-26 13:12:39.157000 | Program started.
+2017-11-26 17:33:25.025000 | Program started.
+2017-11-26 17:37:58.230000 | Program started.
+2017-12-01 13:51:50.880000 | Program started.
+2017-12-01 13:52:31.340000 | Program started.
+2017-12-01 13:56:41.844000 | Program started.
+2017-12-01 13:57:45.556000 | Program started.
+2017-12-01 14:07:08.815000 | Program started.
+2017-12-01 14:07:48.054000 | Program started.
+2017-12-01 14:13:45.344000 | Program started.
+2017-12-01 14:14:41.641000 | Program started.
+2017-12-01 14:15:19.190000 | Program started.
+2017-12-01 14:16:06.734000 | Program started.
+2017-12-01 14:16:36.909000 | Program started.
+2017-12-01 14:16:42.543000 | Program started.
+2017-12-01 14:16:49.672000 | Program started.
+2017-12-01 14:20:52.420000 | Program started.
+2017-12-01 14:21:25.235000 | Program started.
+2017-12-01 14:22:27.173000 | Program started.
+2017-12-01 14:23:18.381000 | Program started.
+2017-12-01 14:23:58.950000 | Program started.
+2017-12-01 14:24:25.258000 | Program started.
+2017-12-01 14:24:44.451000 | Program started.
+2017-12-01 14:27:39.163000 | Program started.
+2017-12-01 14:27:48.036000 | Program started.
+2017-12-01 14:28:26.906000 | Program started.
+2017-12-01 14:29:02.406000 | Program started.
+2017-12-01 14:29:09.109000 | Program started.
+2017-12-01 14:29:14.855000 | Program started.
+2017-12-01 14:29:19.541000 | Program started.
+2017-12-01 14:29:53.105000 | Program started.
+2017-12-01 14:30:28.956000 | Program started.
+2017-12-01 14:30:43.897000 | Program started.
+2017-12-01 14:30:51.564000 | Program started.
+2017-12-01 14:30:59.084000 | Program started.
+2017-12-01 14:31:53.989000 | Program started.
+2017-12-01 14:34:41.079000 | Program started.
+2017-12-01 14:35:15.005000 | Program started.
+2017-12-01 14:36:50.406000 | Program started.
+2017-12-01 14:36:53.688000 | Program started.
+2017-12-01 14:37:06.370000 | Program started.
+2017-12-01 14:42:50.058000 | Program started.
+2017-12-01 14:43:02.133000 | Program started.
+2017-12-01 14:45:34.175000 | Program started.
+2017-12-01 14:45:47.286000 | Program started.
+2017-12-01 14:45:59.180000 | Program started.
+2017-12-01 14:46:10.178000 | Program started.
+2017-12-01 14:46:14.657000 | Program started.
+2017-12-01 14:46:20.945000 | Program started.
+2017-12-01 14:47:07.012000 | Program started.
+2017-12-01 14:47:13.054000 | Program started.
+2017-12-01 14:47:23.171000 | Program started.
+2017-12-01 14:47:29.122000 | Program started.
+2017-12-01 14:47:33.216000 | Program started.
+2017-12-01 14:47:37.818000 | Program started.
+2017-12-01 14:49:05.839000 | Program started.
+2017-12-01 14:49:14.865000 | Program started.
+2017-12-01 14:52:53.142000 | Program started.
+2017-12-01 14:53:07.011000 | Program started.
+2017-12-01 14:53:20.116000 | Program started.
+2017-12-01 14:53:38.834000 | Program started.
+2017-12-01 15:12:19.956000 | Program started.
+2017-12-01 15:14:21.349000 | Program started.
+2017-12-01 16:24:17.492000 | Program started.
+2017-12-01 16:26:25.853000 | Program started.
+2017-12-01 16:26:41.609000 | Program started.
+2017-12-01 16:26:50.399000 | Program started.
+2017-12-01 16:29:15.180000 | Program started.
+2017-12-01 16:29:53.169000 | Program started.
+2017-12-01 16:30:35.815000 | Program started.
+2017-12-01 16:31:17.227000 | Program started.
+2017-12-01 16:31:26.387000 | Program started.
+2017-12-01 16:32:30.881000 | Program started.
+2017-12-01 16:32:38.944000 | Program started.
+2017-12-01 16:33:22.606000 | Program started.
+2017-12-01 16:33:39.682000 | Program started.
+2017-12-01 16:34:38.181000 | Program started.
+2017-12-01 16:34:51.081000 | Program started.
+2017-12-01 16:35:09.077000 | Program started.
+2017-12-01 16:35:20.208000 | Program started.
+2017-12-01 16:35:31.458000 | Program started.
+2017-12-01 16:35:35.866000 | Program started.
+2017-12-01 16:35:56.213000 | Program started.
+2017-12-01 16:36:05.814000 | Program started.
+2017-12-01 16:36:16.853000 | Program started.
+2017-12-01 16:36:23.975000 | Program started.
+2017-12-01 16:36:28.351000 | Program started.
+2017-12-02 10:09:21.901000 | Program started.
+2017-12-02 10:14:03.804000 | Program started.
+2017-12-02 10:14:06.179000 | Program started.
+2017-12-02 10:16:52.759000 | Program started.
+2017-12-02 10:16:58.874000 | Program started.
+2017-12-02 10:21:44.557000 | Program started.
+2017-12-02 10:21:52.128000 | Program started.
+2017-12-02 10:22:08.495000 | Program started.
+2017-12-02 10:22:18.752000 | Program started.
+2017-12-02 10:22:33.498000 | Program started.
+2017-12-02 10:22:42.419000 | Program started.
+2017-12-02 10:22:46.755000 | Program started.
+2017-12-02 10:23:39.205000 | Program started.
+2017-12-02 10:25:49.976000 | Program started.
+2017-12-02 10:25:56.888000 | Program started.
+2017-12-02 10:26:06.945000 | Program started.
+2017-12-02 10:26:51.779000 | Program started.
+2017-12-02 10:26:58.228000 | Program started.
+2017-12-02 10:27:16.751000 | Program started.
+2017-12-02 10:35:42.812000 | Program started.
+2017-12-02 10:38:24.417000 | Program started.
+2017-12-02 10:38:48.545000 | Program started.
+2017-12-02 11:16:13.454000 | Program started.
+2017-12-02 11:16:31.275000 | Program started.
+2017-12-02 11:16:43.058000 | Program started.
+2017-12-02 11:16:56.515000 | Program started.
+2017-12-02 11:22:36.447000 | Program started.
+2017-12-02 11:22:49.028000 | Program started.
+2017-12-02 11:22:56.077000 | Program started.
+2017-12-02 11:23:00.805000 | Program started.
+2017-12-02 11:23:13.476000 | Program started.
+2017-12-02 11:23:59.564000 | Program started.
+2017-12-02 11:24:11.175000 | Program started.
+2017-12-02 11:25:38.271000 | Program started.
+2017-12-02 11:25:44.861000 | Program started.
+2017-12-02 11:25:52.358000 | Program started.
+2017-12-02 11:28:37.533000 | Program started.
+2017-12-02 11:29:30.590000 | Program started.
+2017-12-02 11:31:59.741000 | Program started.
+2017-12-02 11:33:18.923000 | Program started.
+2017-12-02 11:33:25.222000 | Program started.
+2017-12-02 11:38:03.514000 | Program started.
+2017-12-02 11:38:25.813000 | Program started.
+2017-12-02 11:42:39.768000 | Program started.
+2017-12-02 11:56:03.435000 | Program started.
+2017-12-02 11:58:54.295000 | Program started.
+2017-12-02 11:59:09.892000 | Program started.
+2017-12-02 11:59:53.446000 | Program started.
+2017-12-02 14:27:57.662000 | Program started.
+2017-12-02 14:28:29.381000 | Program started.
+2017-12-02 14:29:41.224000 | Program started.
+2017-12-02 14:29:52.730000 | Program started.
+2017-12-02 14:30:00.746000 | Program started.
+2017-12-02 14:30:27.741000 | Program started.
+2017-12-02 14:30:55.067000 | Program started.
+2017-12-02 14:32:21.892000 | Program started.
+2017-12-02 14:33:24.916000 | Program started.
+2017-12-02 14:34:19.940000 | Program started.
+2017-12-02 14:37:29.173000 | Program started.
+2017-12-02 14:38:20.256000 | Program started.
+2017-12-02 14:39:15.121000 | Program started.
+2017-12-02 14:39:21.947000 | Program started.
+2017-12-02 14:40:30.254000 | Program started.
+2017-12-02 14:41:24.166000 | Program started.
+2017-12-02 14:43:02.651000 | Program started.
+2017-12-02 14:44:09.205000 | Program started.
+2017-12-02 14:45:59.435000 | Program started.
+2017-12-02 14:46:14.615000 | Program started.
+2017-12-02 14:57:17.455000 | Program started.
+2017-12-02 14:57:34.268000 | Program started.
+2017-12-02 14:59:50.445000 | Program started.
+2017-12-02 18:24:27.583000 | Program started.
+2017-12-02 18:25:57.869000 | Program started.
+2017-12-02 18:26:13.419000 | Program started.
+2017-12-02 18:27:40.627000 | Program started.
+2017-12-02 18:29:07.454000 | Program started.
+2017-12-02 18:29:49.616000 | Program started.
+2017-12-02 18:31:16.357000 | Program started.
+2017-12-02 18:31:18.877000 | Program started.
+2017-12-02 18:31:32.626000 | Program started.
+2017-12-02 18:33:24.502000 | Program started.
+2017-12-02 18:33:44.765000 | Program started.
+2017-12-02 18:34:06.214000 | Program started.
+2017-12-02 18:34:34.245000 | Program started.
+2017-12-02 18:35:22.612000 | Program started.
+2017-12-02 18:35:48.908000 | Program started.
+2017-12-02 18:36:44.323000 | Program started.
+2017-12-02 18:37:04.580000 | Program started.
+2017-12-02 18:37:53.847000 | Program started.
+2017-12-02 18:39:12.960000 | Program started.
+2017-12-02 18:40:11.961000 | Program started.
+2017-12-02 18:40:16.104000 | Program started.
+2017-12-02 18:43:00.711000 | Program started.
+2017-12-02 18:43:13.217000 | Program started.
+2017-12-02 18:44:04.680000 | Program started.
+2017-12-02 18:47:07.002000 | Program started.
+2017-12-02 18:47:51.903000 | Program started.
+2017-12-02 18:49:31.109000 | Program started.
+2017-12-02 18:52:23.407000 | Program started.
+2017-12-02 18:52:47.347000 | Program started.
+2017-12-02 18:53:47.983000 | Program started.
+2017-12-02 18:54:10.925000 | Program started.
+2017-12-02 18:56:28.868000 | Program started.
+2017-12-02 18:56:43.179000 | Program started.
+2017-12-02 18:57:28.769000 | Program started.
+2017-12-02 18:57:41.521000 | Program started.
+2017-12-02 19:00:56.796000 | Program started.
+2017-12-02 19:01:03.952000 | Program started.
+2017-12-02 19:01:40.141000 | Program started.
+2017-12-02 19:02:04.739000 | Program started.
+2017-12-02 20:56:47.874000 | Program started.
+2017-12-02 20:56:52.287000 | Program started.
+2017-12-02 20:56:57.176000 | Program started.
+2017-12-02 20:58:23.841000 | Program started.
+2017-12-02 20:58:36.055000 | Program started.
+2017-12-02 20:59:21.973000 | Program started.
+2017-12-02 21:00:48.262000 | Program started.
+2017-12-02 21:01:14.347000 | Program started.
+2017-12-02 21:03:53.253000 | Program started.
+2017-12-02 21:03:58.357000 | Program started.
+2017-12-02 21:04:50.858000 | Program started.
+2017-12-02 21:05:03.374000 | Program started.
+2017-12-02 21:05:14.319000 | Program started.
+2017-12-02 21:05:19.245000 | Program started.
+2017-12-02 21:05:29.710000 | Program started.
+2017-12-02 21:05:36.554000 | Program started.
+2017-12-02 21:05:44.966000 | Program started.
+2017-12-02 21:06:27.857000 | Program started.
+2017-12-02 21:06:32.878000 | Program started.
+2017-12-02 21:06:41.224000 | Program started.
+2017-12-02 21:07:02.756000 | Program started.
+2017-12-02 21:07:20.201000 | Program started.
+2017-12-02 21:07:31.623000 | Program started.
+2017-12-02 21:07:42.863000 | Program started.
+2017-12-02 21:11:19.591000 | Program started.
+2017-12-02 21:11:25.598000 | Program started.
+2017-12-02 21:13:15.750000 | Program started.
+2017-12-02 21:13:27.504000 | Program started.
+2017-12-02 21:14:36.325000 | Program started.
+2017-12-02 21:14:48.192000 | Program started.
+2017-12-02 21:19:27.981000 | Program started.
+2017-12-02 21:22:25.862000 | Program started.
+2017-12-02 23:11:08.787000 | Program started.
+2017-12-02 23:12:43.965000 | Program started.
+2017-12-02 23:13:42.421000 | Program started.
+2017-12-02 23:15:17.814000 | Program started.
+2017-12-02 23:16:40.446000 | Program started.
+2017-12-02 23:18:18.995000 | Program started.
+2017-12-02 23:19:50.281000 | Program started.
+2017-12-02 23:20:01.232000 | Program started.
+2017-12-02 23:35:36.173000 | Program started.
+2017-12-02 23:35:52.641000 | Program started.
+2017-12-02 23:36:45.744000 | Program started.
+2017-12-02 23:37:02.544000 | Program started.
+2017-12-02 23:37:59.484000 | Program started.
+2017-12-02 23:38:14.566000 | Program started.
+2017-12-02 23:47:35.798000 | Program started.
+2017-12-02 23:50:16.132000 | Program started.
+2017-12-02 23:50:40.534000 | Program started.
+2017-12-03 00:00:25.969000 | Program started.
+2017-12-03 00:15:46.179000 | Program started.
+2017-12-03 00:18:49.593000 | Program started.
+2017-12-03 00:20:02.385000 | Program started.
+2017-12-03 00:23:08.005000 | Program started.
+2017-12-03 00:23:27.951000 | Program started.
+2017-12-03 00:25:42.717000 | Program started.
+2017-12-03 00:26:17.099000 | Program started.
+2017-12-03 00:27:44.661000 | Program started.
+2017-12-03 00:28:02.688000 | Program started.
+2017-12-03 00:28:52.043000 | Program started.
+2017-12-03 00:33:49.675000 | Program started.
+2017-12-03 00:34:11.887000 | Program started.
+2017-12-03 00:35:06.777000 | Program started.
+2017-12-03 00:36:00.490000 | Program started.
+2017-12-03 00:46:40.938000 | Program started.
+2017-12-03 00:47:59.491000 | Program started.
+2017-12-03 00:52:16.382000 | Program started.
+2017-12-03 00:52:54.845000 | Program started.
+2017-12-03 00:53:14.601000 | Program started.
+2017-12-03 00:54:09.374000 | Program started.
+2017-12-03 00:54:50.163000 | Program started.
+2017-12-03 01:00:00.618000 | Program started.
+2017-12-03 01:07:28.017000 | Program started.
+2017-12-03 01:07:48.718000 | Program started.
+2017-12-03 01:16:27.430000 | Program started.
+2017-12-03 01:17:37.001000 | Program started.
+2017-12-03 01:17:57.283000 | Program started.
+2017-12-03 01:18:33.246000 | Program started.
+2017-12-03 01:20:36.817000 | Program started.
+2017-12-03 01:22:03.314000 | Program started.
+2017-12-03 02:10:37.749000 | Program started.
+2017-12-03 02:18:53.252000 | Program started.
+2017-12-09 10:46:40.632000 | Program started.
+2017-12-12 01:05:40.175000 | Program started.
+2017-12-12 01:09:50.099000 | Program started.
+2017-12-12 01:09:51.206000 | Program started.
+2017-12-12 01:14:12.453000 | Program started.
+2017-12-12 01:14:13.594000 | Program started.
+2017-12-12 01:14:41.673000 | Program started.
+2017-12-12 01:14:42.717000 | Program started.
+2017-12-12 01:14:55.951000 | Program started.
+2017-12-12 01:14:56.995000 | Program started.
+2017-12-12 01:15:07.773000 | Program started.
+2017-12-12 01:15:08.795000 | Program started.
+2017-12-12 01:17:25.831000 | Program started.
+2017-12-12 01:17:26.852000 | Program started.
+2017-12-12 01:17:41.868000 | Program started.
+2017-12-12 01:17:43.087000 | Program started.
+2017-12-12 01:18:03.232000 | Program started.
+2017-12-12 01:18:04.265000 | Program started.
+2017-12-12 01:23:21.535000 | Program started.
+2017-12-12 01:23:22.532000 | Program started.
+2017-12-12 01:23:31.057000 | Program started.
+2017-12-12 01:23:32.344000 | Program started.
+2017-12-12 01:23:43.868000 | Program started.
+2017-12-12 01:23:44.906000 | Program started.
+2017-12-12 01:23:52.852000 | Program started.
+2017-12-12 01:23:53.925000 | Program started.
+2017-12-12 01:24:11.920000 | Program started.
+2017-12-12 01:24:12.998000 | Program started.
+2017-12-12 01:24:37.619000 | Program started.
+2017-12-12 01:24:38.675000 | Program started.
+2017-12-12 01:25:26.062000 | Program started.
+2017-12-12 01:25:27.572000 | Program started.
+2017-12-12 01:24:26.849000 | Program started.
+2017-12-12 01:25:53.679000 | Program started.
+2017-12-12 01:25:54.754000 | Program started.
+2017-12-12 01:28:24.632000 | Program started.
+2017-12-12 01:28:25.666000 | Program started.
+2017-12-12 01:28:59.260000 | Program started.
+2017-12-12 01:29:00.906000 | Program started.
+2017-12-12 01:28:10.632000 | Program started.
+2017-12-12 01:30:31.991000 | Program started.
+2017-12-12 01:30:33.067000 | Program started.
+2017-12-12 01:31:08.986000 | Program started.
+2017-12-12 01:31:10.074000 | Program started.
+2017-12-12 01:31:21.708000 | Program started.
+2017-12-12 01:29:15.117000 | Program started.
+2017-12-12 01:29:22.369000 | Program started.
+2017-12-12 01:29:53.170000 | Program started.
+2017-12-12 01:31:22.864000 | Program started.
+2017-12-12 01:31:27.091000 | Program started.
+2017-12-12 01:31:28.200000 | Program started.
+2017-12-12 01:34:55.829000 | Program started.
+2017-12-12 01:34:56.953000 | Program started.
+2017-12-12 01:35:16.195000 | Program started.
+2017-12-12 01:35:17.325000 | Program started.
+2017-12-12 01:41:51.699000 | Program started.
+2017-12-12 01:41:52.859000 | Program started.
+2017-12-12 01:42:41.066000 | Program started.
+2017-12-12 01:42:42.239000 | Program started.
+2017-12-12 01:42:46.948000 | Program started.
+2017-12-12 01:42:48.577000 | Program started.
+2017-12-12 01:37:43.153000 | Program started.
+2017-12-12 01:39:01.562000 | Program started.
+2017-12-12 01:42:53.578000 | Program started.
+2017-12-12 01:42:54.736000 | Program started.
+2017-12-12 01:43:00.626000 | Program started.
+2017-12-12 01:43:01.774000 | Program started.
+2017-12-12 01:44:17.630000 | Program started.
+2017-12-12 01:44:18.716000 | Program started.
+2017-12-12 01:44:32.561000 | Program started.
+2017-12-12 01:44:10.404000 | Program started.
+2017-12-12 01:44:33.758000 | Program started.
+2017-12-12 01:46:29.887000 | Program started.
+2017-12-12 01:46:31.093000 | Program started.
+2017-12-12 01:46:46.637000 | Program started.
+2017-12-12 01:46:47.799000 | Program started.
+2017-12-12 01:47:09.627000 | Program started.
+2017-12-12 01:47:11.272000 | Program started.
+2017-12-12 01:47:38.503000 | Program started.
+2017-12-12 01:47:39.657000 | Program started.
+2017-12-12 01:49:00.551000 | Program started.
+2017-12-12 01:49:01.669000 | Program started.
+2017-12-12 01:57:13.006000 | Program started.
+2017-12-12 01:57:14.243000 | Program started.
+2017-12-12 01:57:46.674000 | Program started.
+2017-12-12 01:57:48.159000 | Program started.
+2017-12-12 01:58:45.469000 | Program started.
+2017-12-12 01:58:46.577000 | Program started.
+2017-12-12 01:59:02.666000 | Program started.
+2017-12-12 01:59:03.832000 | Program started.
+2017-12-12 02:00:14.961000 | Program started.
+2017-12-12 02:00:16.199000 | Program started.
+2017-12-12 02:00:29.750000 | Program started.
+2017-12-12 02:00:31.417000 | Program started.
+2017-12-12 02:02:05.715000 | Program started.
+2017-12-12 02:02:06.857000 | Program started.
+2017-12-12 02:04:15.785000 | Program started.
+2017-12-12 02:04:17.016000 | Program started.
+2017-12-12 02:04:36.188000 | Program started.
+2017-12-12 02:04:37.372000 | Program started.
+2017-12-12 02:06:47.588000 | Program started.
+2017-12-12 02:06:48.845000 | Program started.
+2017-12-12 02:07:08.558000 | Program started.
+2017-12-12 02:07:09.641000 | Program started.
+2017-12-12 02:07:36.813000 | Program started.
+2017-12-12 02:07:37.994000 | Program started.
+2017-12-12 02:10:07.669000 | Program started.
+2017-12-12 02:10:08.886000 | Program started.
+2017-12-12 02:22:10.116000 | Program started.
+2017-12-12 02:22:11.235000 | Program started.
+2017-12-12 02:22:34.849000 | Program started.
+2017-12-12 02:22:36.047000 | Program started.
+2017-12-12 02:22:51.875000 | Program started.
+2017-12-12 02:22:52.993000 | Program started.
+2017-12-12 02:26:12.605000 | Program started.
+2017-12-12 02:26:13.693000 | Program started.
+2017-12-12 02:26:16.835000 | Program started.
+2017-12-12 02:26:27.503000 | Program started.
+2017-12-12 02:26:46.998000 | Program started.
+2017-12-12 02:26:48.200000 | Program started.
+2017-12-12 02:29:09.365000 | Program started.
+2017-12-12 02:29:10.946000 | Program started.
+2017-12-12 02:29:18.622000 | Program started.
+2017-12-12 02:32:04.837000 | Program started.
+2017-12-12 02:32:11.780000 | Program started.
+2017-12-12 02:32:16.994000 | Program started.
+2017-12-12 02:33:10.904000 | Program started.
+2017-12-12 02:33:12.019000 | Program started.
+2017-12-12 02:33:14.151000 | Program started.
+2017-12-12 02:33:17.893000 | Program started.
+2017-12-12 02:33:43.158000 | Program started.
+2017-12-12 02:33:44.592000 | Program started.
+2017-12-12 02:33:48.255000 | Program started.
+2017-12-12 02:33:50.764000 | Program started.
+2017-12-12 02:34:01.847000 | Program started.
+2017-12-12 02:34:03.730000 | Program started.
+2017-12-12 02:34:52.540000 | Program started.
+2017-12-12 02:34:53.925000 | Program started.
+2017-12-12 02:34:56.233000 | Program started.
+2017-12-12 02:34:57.807000 | Program started.
+2017-12-12 02:35:21.351000 | Program started.
+2017-12-12 02:35:23.303000 | Program started.
+2017-12-12 02:39:51.174000 | Program started.
+2017-12-12 02:39:52.484000 | Program started.
+2017-12-12 02:40:03.264000 | Program started.
+2017-12-12 02:40:04.670000 | Program started.
+2017-12-12 02:40:40.144000 | Program started.
+2017-12-12 02:40:41.421000 | Program started.
+2017-12-12 08:55:14.273000 | Program started.
+2017-12-12 08:55:37.405000 | Program started.
+2017-12-12 08:59:05.081000 | Program started.
+2017-12-12 08:59:16.814000 | Program started.
+2017-12-12 08:59:36.592000 | Program started.
+2017-12-12 09:08:33.646000 | Program started.
+2017-12-12 09:09:19.217000 | Program started.
+2017-12-12 09:46:57.672000 | Program started.
+2017-12-12 09:48:31.156000 | Program started.
+2017-12-12 09:49:32.813000 | Program started.
+2017-12-12 10:03:50.578000 | Program started.
+2017-12-12 10:04:40.778000 | Program started.
+2017-12-12 10:06:16.768000 | Program started.
+2017-12-12 10:06:30.016000 | Program started.
+2017-12-12 10:06:46.022000 | Program started.
+2017-12-12 10:06:57.062000 | Program started.
+2017-12-12 10:07:07.855000 | Program started.
+2017-12-12 10:07:53.563000 | Program started.
+2017-12-12 10:11:12.594000 | Program started.
+2017-12-12 10:11:42.977000 | Program started.
+2017-12-12 10:14:30.051000 | Program started.
+2017-12-12 10:16:39.102000 | Program started.
+2017-12-12 10:17:44.653000 | Program started.
+2017-12-12 10:34:28.193000 | Program started.
+2017-12-12 10:34:51.708000 | Program started.
+2017-12-12 10:36:35.655000 | Program started.
+2017-12-12 10:39:20.433000 | Program started.
+2017-12-12 10:39:48.487000 | Program started.
+2017-12-12 10:40:11.462000 | Program started.
+2017-12-12 10:40:27.005000 | Program started.
+2017-12-12 10:40:54.616000 | Program started.
+2017-12-12 10:45:16.434000 | Program started.
+2017-12-12 10:45:33.588000 | Program started.
+2017-12-12 10:46:15.610000 | Program started.
+2017-12-12 10:46:58.353000 | Program started.
+2017-12-12 10:47:21.556000 | Program started.
+2017-12-12 10:47:46.632000 | Program started.
+2017-12-12 10:50:36.880000 | Program started.
+2017-12-12 10:54:28.337000 | Program started.
+2017-12-12 10:54:32.759000 | Program started.
+2017-12-12 10:54:37.979000 | Program started.
+2017-12-12 10:55:28.384000 | Program started.
+2017-12-12 10:55:34.787000 | Program started.
+2017-12-12 10:55:52.965000 | Program started.
+2017-12-12 10:55:57.508000 | Program started.
+2017-12-12 11:02:41.099000 | Program started.
+2017-12-12 11:13:53.602000 | Program started.
+2017-12-12 11:18:30.146000 | Program started.
+2017-12-12 11:39:49.042000 | Program started.
+2017-12-12 11:39:59.004000 | Program started.
+2017-12-12 11:41:06.717000 | Program started.
+2017-12-12 11:41:20.562000 | Program started.
+2017-12-12 11:41:35.150000 | Program started.
+2017-12-12 11:41:45.976000 | Program started.
+2017-12-12 11:41:53.331000 | Program started.
+2017-12-12 11:42:08.496000 | Program started.
+2017-12-13 00:12:21.880000 | Program started.
+2017-12-13 00:13:14.735000 | Program started.
+2017-12-13 00:13:26.780000 | Program started.
+2017-12-13 00:13:40.078000 | Program started.
+2017-12-13 00:14:43.205000 | Program started.
+2017-12-13 00:16:27.683000 | Program started.
+2017-12-13 00:16:50.668000 | Program started.
+2017-12-13 00:22:40.987000 | Program started.
+2017-12-13 00:23:14.550000 | Program started.
+2017-12-13 00:23:29.386000 | Program started.
+2017-12-13 00:24:48.382000 | Program started.
+2017-12-13 00:25:06.143000 | Program started.
+2017-12-13 00:25:10.177000 | Program started.
+2017-12-13 00:27:57.796000 | Program started.
+2017-12-13 00:28:21.624000 | Program started.
+2017-12-13 00:28:31.840000 | Program started.
+2017-12-13 00:29:10.338000 | Program started.
+2017-12-13 00:30:43.954000 | Program started.
+2017-12-13 00:31:26.301000 | Program started.
+2017-12-13 00:31:55.390000 | Program started.
+2017-12-13 00:32:40.312000 | Program started.
+2017-12-13 00:32:50.552000 | Program started.
+2017-12-13 00:34:13.847000 | Program started.
+2017-12-13 00:34:50.468000 | Program started.
+2017-12-13 00:35:51.586000 | Program started.
+2017-12-13 00:36:00.069000 | Program started.
+2017-12-13 00:36:06.946000 | Program started.
+2017-12-13 00:36:17.643000 | Program started.
+2017-12-13 00:37:19.218000 | Program started.
+2017-12-13 00:39:04.118000 | Program started.
+2017-12-13 00:44:07.665000 | Program started.
+2017-12-13 00:44:30.353000 | Program started.
+2017-12-13 00:45:05.847000 | Program started.
+2017-12-13 00:45:41.506000 | Program started.
+2017-12-13 00:46:04.565000 | Program started.
+2017-12-13 00:46:14.530000 | Program started.
+2017-12-13 00:46:41.910000 | Program started.
+2017-12-13 00:47:10.219000 | Program started.
+2017-12-13 00:47:31.453000 | Program started.
+2017-12-13 00:47:50.132000 | Program started.
+2017-12-13 00:48:56.150000 | Program started.
+2017-12-13 00:49:45.879000 | Program started.
+2017-12-13 00:50:48.100000 | Program started.
+2017-12-13 00:51:53.300000 | Program started.
+2017-12-13 00:52:02.207000 | Program started.
+2017-12-13 00:52:09.386000 | Program started.
+2017-12-13 00:52:15.268000 | Program started.
+2017-12-13 00:52:22.063000 | Program started.
+2017-12-13 00:52:33.468000 | Program started.
+2017-12-13 00:53:44.795000 | Program started.
+2017-12-13 00:56:02.700000 | Program started.
+2017-12-13 00:56:33.499000 | Program started.
+2017-12-13 00:56:48.941000 | Program started.
+2017-12-13 00:56:57.892000 | Program started.
+2017-12-13 01:00:52.017000 | Program started.
+2017-12-13 01:01:00.013000 | Program started.
+2017-12-13 01:01:03.013000 | Program started.
+2017-12-13 01:01:10.709000 | Program started.
+2017-12-13 01:04:43.141000 | Program started.
+2017-12-13 06:45:49.790000 | Program started.
+2017-12-13 06:47:11.096000 | Program started.
+2017-12-13 06:48:06.211000 | Program started.
+2017-12-13 06:48:12.690000 | Program started.
+2017-12-13 06:49:42.320000 | Program started.
+2017-12-13 06:49:55.839000 | Program started.
+2017-12-13 06:50:05.930000 | Program started.
+2017-12-13 06:50:48.989000 | Program started.
+2017-12-13 06:53:10.935000 | Program started.
+2017-12-13 06:53:19.976000 | Program started.
+2017-12-13 06:53:36.815000 | Program started.
+2017-12-13 06:53:52.061000 | Program started.
+2017-12-13 07:03:11.459000 | Program started.
+2017-12-13 07:03:29.649000 | Program started.
+2017-12-13 07:04:12.238000 | Program started.
+2017-12-13 07:04:41.348000 | Program started.
+2017-12-13 09:17:55.606000 | Program started.
+2017-12-15 13:47:38.375000 | Program started.
+2017-12-15 13:49:38.897000 | Program started.
+2017-12-15 13:50:49.511000 | Program started.
+2017-12-15 13:51:02.018000 | Program started.
+2017-12-15 14:06:11.486000 | Program started.
+2017-12-15 14:06:22.754000 | Program started.
+2017-12-15 14:06:41.174000 | Program started.
+2017-12-15 14:06:45.049000 | Program started.
+2017-12-15 14:06:56.323000 | Program started.
+2017-12-15 14:14:21.138000 | Program started.
+2017-12-15 14:14:41.096000 | Program started.
+2017-12-15 14:14:56.110000 | Program started.
+2017-12-15 14:15:35.848000 | Program started.
+2017-12-15 14:15:53.242000 | Program started.
+2017-12-15 15:38:25.244000 | Program started.
+2017-12-15 15:38:33.553000 | Program started.
+2017-12-15 15:38:51.105000 | Program started.
+2017-12-15 15:38:59.872000 | Program started.
+2017-12-15 16:03:40.899000 | Program started.
+2017-12-15 16:03:49.284000 | Program started.
+2017-12-15 16:04:26.796000 | Program started.
+2017-12-15 16:07:31.056000 | Program started.
+2017-12-15 16:08:42.565000 | Program started.
+2017-12-15 16:08:48.231000 | Program started.
+2017-12-15 16:09:23.868000 | Program started.
+2017-12-15 16:12:27.196000 | Program started.
+2017-12-15 16:12:36.141000 | Program started.
+2017-12-15 16:12:54.146000 | Program started.
+2017-12-15 16:19:26.515000 | Program started.
+2017-12-15 16:21:29.830000 | Program started.
+2017-12-15 16:21:42.061000 | Program started.
+2017-12-15 16:24:34.803000 | Program started.
+2017-12-15 16:26:04.539000 | Program started.
+2017-12-15 16:26:28.418000 | Program started.
+2017-12-15 16:26:35.975000 | Program started.
+2017-12-15 16:26:50.886000 | Program started.
+2017-12-15 16:27:01.899000 | Program started.
+2017-12-15 16:27:05.913000 | Program started.
+2017-12-15 16:28:30.824000 | Program started.
+2017-12-15 16:29:16.529000 | Program started.
+2017-12-15 16:29:20.908000 | Program started.
+2017-12-15 16:29:54.764000 | Program started.
+2017-12-15 16:30:12.720000 | Program started.
+2017-12-15 16:30:49.906000 | Program started.
+2017-12-15 16:31:13.418000 | Program started.
+2017-12-15 16:31:50.128000 | Program started.
+2017-12-15 16:33:12.281000 | Program started.
+2017-12-15 16:33:16.420000 | Program started.
+2017-12-15 16:33:26.247000 | Program started.
+2017-12-15 16:34:03.226000 | Program started.
+2017-12-15 16:34:31.760000 | Program started.
+2017-12-15 16:34:35.519000 | Program started.
+2017-12-15 16:34:54.887000 | Program started.
+2017-12-15 16:35:50.488000 | Program started.
+2017-12-15 16:36:36.409000 | Program started.
+2017-12-15 16:36:49.074000 | Program started.
+2017-12-15 16:37:06.556000 | Program started.
+2017-12-15 16:37:24.107000 | Program started.
+2017-12-15 16:38:03.616000 | Program started.
+2017-12-15 16:38:17.929000 | Program started.
+2017-12-15 16:38:36.421000 | Program started.
+2017-12-15 16:38:47.380000 | Program started.
+2017-12-19 09:13:36.839000 | Program started.
+2017-12-19 09:19:52.520000 | Program started.
+2017-12-19 09:20:02.754000 | Program started.
+2017-12-19 09:20:52.801000 | Program started.
+2017-12-19 09:23:14.707000 | Program started.
+2017-12-19 09:23:38.890000 | Program started.
+2017-12-19 09:25:06.179000 | Program started.
+2017-12-19 09:25:24.283000 | Program started.
+2017-12-19 09:27:25.183000 | Program started.
+2017-12-19 09:28:25.857000 | Program started.
+2017-12-19 09:28:38.677000 | Program started.
+2017-12-19 09:31:14.539000 | Program started.
+2017-12-19 09:31:22.261000 | Program started.
+2017-12-19 09:31:30.647000 | Program started.
+2017-12-19 09:31:57.609000 | Program started.
+2017-12-19 09:32:02.344000 | Program started.
+2017-12-19 09:32:14.452000 | Program started.
+2017-12-19 09:32:20.912000 | Program started.
+2017-12-19 09:33:26.676000 | Program started.
+2017-12-19 09:35:17.153000 | Program started.
+2017-12-19 09:36:03.126000 | Program started.
+2017-12-19 09:36:15.935000 | Program started.
+2017-12-19 09:39:37.723000 | Program started.
+2017-12-19 09:39:59.924000 | Program started.
+2017-12-19 09:40:36.787000 | Program started.
+2017-12-19 09:41:52.556000 | Program started.
+2017-12-19 09:42:06.942000 | Program started.
+2017-12-19 09:49:30.893000 | Program started.
+2017-12-19 10:06:46.607000 | Program started.
+2017-12-19 10:35:57.110000 | Program started.
+2017-12-19 10:39:22.468000 | Program started.
+2017-12-19 10:39:40.006000 | Program started.
+2017-12-19 10:42:12.089000 | Program started.
+2017-12-19 10:46:14.540000 | Program started.
+2017-12-19 10:47:36.836000 | Program started.
+2017-12-19 10:51:17.814000 | Program started.
+2017-12-19 10:51:42.492000 | Program started.
+2017-12-19 10:54:53.934000 | Program started.
+2017-12-19 10:55:32.303000 | Program started.
+2017-12-19 10:56:22.815000 | Program started.
+2017-12-19 10:56:32.895000 | Program started.
+2017-12-19 10:56:43.115000 | Program started.
+2017-12-19 10:56:48.848000 | Program started.
+2017-12-19 10:57:11.659000 | Program started.
+2017-12-19 10:57:33.365000 | Program started.
+2017-12-19 11:00:20.967000 | Program started.
+2017-12-19 11:00:27.265000 | Program started.
+2017-12-19 11:00:39.279000 | Program started.
+2017-12-19 11:01:44.277000 | Program started.
+2017-12-19 11:01:53.038000 | Program started.
+2017-12-19 11:06:52.755000 | Program started.
+2017-12-19 11:06:59.271000 | Program started.
+2017-12-19 16:05:19.249000 | Program started.
+2017-12-19 16:06:17.180000 | Program started.
+2017-12-19 16:08:18.640000 | Program started.
+2017-12-20 10:36:07.534000 | Program started.
+2017-12-20 10:36:15.448000 | Program started.
+2017-12-20 10:36:37.067000 | Program started.
+2017-12-20 10:36:42.383000 | Program started.
+2017-12-20 10:39:02.355000 | Program started.
+2017-12-20 10:42:49.582000 | Program started.
+2017-12-20 10:43:52.279000 | Program started.
+2017-12-20 10:44:00.466000 | Program started.
+2017-12-20 10:44:17.389000 | Program started.
+2017-12-20 10:44:40.947000 | Program started.
+2017-12-20 10:48:30.325000 | Program started.
+2017-12-20 11:51:25.220000 | Program started.
+2017-12-20 11:52:02.517000 | Program started.
+2017-12-20 11:52:21.277000 | Program started.
+2017-12-20 11:52:46.362000 | Program started.
+2017-12-20 11:53:02.051000 | Program started.
+2017-12-20 11:54:36.574000 | Program started.
+2017-12-20 11:55:41.926000 | Program started.
+2017-12-20 11:56:16.062000 | Program started.
+2017-12-20 11:57:25.583000 | Program started.
+2017-12-20 11:58:46.394000 | Program started.
+2017-12-20 11:58:59.425000 | Program started.
+2017-12-20 11:59:35.192000 | Program started.
+2017-12-20 12:01:06.502000 | Program started.
+2017-12-20 12:01:24.111000 | Program started.
+2017-12-20 12:02:18.329000 | Program started.
+2017-12-20 12:02:31.630000 | Program started.
+2017-12-20 12:02:37.224000 | Program started.
+2017-12-20 12:02:45.009000 | Program started.
+2017-12-20 12:02:59.166000 | Program started.
+2017-12-20 12:03:10.835000 | Program started.
+2017-12-20 12:03:23.059000 | Program started.
+2017-12-20 12:03:36.169000 | Program started.
+2017-12-20 15:52:38.130000 | Program started.
+2017-12-20 16:04:52.363000 | Program started.
+2017-12-20 16:05:08.065000 | Program started.
+2017-12-20 16:05:23.995000 | Program started.
+2017-12-20 16:06:10.672000 | Program started.
+2017-12-20 16:08:20.404000 | Program started.
+2017-12-20 16:08:39.318000 | Program started.
+2017-12-20 16:12:45.948000 | Program started.
+2017-12-20 16:17:05.749000 | Program started.
+2017-12-20 16:22:23.660000 | Program started.
+2017-12-20 16:22:46.324000 | Program started.
+2017-12-20 16:23:14.887000 | Program started.
+2017-12-20 16:23:32.079000 | Program started.
+2017-12-20 16:23:46.386000 | Program started.
+2017-12-20 16:23:51.644000 | Program started.
+2017-12-20 16:24:08.434000 | Program started.
+2017-12-20 16:24:15.890000 | Program started.
+2017-12-20 16:24:25.836000 | Program started.
+2017-12-20 16:25:03.562000 | Program started.
+2017-12-20 16:25:25.838000 | Program started.
+2017-12-20 16:26:34.412000 | Program started.
+2017-12-20 16:26:52.628000 | Program started.
+2017-12-20 16:26:58.050000 | Program started.
+2017-12-20 16:27:03.766000 | Program started.
+2017-12-20 16:27:06.810000 | Program started.
+2017-12-20 16:27:10.459000 | Program started.
+2017-12-20 16:27:17.984000 | Program started.
+2017-12-20 16:28:01.286000 | Program started.
+2017-12-20 16:28:14.086000 | Program started.
+2017-12-20 16:28:20.664000 | Program started.
+2017-12-20 16:28:27.681000 | Program started.
+2017-12-20 16:28:41.124000 | Program started.
+2017-12-20 16:30:32.723000 | Program started.
+2017-12-20 16:30:45.785000 | Program started.
+2017-12-20 16:30:59.092000 | Program started.
+2017-12-20 16:31:04.489000 | Program started.
+2017-12-20 16:31:16.719000 | Program started.
+2017-12-20 16:31:25.900000 | Program started.
+2017-12-20 16:31:32.933000 | Program started.
+2017-12-20 16:31:53.736000 | Program started.
+2017-12-20 16:32:02.696000 | Program started.
+2017-12-20 16:32:28.552000 | Program started.
+2017-12-20 16:33:44.386000 | Program started.
+2017-12-20 16:35:03.047000 | Program started.
+2017-12-20 16:35:33.605000 | Program started.
+2017-12-20 16:37:06.765000 | Program started.
+2017-12-20 16:38:44.930000 | Program started.
+2017-12-21 09:00:57.981000 | Program started.
+2017-12-21 09:02:21.685000 | Program started.
+2017-12-21 09:02:42.452000 | Program started.
+2017-12-21 09:03:16.973000 | Program started.
+2017-12-21 09:03:27.189000 | Program started.
+2017-12-21 09:04:39.863000 | Program started.
+2017-12-21 09:06:15.764000 | Program started.
+2017-12-21 09:06:25.311000 | Program started.
+2017-12-21 09:07:18.102000 | Program started.
+2017-12-21 09:07:37.715000 | Program started.
+2017-12-21 09:11:46.285000 | Program started.
+2017-12-21 09:12:21.759000 | Program started.
+2017-12-21 09:13:20.431000 | Program started.
+2017-12-21 09:14:32.792000 | Program started.
+2017-12-21 09:14:50.513000 | Program started.
+2017-12-21 09:14:57.305000 | Program started.
+2017-12-21 10:44:13.249000 | Program started.
+2017-12-21 10:44:29.919000 | Program started.
+2017-12-21 10:44:55.847000 | Program started.
+2017-12-21 10:45:31.699000 | Program started.
+2017-12-21 10:45:46.276000 | Program started.
+2017-12-21 10:45:55.756000 | Program started.
+2017-12-21 11:08:45.859000 | Program started.
+2017-12-21 11:08:59.745000 | Program started.
+2017-12-21 11:30:57.832000 | Program started.
+2017-12-21 11:31:16.649000 | Program started.
+2017-12-21 11:43:01.907000 | Program started.
+2017-12-21 11:43:07.755000 | Program started.
+2017-12-21 11:47:15.322000 | Program started.
+2017-12-21 11:47:49.992000 | Program started.
+2017-12-21 11:50:33.100000 | Program started.
+2017-12-21 11:50:40.931000 | Program started.
+2017-12-21 11:52:46.934000 | Program started.
+2017-12-21 11:53:24.265000 | Program started.
+2017-12-21 11:54:14.429000 | Program started.
+2017-12-21 11:54:28.330000 | Program started.
+2017-12-21 11:57:16.094000 | Program started.
+2017-12-21 11:57:31.125000 | Program started.
+2017-12-21 12:11:25.589000 | Program started.
+2017-12-21 12:12:19.053000 | Program started.
+2017-12-21 12:12:57.301000 | Program started.
+2017-12-21 12:13:08.050000 | Program started.
+2017-12-21 13:10:01.440000 | Program started.
+2017-12-21 13:35:13.705000 | Program started.
+2017-12-21 13:36:12.828000 | Program started.
+2017-12-21 13:42:24.352000 | Program started.
+2017-12-21 14:44:52.569000 | Program started.
+2017-12-21 16:23:40.117000 | Program started.
+2017-12-21 16:24:20.420000 | Program started.
+2017-12-21 16:36:50.540000 | Program started.
+2017-12-21 16:37:16.349000 | Program started.
+2017-12-26 10:28:31.212000 | Program started.
+2017-12-26 10:29:06.521000 | Program started.
+2017-12-26 10:29:20.472000 | Program started.
+2017-12-26 10:29:27.805000 | Program started.
+2017-12-26 10:43:00.089000 | Program started.
+2017-12-26 10:43:04.301000 | Program started.
+2017-12-26 10:53:31.922000 | Program started.
+2017-12-26 10:53:51.128000 | Program started.
+2017-12-26 10:53:57.348000 | Program started.
+2017-12-26 10:55:44.115000 | Program started.
+2017-12-26 10:55:54.200000 | Program started.
+2017-12-26 11:00:54.130000 | Program started.
+2017-12-26 11:10:42.125000 | Program started.
+2017-12-26 11:10:55.299000 | Program started.
+2017-12-26 11:11:02.223000 | Program started.
+2017-12-26 11:11:17.129000 | Program started.
+2017-12-26 11:11:46.780000 | Program started.
+2017-12-26 11:12:33.446000 | Program started.
+2017-12-26 11:13:23.842000 | Program started.
+2017-12-26 11:13:37.633000 | Program started.
+2017-12-26 11:14:42.326000 | Program started.
+2017-12-26 11:18:59.123000 | Program started.
+2017-12-26 11:19:22.488000 | Program started.
+2017-12-26 11:19:26.872000 | Program started.
+2017-12-26 11:26:51.195000 | Program started.
+2017-12-26 11:27:47.447000 | Program started.
+2017-12-26 11:27:53.656000 | Program started.
+2017-12-26 11:28:02.168000 | Program started.
+2017-12-26 11:28:20.192000 | Program started.
+2017-12-26 11:28:33.677000 | Program started.
+2017-12-26 11:28:48.227000 | Program started.
+2017-12-26 11:29:07.501000 | Program started.
+2017-12-26 11:29:12.307000 | Program started.
+2017-12-26 11:29:29.027000 | Program started.
+2017-12-26 11:32:45.070000 | Program started.
+2017-12-26 11:32:57.209000 | Program started.
+2017-12-26 11:33:01.523000 | Program started.
+2017-12-26 11:44:51.526000 | Program started.
+2017-12-26 11:45:03.074000 | Program started.
+2017-12-26 11:45:08.776000 | Program started.
+2017-12-26 11:45:21.030000 | Program started.
+2017-12-26 11:45:25.442000 | Program started.
+2017-12-26 11:51:43.562000 | Program started.
+2017-12-26 11:53:31.302000 | Program started.
+2017-12-26 11:53:43.983000 | Program started.
+2017-12-26 11:54:20.789000 | Program started.
+2017-12-26 11:54:28.509000 | Program started.
+2017-12-26 11:54:33.103000 | Program started.
+2017-12-26 11:55:37.764000 | Program started.
+2017-12-26 11:56:09.987000 | Program started.
+2017-12-26 11:56:21.970000 | Program started.
+2017-12-26 12:00:44.699000 | Program started.
+2017-12-26 12:01:46.460000 | Program started.
+2017-12-26 12:02:07.828000 | Program started.
+2017-12-26 12:02:24.793000 | Program started.
+2017-12-26 12:02:38.649000 | Program started.
+2017-12-26 12:02:45.599000 | Program started.
+2017-12-26 12:02:59.175000 | Program started.
+2017-12-26 12:03:05.438000 | Program started.
+2017-12-26 12:05:48.220000 | Program started.
+2017-12-26 12:05:57.011000 | Program started.
+2017-12-26 12:06:18.046000 | Program started.
+2017-12-26 12:07:05.507000 | Program started.
+2017-12-26 12:07:13.140000 | Program started.
+2017-12-26 12:07:47.529000 | Program started.
+2017-12-26 12:07:53.732000 | Program started.
+2017-12-26 12:08:08.221000 | Program started.
+2017-12-26 16:00:22.778000 | Program started.
+2017-12-27 16:19:01.087000 | Program started.
+2017-12-27 16:19:51.018000 | Program started.
+2017-12-27 16:23:52.914000 | Program started.
+2017-12-27 16:37:11.263000 | Program started.
+2017-12-29 09:01:30.095000 | Program started.
+2017-12-29 09:01:43.720000 | Program started.
+2017-12-29 09:01:50.853000 | Program started.
+2017-12-29 09:02:08.167000 | Program started.
+2017-12-29 09:02:16.605000 | Program started.
+2017-12-29 09:38:15.324000 | Program started.
+2017-12-29 09:38:24.200000 | Program started.
+2017-12-29 09:39:07.897000 | Program started.
+2017-12-29 09:39:39.338000 | Program started.
+2017-12-29 09:45:33.709000 | Program started.
+2017-12-29 09:47:55.684000 | Program started.
+2017-12-29 09:57:52.549000 | Program started.
+2017-12-29 09:58:54.500000 | Program started.
+2017-12-29 09:59:06.312000 | Program started.
+2017-12-29 10:00:20.169000 | Program started.
+2017-12-29 10:00:31.235000 | Program started.
+2017-12-29 10:01:06.332000 | Program started.
+2017-12-29 10:02:01.191000 | Program started.
+2017-12-29 11:57:46.038000 | Program started.
+2017-12-29 13:41:05.069000 | Program started.
+2017-12-29 13:42:06.818000 | Program started.
+2017-12-29 13:42:46.086000 | Program started.
+2017-12-29 13:42:50.009000 | Program started.
+2017-12-29 13:43:00.662000 | Program started.
+2017-12-29 13:43:26.202000 | Program started.
+2017-12-29 13:43:40.551000 | Program started.
+2017-12-29 13:44:51.896000 | Program started.
+2017-12-29 13:44:57.750000 | Program started.
+2017-12-29 13:45:01.566000 | Program started.
+2017-12-29 13:45:12.814000 | Program started.
+2017-12-29 13:45:18.951000 | Program started.
+2017-12-29 13:45:22.849000 | Program started.
+2017-12-29 13:45:27.959000 | Program started.
+2017-12-29 14:46:27.437000 | Program started.
+2017-12-29 14:46:40.485000 | Program started.
+2017-12-29 14:47:03.923000 | Program started.
+2017-12-29 14:47:07.177000 | Program started.
+2017-12-29 14:47:35.535000 | Program started.
+2017-12-29 14:47:54.882000 | Program started.
+2017-12-29 14:48:49.338000 | Program started.
+2017-12-29 14:48:57.353000 | Program started.
+2017-12-29 14:51:46.654000 | Program started.
+2017-12-29 14:52:14.463000 | Program started.
+2017-12-29 14:52:25.798000 | Program started.
+2017-12-29 14:52:36.379000 | Program started.
+2017-12-29 15:03:15.307000 | Program started.
+2017-12-29 15:03:25.357000 | Program started.
+2017-12-29 15:03:49.665000 | Program started.
+2017-12-29 15:04:24.268000 | Program started.
+2017-12-29 15:04:32.509000 | Program started.
+2017-12-29 15:08:07.700000 | Program started.
+2017-12-29 15:08:11.106000 | Program started.
+2017-12-29 15:08:24.848000 | Program started.
+2017-12-29 15:08:32.969000 | Program started.
+2017-12-29 15:08:42.257000 | Program started.
+2017-12-29 15:13:14.876000 | Program started.
+2017-12-29 15:13:48.943000 | Program started.
+2017-12-29 15:14:35.643000 | Program started.
+2017-12-29 15:15:04.709000 | Program started.
+2017-12-29 15:18:20.546000 | Program started.
+2017-12-29 15:18:57.893000 | Program started.
+2017-12-29 15:22:30.793000 | Program started.
+2017-12-29 15:23:20.543000 | Program started.
+2017-12-29 15:23:41.686000 | Program started.
+2017-12-29 15:23:42.579000 | Program started.
+2017-12-29 15:23:43.438000 | Program started.
+2017-12-29 15:23:44.526000 | Program started.
+2017-12-29 15:23:45.345000 | Program started.
+2017-12-29 15:27:00.598000 | Program started.
+2017-12-29 15:27:32.750000 | Program started.
+2017-12-29 15:27:43.219000 | Program started.
+2017-12-29 15:27:48.245000 | Program started.
+2017-12-29 15:28:01.408000 | Program started.
+2018-01-02 09:21:41.400000 | Program started.
+2018-01-02 09:29:23.091000 | Program started.
+2018-01-02 09:30:20.260000 | Program started.
+2018-01-02 09:30:37.210000 | Program started.
+2018-01-02 09:44:43.514000 | Program started.
+2018-01-02 09:45:05.428000 | Program started.
+2018-01-02 09:46:31.839000 | Program started.
+2018-01-02 09:46:48.638000 | Program started.
+2018-01-02 09:46:57.042000 | Program started.
+2018-01-02 09:47:09.655000 | Program started.
+2018-01-02 09:47:21.245000 | Program started.
+2018-01-02 09:47:56.017000 | Program started.
+2018-01-02 09:48:04.098000 | Program started.
+2018-01-02 09:49:08.518000 | Program started.
+2018-01-02 09:49:23.105000 | Program started.
+2018-01-02 09:50:02.549000 | Program started.
+2018-01-02 09:50:25.850000 | Program started.
+2018-01-02 09:50:52.044000 | Program started.
+2018-01-02 09:51:35.383000 | Program started.
+2018-01-02 09:51:53.381000 | Program started.
+2018-01-02 10:35:07.394000 | Program started.
+2018-01-02 10:35:46.659000 | Program started.
+2018-01-02 10:36:36.370000 | Program started.
+2018-01-02 10:36:48.099000 | Program started.
+2018-01-02 10:36:50.749000 | Program started.
+2018-01-02 15:26:45.245000 | Program started.
+2018-01-02 15:27:27.503000 | Program started.
+2018-01-02 15:27:42.979000 | Program started.
+2018-01-02 15:28:03.302000 | Program started.
+2018-01-02 15:29:09.194000 | Program started.
+2018-01-02 15:31:39.139000 | Program started.
+2018-01-02 15:33:14.325000 | Program started.
+2018-01-02 15:34:35.140000 | Program started.
+2018-01-02 15:35:06.850000 | Program started.
+2018-01-02 15:35:19.873000 | Program started.
+2018-01-02 15:36:07.392000 | Program started.
+2018-01-02 15:36:11.767000 | Program started.
+2018-01-02 15:36:14.903000 | Program started.
+2018-01-02 15:38:28.116000 | Program started.
+2018-01-02 15:39:08.594000 | Program started.
+2018-01-02 15:39:50.364000 | Program started.
+2018-01-02 15:40:46.844000 | Program started.
+2018-01-02 15:41:14.070000 | Program started.
+2018-01-02 15:41:36.067000 | Program started.
+2018-01-02 15:41:39.247000 | Program started.
+2018-01-02 15:41:56.603000 | Program started.
+2018-01-02 15:42:15.214000 | Program started.
+2018-01-02 15:43:03.806000 | Program started.
+2018-01-07 21:57:39.003249 | Program started.
+memory : 31576064
+2018-01-07 21:57:39.122855 | Program started.
+memory : 31576064
+2018-01-07 21:58:16.533356 | Program started.
+memory : 31748096
+2018-01-07 21:59:06.801313 | Program started.
+memory : 31440896
+2018-01-07 22:02:06.749252 | Program started.
+memory : 32063488
+2018-01-07 22:02:06.833795 | Program started.
+2018-01-07 22:02:39.620837 | Program started.
+memory : 31363072
+2018-01-07 22:02:49.652983 | Program started.
+2018-01-07 22:02:56.967549 | Program started.
+memory : 31289344
+2018-01-07 22:03:09.382739 | Program started.
+2018-01-07 22:04:44.796880 | Program started.
+memory : 31907840
+2018-01-07 22:07:42.871839 | Program started.
+memory : 31961088
+2018-01-11 20:40:38.185142 | Program started.
+memory : 28942336
+2018-01-11 20:40:38.217667 | Program started.
+2018-01-11 20:40:50.280099 | Program started.
+memory : 29028352
+2018-01-11 20:40:50.313786 | Program started.
+memory : 29028352
+2018-01-11 20:47:06.948998 | Program started.
+memory : 29073408
+2018-01-11 20:47:06.978008 | Program started.
+memory : 29073408
+2018-01-11 20:50:28.434637 | Program started.
+memory : 29167616
+2018-01-11 20:50:28.462657 | Program started.
+memory : 29167616
+2018-01-11 20:53:43.656437 | Program started.
+memory : 29192192
+2018-01-11 20:53:43.697466 | Program started.
+memory : 29192192
+2018-01-11 21:00:45.164918 | Program started.
+memory : 29024256
+2018-01-11 21:00:45.200945 | Program started.
+memory : 29024256
+2018-01-11 21:01:20.154502 | Program started.
+memory : 29437952
+2018-01-11 21:01:20.183511 | Program started.
+memory : 29437952
+2018-01-11 21:03:02.800194 | Program started.
+memory : 29102080
+2018-01-11 21:03:02.843398 | Program started.
+2018-01-11 21:03:34.062131 | Program started.
+memory : 29069312
+2018-01-11 21:03:34.091666 | Program started.
+memory : 29069312
+2018-01-11 21:04:20.523992 | Program started.
+memory : 29114368
+2018-01-11 21:04:20.570304 | Program started.
+memory : 29114368
+2018-01-11 21:04:33.985417 | Program started.
+memory : 28979200
+2018-01-11 21:04:34.020071 | Program started.
+memory : 28979200
+2018-01-11 21:04:40.579161 | Program started.
+memory : 29110272
+2018-01-11 21:04:40.608699 | Program started.
+memory : 29110272
+2018-01-11 21:04:43.219885 | Program started.
+memory : 28934144
+2018-01-11 21:04:43.248849 | Program started.
+memory : 28934144
+2018-01-11 21:05:24.711254 | Program started.
+memory : 28983296
+2018-01-11 21:05:24.737703 | Program started.
+memory : 28983296
+2018-01-11 21:06:53.339743 | Program started.
+memory : 29327360
+2018-01-11 21:06:53.380772 | Program started.
+memory : 29327360
+2018-01-11 21:07:01.932261 | Program started.
+memory : 29093888
+2018-01-11 21:07:09.734571 | Program started.
+memory : 29286400
+2018-01-11 21:07:09.789610 | Program started.
+memory : 29286400
+2018-01-11 21:13:07.601411 | Program started.
+memory : 29040640
+2018-01-11 21:13:07.633938 | Program started.
+memory : 29040640
+2018-01-11 21:14:34.108885 | Program started.
+memory : 29159424
+2018-01-11 21:14:34.147914 | Program started.
+memory : 29159424
+2018-01-11 21:14:47.286306 | Program started.
+memory : 28991488
+2018-01-11 21:14:47.316311 | Program started.
+memory : 28991488
+2018-01-11 21:18:04.412006 | Program started.
+memory : 29044736
+2018-01-11 21:18:04.451022 | Program started.
+memory : 29044736
+2018-01-11 21:18:04.472037 | Program started.
+2018-01-11 21:21:04.582767 | Program started.
+memory : 29278208
+2018-01-11 21:21:04.610779 | Program started.
+memory : 29278208
+2018-01-11 21:21:04.629308 | Program started.
+2018-01-11 21:21:16.292566 | Program started.
+memory : 28917760
+2018-01-11 21:21:16.326399 | Program started.
+memory : 28917760
+2018-01-11 21:21:16.338407 | Program started.
+2018-01-11 21:21:27.945246 | Program started.
+memory : 29036544
+2018-01-11 21:21:27.976263 | Program started.
+memory : 29036544
+2018-01-11 21:21:27.988260 | Program started.
+memory : 29085696
+2018-01-11 21:22:19.511125 | Program started.
+memory : 29073408
+2018-01-11 21:22:19.540129 | Program started.
+memory : 29073408
+2018-01-11 21:22:19.553139 | Program started.
+memory : 29179904
+2018-01-11 23:47:36.107164 | Program started.
+memory : 29057024
+2018-01-11 23:47:36.153700 | Program started.
+memory : 29057024
+2018-01-11 23:47:36.165709 | Program started.
+memory : 29061120
+2018-01-11 23:49:24.240395 | Program started.
+memory : 28975104
+2018-01-11 23:49:24.304446 | Program started.
+memory : 28975104
+2018-01-11 23:49:24.323460 | Program started.
+memory : 28975104
+2018-01-11 23:49:32.322364 | Program started.
+memory : 28938240
+2018-01-11 23:49:32.368899 | Program started.
+2018-01-11 23:49:32.391915 | Program started.
+2018-01-11 23:49:36.530657 | Program started.
+memory : 29147136
+2018-01-11 23:49:36.577691 | Program started.
+memory : 29147136
+2018-01-11 23:49:36.588699 | Program started.
+memory : 29265920
+2018-01-11 23:49:59.302077 | Program started.
+memory : 29122560
+2018-01-11 23:49:59.347117 | Program started.
+memory : 29122560
+2018-01-11 23:49:59.371132 | Program started.
+memory : 29237248
+2018-01-11 23:50:13.939568 | Program started.
+memory : 28889088
+2018-01-11 23:50:13.967658 | Program started.
+memory : 28889088
+2018-01-11 23:50:13.987671 | Program started.
+memory : 28938240
+2018-01-11 23:57:23.142051 | Program started.
+memory : 28893184
+2018-01-11 23:57:23.182085 | Program started.
+memory : 28893184
+2018-01-11 23:57:23.194094 | Program started.
+memory : 28921856
+2018-01-11 23:57:59.782730 | Program started.
+memory : 28876800
+2018-01-11 23:57:59.813771 | Program started.
+2018-01-11 23:57:59.819756 | Program started.
+2018-01-12 00:09:49.932924 | Program started.
+memory : 29200384
+2018-01-12 00:09:49.979964 | Program started.
+memory : 29200384
+2018-01-12 00:09:50.000980 | Program started.
+memory : 29237248
+2018-01-12 00:10:30.826693 | Program started.
+memory : 28930048
+2018-01-12 00:10:30.861270 | Program started.
+memory : 28930048
+2018-01-12 00:10:30.875280 | Program started.
+memory : 28934144
+2018-01-12 00:12:54.237644 | Program started.
+memory : 28987392
+2018-01-12 00:12:54.277677 | Program started.
+memory : 28987392
+2018-01-12 00:12:54.296694 | Program started.
+memory : 28987392
+2018-01-12 00:18:24.001896 | Program started.
+memory : 28954624
+2018-01-12 00:18:24.073446 | Program started.
+memory : 28954624
+2018-01-12 00:18:24.270587 | Program started.
+memory : 28958720
+2018-01-12 00:52:03.658629 | Program started.
+memory : 29069312
+2018-01-12 00:52:03.706664 | Program started.
+memory : 29069312
+2018-01-12 00:52:03.722175 | Program started.
+memory : 29093888
+2018-01-12 00:52:23.647104 | Program started.
+memory : 29040640
+2018-01-12 00:52:23.678126 | Program started.
+memory : 29040640
+2018-01-12 00:52:23.696141 | Program started.
+memory : 29073408
+2018-01-12 00:52:41.429639 | Program started.
+memory : 29298688
+2018-01-12 00:52:41.492184 | Program started.
+memory : 29298688
+2018-01-12 00:52:41.519704 | Program started.
+memory : 29413376
+2018-01-12 00:52:59.601686 | Program started.
+memory : 28876800
+2018-01-12 00:52:59.637210 | Program started.
+memory : 28876800
+2018-01-12 00:52:59.658226 | Program started.
+memory : 28934144
+2018-01-12 01:10:21.857703 | Program started.
+memory : 29036544
+2018-01-12 01:10:21.888953 | Program started.
+memory : 29036544
+2018-01-12 01:12:24.955098 | Program started.
+memory : 29376512
+2018-01-12 01:12:24.989754 | Program started.
+memory : 29376512
+2018-01-12 01:12:40.439401 | Program started.
+memory : 29114368
+2018-01-12 01:12:40.457417 | Program started.
+memory : 29114368
+2018-01-12 01:12:47.326448 | Program started.
+memory : 29118464
+2018-01-12 01:12:47.366735 | Program started.
+memory : 29118464
+2018-01-12 01:12:54.550213 | Program started.
+memory : 29032448
+2018-01-12 01:12:54.572341 | Program started.
+memory : 29032448
+2018-01-12 01:13:27.186061 | Program started.
+memory : 29220864
+2018-01-12 01:13:27.222863 | Program started.
+memory : 29220864
+2018-01-12 01:13:50.396979 | Program started.
+memory : 28995584
+2018-01-12 01:13:50.418611 | Program started.
+memory : 28995584
+2018-01-12 01:14:30.147950 | Program started.
+memory : 29081600
+2018-01-12 01:14:30.186481 | Program started.
+memory : 29081600
+2018-01-12 01:15:08.274774 | Program started.
+memory : 29073408
+2018-01-12 01:15:08.302314 | Program started.
+memory : 29073408
+2018-01-12 01:15:39.951970 | Program started.
+memory : 29319168
+2018-01-12 01:15:39.986728 | Program started.
+memory : 29319168
+2018-01-12 01:15:48.778121 | Program started.
+memory : 29249536
+2018-01-12 01:15:48.809847 | Program started.
+memory : 29249536
+2018-01-12 01:15:59.595836 | Program started.
+memory : 29102080
+2018-01-12 01:15:59.641829 | Program started.
+memory : 29102080
+2018-01-12 01:23:33.811320 | Program started.
+memory : 29155328
+2018-01-12 01:23:33.850897 | Program started.
+memory : 29155328
+2018-01-12 01:23:42.873330 | Program started.
+memory : 28868608
+2018-01-12 01:23:42.923997 | Program started.
+memory : 28872704
+2018-01-12 01:23:46.373955 | Program started.
+memory : 28876800
+2018-01-12 01:23:46.404593 | Program started.
+memory : 28880896
+2018-01-12 01:25:11.792155 | Program started.
+memory : 29257728
+2018-01-12 01:25:11.805199 | Program started.
+memory : 29261824
+2018-01-12 01:25:42.696186 | Program started.
+memory : 29077504
+2018-01-12 01:25:42.717577 | Program started.
+memory : 29081600
+2018-01-12 01:25:47.695325 | Program started.
+memory : 29126656
+2018-01-12 01:25:47.723690 | Program started.
+memory : 29130752
+2018-01-12 01:25:52.821959 | Program started.
+memory : 28852224
+2018-01-12 01:25:52.854715 | Program started.
+memory : 28856320
+2018-01-12 01:25:56.277806 | Program started.
+memory : 28884992
+2018-01-12 01:25:56.323686 | Program started.
+memory : 28889088
+2018-01-12 01:27:33.825406 | Program started.
+memory : 28930048
+2018-01-12 01:27:33.863168 | Program started.
+memory : 28934144
+2018-01-12 01:29:05.839090 | Program started.
+memory : 28954624
+2018-01-12 01:29:05.854715 | Program started.
+memory : 28958720
+2018-01-12 01:29:35.548615 | Program started.
+memory : 29114368
+2018-01-12 01:29:35.576071 | Program started.
+memory : 29118464
+2018-01-12 01:29:51.459524 | Program started.
+memory : 29069312
+2018-01-12 01:30:01.211439 | Program started.
+memory : 28979200
+2018-01-12 01:30:01.259681 | Program started.
+memory : 28979200
+2018-01-12 01:30:54.144054 | Program started.
+memory : 28995584
+2018-01-12 01:31:31.589036 | Program started.
+memory : 29192192
+2018-01-12 01:32:08.189456 | Program started.
+memory : 29200384
+2018-01-12 01:32:23.526870 | Program started.
+memory : 29040640
+2018-01-12 01:32:50.205607 | Program started.
+memory : 28835840
+2018-01-12 01:32:57.826978 | Program started.
+memory : 28962816
+2018-01-12 01:34:44.132489 | Program started.
+memory : 28721152
+2018-01-12 01:34:44.175520 | Program started.
+memory : 28725248
+2018-01-12 01:34:56.527356 | Program started.
+memory : 28712960
+2018-01-12 01:34:56.571550 | Program started.
+memory : 28717056
+2018-01-12 01:35:12.947867 | Program started.
+memory : 28807168
+2018-01-12 01:35:28.263892 | Program started.
+memory : 28192768
+2018-01-12 01:35:28.314430 | Program started.
+memory : 28196864
+2018-01-12 01:42:47.627714 | Program started.
+memory : 28639232
+2018-01-12 01:42:47.682469 | Program started.
+memory : 28643328
+2018-01-12 01:45:31.070521 | Program started.
+memory : 28721152
+2018-01-12 01:45:31.104502 | Program started.
+memory : 28725248
+2018-01-12 01:45:59.062086 | Program started.
+memory : 28147712
+2018-01-12 01:45:59.094860 | Program started.
+memory : 28151808
+2018-01-12 01:47:10.681977 | Program started.
+memory : 28200960
+2018-01-12 01:47:10.710997 | Program started.
+memory : 28205056
+2018-01-12 01:47:23.578418 | Program started.
+memory : 28733440
+2018-01-12 01:47:23.623885 | Program started.
+memory : 28737536
+2018-01-12 01:47:31.572518 | Program started.
+memory : 28831744
+2018-01-12 01:47:31.614242 | Program started.
+memory : 28835840
+2018-01-12 01:47:38.726289 | Program started.
+memory : 28180480
+2018-01-12 01:47:38.756213 | Program started.
+memory : 28184576
+2018-01-12 01:49:58.250954 | Program started.
+memory : 28868608
+2018-01-12 01:49:58.280004 | Program started.
+2018-01-12 01:50:23.377426 | Program started.
+memory : 28819456
+2018-01-12 01:50:23.426657 | Program started.
+memory : 28823552
+2018-01-12 08:41:46.201319 | Program started.
+memory : 28782592
+2018-01-12 08:41:46.259351 | Program started.
+memory : 28786688
+2018-01-12 08:47:59.134083 | Program started.
+memory : 28688384
+2018-01-12 08:47:59.168197 | Program started.
+memory : 28692480
+2018-01-12 08:48:14.008841 | Program started.
+memory : 28749824
+2018-01-12 08:48:14.048870 | Program started.
+memory : 28753920
+2018-01-12 08:48:23.414922 | Program started.
+memory : 28090368
+2018-01-12 08:48:23.454951 | Program started.
+memory : 28094464
+2018-01-12 08:48:31.033423 | Program started.
+memory : 28299264
+2018-01-12 08:48:31.070432 | Program started.
+memory : 28303360
+2018-01-12 08:48:39.099083 | Program started.
+memory : 28356608
+2018-01-12 08:48:39.132789 | Program started.
+2018-01-12 08:48:54.033628 | Program started.
+memory : 28098560
+2018-01-12 08:48:54.081662 | Program started.
+memory : 28102656
+2018-01-12 08:52:37.124430 | Program started.
+memory : 28372992
+2018-01-12 08:52:37.172464 | Program started.
+memory : 28377088
+2018-01-12 08:52:56.506961 | Program started.
+memory : 28221440
+2018-01-12 08:52:56.551977 | Program started.
+memory : 28225536
+2018-01-12 09:05:40.321393 | Program started.
+memory : 28102656
+2018-01-12 09:05:40.372430 | Program started.
+memory : 28106752
+2018-01-12 09:05:50.364539 | Program started.
+memory : 28200960
+2018-01-12 09:05:50.417577 | Program started.
+2018-01-12 09:05:57.580674 | Program started.
+memory : 28188672
+2018-01-12 09:05:57.615698 | Program started.
+memory : 28192768
+2018-01-12 09:06:10.655977 | Program started.
+memory : 28258304
+2018-01-12 09:06:10.696005 | Program started.
+memory : 28262400
+2018-01-12 09:06:21.162452 | Program started.
+memory : 28643328
+2018-01-12 09:06:21.214488 | Program started.
+memory : 28647424
+2018-01-12 09:06:52.139493 | Program started.
+memory : 28184576
+2018-01-12 09:06:52.178519 | Program started.
+memory : 28188672
+2018-01-12 09:22:39.247585 | Program started.
+memory : 28160000
+2018-01-12 09:22:39.278607 | Program started.
+memory : 28164096
+2018-01-12 09:26:33.369163 | Program started.
+memory : 28708864
+2018-01-12 09:26:33.402186 | Program started.
+memory : 28712960
+2018-01-12 09:28:46.309750 | Program started.
+memory : 28753920
+2018-01-12 09:28:46.345776 | Program started.
+2018-01-12 09:30:08.398156 | Program started.
+memory : 28778496
+2018-01-12 09:30:08.439185 | Program started.
+2018-01-12 09:33:16.377916 | Program started.
+memory : 28172288
+2018-01-12 09:33:16.410928 | Program started.
+2018-01-12 09:33:18.957739 | Program started.
+memory : 28065792
+2018-01-12 09:33:18.988761 | Program started.
+memory : 28069888
+2018-01-12 09:41:31.461687 | Program started.
+memory : 28786688
+2018-01-12 09:41:31.490695 | Program started.
+memory : 28790784
+2018-01-12 09:44:24.296648 | Program started.
+memory : 28164096
+2018-01-12 09:44:24.344681 | Program started.
+memory : 28168192
+2018-01-12 09:47:57.506346 | Program started.
+memory : 28708864
+2018-01-12 09:47:57.546375 | Program started.
+memory : 28712960
+2018-01-12 09:48:12.401944 | Program started.
+memory : 28721152
+2018-01-12 09:48:12.434968 | Program started.
+memory : 28725248
+2018-01-12 09:48:47.067625 | Program started.
+memory : 28139520
+2018-01-12 09:48:47.099631 | Program started.
+2018-01-12 09:49:16.786767 | Program started.
+memory : 28786688
+2018-01-12 09:49:16.828784 | Program started.
+2018-01-12 09:49:26.069359 | Program started.
+memory : 28147712
+2018-01-12 09:49:26.102382 | Program started.
+2018-01-12 09:49:31.532258 | Program started.
+memory : 28798976
+2018-01-12 09:49:31.561266 | Program started.
+memory : 28803072
+2018-01-12 09:49:37.947810 | Program started.
+memory : 28774400
+2018-01-12 09:49:37.980834 | Program started.
+2018-01-12 09:51:42.369336 | Program started.
+memory : 28778496
+2018-01-12 09:51:42.409365 | Program started.
+memory : 28782592
+2018-01-12 09:53:15.238412 | Program started.
+memory : 28188672
+2018-01-12 09:53:15.267433 | Program started.
+memory : 28192768
+2018-01-12 10:39:34.435298 | Program started.
+memory : 28450816
+2018-01-12 10:39:34.490838 | Program started.
+memory : 28454912
+2018-01-12 10:40:06.076013 | Program started.
+memory : 28794880
+2018-01-12 10:40:06.114524 | Program started.
+memory : 28798976
+2018-01-12 10:41:51.030124 | Program started.
+memory : 28057600
+2018-01-12 10:41:51.065649 | Program started.
+memory : 28061696
+2018-01-12 10:42:03.458804 | Program started.
+memory : 28692480
+2018-01-12 10:42:03.493829 | Program started.
+2018-01-12 10:42:22.544653 | Program started.
+memory : 28209152
+2018-01-12 10:42:22.581161 | Program started.
+memory : 28213248
+2018-01-12 10:42:53.664853 | Program started.
+memory : 28692480
+2018-01-12 10:42:53.705381 | Program started.
+memory : 28696576
+2018-01-12 10:47:35.940532 | Program started.
+memory : 28860416
+2018-01-12 10:47:35.986065 | Program started.
+memory : 28864512
+2018-01-12 10:47:43.193715 | Program started.
+memory : 28753920
+2018-01-12 10:47:43.229740 | Program started.
+memory : 28758016
+2018-01-12 10:49:18.332721 | Program started.
+memory : 28655616
+2018-01-12 10:49:18.370247 | Program started.
+memory : 28659712
+2018-01-12 10:50:03.710703 | Program started.
+memory : 28868608
+2018-01-12 10:50:03.744227 | Program started.
+memory : 28872704
+2018-01-12 10:50:26.019015 | Program started.
+memory : 28499968
+2018-01-12 10:50:26.062545 | Program started.
+2018-01-12 10:50:36.124355 | Program started.
+memory : 28774400
+2018-01-12 10:50:36.155861 | Program started.
+memory : 28778496
+2018-01-12 10:50:38.465028 | Program started.
+memory : 28696576
+2018-01-12 10:50:38.493538 | Program started.
+memory : 28700672
+2018-01-12 10:56:15.169994 | Program started.
+memory : 28704768
+2018-01-12 10:56:15.201016 | Program started.
+memory : 28708864
+2018-01-12 10:56:44.595213 | Program started.
+memory : 28295168
+2018-01-12 10:56:44.625222 | Program started.
+memory : 28299264
+2018-01-12 10:57:56.324314 | Program started.
+memory : 28717056
+2018-01-12 10:57:56.363842 | Program started.
+memory : 28721152
+2018-01-12 10:58:23.104643 | Program started.
+memory : 28168192
+2018-01-12 10:58:23.133664 | Program started.
+memory : 28172288
+2018-01-12 10:58:44.503961 | Program started.
+memory : 28184576
+2018-01-12 10:58:44.543990 | Program started.
+memory : 28192768
+2018-01-12 10:59:19.161814 | Program started.
+memory : 28790784
+2018-01-12 10:59:19.199341 | Program started.
+memory : 28794880
+2018-01-12 10:59:29.384196 | Program started.
+memory : 28151808
+2018-01-12 10:59:29.413717 | Program started.
+memory : 28155904
+2018-01-12 11:04:41.080987 | Program started.
+memory : 28880896
+2018-01-12 11:04:41.110508 | Program started.
+memory : 28884992
+2018-01-12 16:21:26.612356 | Program started.
+memory : 28975104
+2018-01-12 16:21:27.513612 | Program started.
+memory : 28979200
+2018-01-12 16:21:29.283831 | Program started.
+memory : 28733440
+2018-01-12 16:21:29.317855 | Program started.
+memory : 28737536
+2018-01-12 16:22:44.127004 | Program started.
+memory : 28135424
+2018-01-12 16:22:44.160017 | Program started.
+2018-01-12 16:22:51.727489 | Program started.
+memory : 28372992
+2018-01-12 16:22:51.762015 | Program started.
+memory : 28377088
+2018-01-12 16:22:58.368536 | Program started.
+memory : 28782592
+2018-01-12 16:22:58.409565 | Program started.
+memory : 28786688
+2018-01-12 16:23:08.279861 | Program started.
+memory : 28827648
+2018-01-12 16:23:08.308380 | Program started.
+memory : 28831744
+2018-01-12 16:23:34.614469 | Program started.
+memory : 28770304
+2018-01-12 16:23:34.643990 | Program started.
+memory : 28774400
+2018-01-12 17:23:16.103050 | Program started.
+memory : 31281152
+2018-01-12 17:23:31.453592 | Program started.
+memory : 31289344
+2018-01-12 17:25:09.442951 | Program started.
+memory : 31125504
+2018-01-12 17:25:12.038855 | Program started.
+memory : 31125504
+2018-01-12 17:25:20.651304 | Program started.
+memory : 31338496
+2018-01-12 17:25:23.223963 | Program started.
+memory : 31391744
+2018-01-12 17:26:47.689501 | Program started.
+memory : 31444992
+2018-01-12 17:33:26.275576 | Program started.
+memory : 31526912
+2018-01-12 17:33:29.678428 | Program started.
+memory : 14086144
+2018-01-12 20:36:02.978445 | Program started.
+memory : 31526912
+2018-01-12 20:36:05.609427 | Program started.
+memory : 31522816
+2018-01-12 20:58:46.038081 | Program started.
+memory : 31145984
+2018-01-12 20:58:49.253407 | Program started.
+memory : 31150080
+2018-01-12 21:01:20.468507 | Program started.
+memory : 30834688
+2018-01-12 21:01:22.481940 | Program started.
+memory : 30961664
+2018-01-12 21:01:51.757124 | Program started.
+memory : 31432704
+2018-01-12 21:01:54.720750 | Program started.
+memory : 31432704
+2018-01-12 21:02:14.258285 | Program started.
+memory : 31715328
+2018-01-12 21:02:19.210348 | Program started.
+memory : 31703040
+2018-01-12 21:06:23.392407 | Program started.
+memory : 31150080
+2018-01-12 21:06:25.402910 | Program started.
+memory : 31182848
+2018-01-13 00:29:31.734089 | Program started.
+memory : 31232000
+2018-01-13 00:30:12.857255 | Program started.
+memory : 31182848
+2018-01-13 00:34:39.344179 | Program started.
+memory : 20574208
+2018-01-13 00:35:09.069514 | Program started.
+memory : 20582400
+2018-01-13 00:38:30.345163 | Program started.
+memory : 16166912
+2018-01-13 23:06:42.095410 | Program started.
+memory : 28499968
+2018-01-13 23:06:42.148455 | Program started.
+memory : 28504064
+2018-01-13 23:20:28.047391 | Program started.
+memory : 16531456
+2018-01-13 23:20:41.609488 | Program started.
+memory : 16457728
+2018-01-13 23:21:28.736813 | Program started.
+memory : 16510976
+2018-01-13 23:21:30.876045 | Program started.
+memory : 16486400
+2018-01-13 23:23:26.098078 | Program started.
+memory : 16416768
+2018-01-13 23:24:42.912832 | Program started.
+memory : 16433152
+2018-01-13 23:25:47.632153 | Program started.
+memory : 16543744
+2018-01-13 23:26:35.617785 | Program started.
+memory : 16449536
+2018-01-13 23:27:46.504232 | Program started.
+memory : 16498688
+2018-01-13 23:28:40.231696 | Program started.
+memory : 16498688
+2018-01-13 23:28:42.376746 | Program started.
+memory : 16277504
+2018-01-13 23:31:52.989160 | Program started.
+memory : 16285696
+2018-01-13 23:37:41.310501 | Program started.
+memory : 16285696
+2018-01-13 23:49:22.007272 | Program started.
+memory : 16330752
+2018-01-13 23:49:44.550699 | Program started.
+memory : 16252928
+2018-01-13 23:49:59.300960 | Program started.
+memory : 16322560
+2018-01-13 23:50:42.155375 | Program started.
+memory : 16199680
+2018-01-13 23:52:23.076670 | Program started.
+memory : 16285696
+2018-01-13 23:54:41.536721 | Program started.
+memory : 16166912
+2018-01-13 23:55:21.571995 | Program started.
+memory : 16162816
+2018-01-13 23:55:29.545668 | Program started.
+memory : 16306176
+2018-01-14 00:42:45.140402 | Program started.
+memory : 16281600
+2018-01-14 01:37:37.342084 | Program started.
+memory : 16273408
+2018-01-14 01:37:50.985626 | Program started.
+memory : 16199680
+2018-01-14 01:38:52.699025 | Program started.
+memory : 16191488
+2018-01-14 01:39:13.142418 | Program started.
+memory : 16289792
+2018-01-14 01:39:31.130878 | Program started.
+memory : 16322560
+2018-01-14 01:46:15.004009 | Program started.
+memory : 16240640
+2018-01-14 01:47:15.120235 | Program started.
+memory : 16220160
+2018-01-14 01:48:03.553027 | Program started.
+memory : 16261120
+2018-01-14 01:51:10.981151 | Program started.
+memory : 16207872
+2018-01-14 02:08:41.685038 | Program started.
+memory : 16293888
+2018-01-14 02:10:55.279343 | Program started.
+memory : 16318464
+2018-01-14 09:08:51.393712 | Program started.
+memory : 16326656
+2018-01-14 09:10:12.050448 | Program started.
+memory : 16285696
+2018-01-14 11:14:17.039505 | Program started.
+memory : 16240640
+2018-01-14 11:14:33.084932 | Program started.
+memory : 16224256
+2018-01-14 12:31:05.850572 | Program started.
+memory : 16207872
+2018-01-14 12:31:16.720061 | Program started.
+memory : 16257024
+2018-01-14 12:31:33.040752 | Program started.
+memory : 16306176
+2018-01-14 15:26:27.232972 | Program started.
+2018-01-14 15:28:34.907534 | Program started.
+2018-01-14 15:29:40.618799 | Program started.
+2018-01-14 15:34:50.989899 | Program started.
+2018-01-14 15:35:14.149557 | Program started.
+2018-01-31 16:11:10.786002 | Program started.
+memory : 11886592
+2018-01-31 16:16:45.687158 | Program started.
+memory : 11837440
+2018-01-31 16:22:34.551111 | Program started.
+memory : 11943936
+2018-01-31 16:22:34.533110 | Program started.
+2018-01-31 16:23:05.246867 | Program started.
+memory : 12054528
+2018-01-31 16:23:05.221866 | Program started.
+2018-01-31 16:23:39.220810 | Program started.
+memory : 12050432
+2018-01-31 16:23:39.199809 | Program started.
+2018-01-31 16:24:23.934368 | Program started.
+memory : 12079104
+2018-01-31 16:24:23.908366 | Program started.
+2018-01-31 16:24:48.054747 | Program started.
+2018-01-31 16:25:19.043520 | Program started.
+memory : 12050432
+2018-01-31 16:25:19.022519 | Program started.
+2018-01-31 16:25:25.455887 | Program started.
+2018-01-31 16:26:43.785367 | Program started.
+memory : 12152832
+2018-01-31 16:26:43.764366 | Program started.
+2018-01-31 16:31:49.640206 | Program started.
+memory : 12005376
+2018-01-31 16:31:49.620205 | Program started.
+2018-01-31 16:32:16.273729 | Program started.
+memory : 11980800
+2018-01-31 16:32:16.249728 | Program started.
+2018-01-31 16:32:37.650952 | Program started.
+memory : 11960320
+2018-01-31 16:32:37.631951 | Program started.
+2018-01-31 16:33:10.689842 | Program started.
+memory : 12021760
+2018-01-31 16:33:10.687842 | Program started.
+2018-01-31 16:34:26.278638 | Program started.
+2018-01-31 16:34:37.155772 | Program started.
+2018-01-31 16:36:35.531376 | Program started.
+memory : 12349440
+2018-01-31 16:36:35.195564 | Program started.
+2018-02-01 14:52:18.542326 | Program started.
+2018-02-01 14:52:43.713353 | Program started.
+2018-02-01 14:57:59.130897 | Program started.
+notime | Program started.
+notime | Program started.
+notime | Program started.
+no datetime | Program started.
+notime | Program started.
+no datetime | Program started.
+notime | Program started.
+no datetime | Program started.
+no datetime | Program started.
+no datetime | Program started.
+no datetime | Program started.
+no datetime | Program started.
+memory : 11976704
+no datetime | Program started.
+memory : 11853824
+2018-02-01 15:21:30.314439 | Program started.
+memory : 12075008
+no datetime | Program started.
+memory : 11853824
+no datetime | Program started.
+memory : 11862016
+2018-02-01 15:23:44.654246 | Program started.
+memory : 12083200
+2018-02-01 15:24:43.581617 | Program started.
+memory : 11808768
+2018-02-01 15:26:04.685256 | Program started.
+memory : 11800576
+2018-02-01 15:26:19.588108 | Program started.
+memory : 12435456
+2018-02-01 15:26:51.934461 | Program started.
+memory : 12410880
+2018-02-01 16:05:15.929659 | Program started.
+2018-02-01 16:05:52.884038 | Program started.
+2018-02-01 16:06:34.260244 | Program started.
+2018-02-01 16:06:43.937034 | Program started.
+memory : 12333056
+2018-02-01 16:07:24.441416 | Program started.
+memory : 12304384
+2018-02-01 16:08:05.951835 | Program started.
+memory : 12308480
+2018-02-01 16:08:18.059633 | Program started.
+memory : 12324864
+2018-02-01 16:08:38.032037 | Program started.
+memory : 12333056
+2018-02-01 16:08:41.646308 | Program started.
+memory : 12324864
+2018-02-01 16:08:49.095829 | Program started.
+memory : 12316672
+2018-02-01 16:12:09.075264 | Program started.
+memory : 12328960
+no datetime | Program started.
+2018-02-01 16:12:29.855511 | Program started.
+no datetime | Program started.
+2018-02-01 16:15:54.597665 | Program started.
+memory : 12324864
+no datetime | Program started.
+2018-02-01 16:17:19.058264 | Program started.
+memory : 12333056
+no datetime | Program started.
+memory : 11923456
+no datetime | Program started.
+memory : 11939840
+2018-02-01 16:18:20.541246 | Program started.
+2018-02-01 16:18:53.005260 | Program started.
+2018-02-01 16:18:59.200101 | Program started.
+memory : 12365824
+2018-02-01 16:23:25.541993 | Program started.
+memory : 12345344
+2018-02-01 16:24:33.643889 | Program started.
+memory : 12324864
+2018-02-01 16:25:44.222926 | Program started.
+memory : 12378112
+2018-02-01 16:25:58.860763 | Program started.
+memory : 12382208
+2018-02-01 16:29:15.296998 | Program started.
+memory : 12320768
+2018-02-01 16:29:35.319143 | Program started.
+memory : 12320768
+no datetime | Program started.
+memory : 11935744
+2018-02-01 16:29:56.960381 | Program started.
+memory : 12328960
+2018-02-01 16:30:21.969812 | Program started.
+memory : 12324864
+2018-02-01 16:30:36.508643 | Program started.
+memory : 11849728
+2018-02-01 16:31:46.245632 | Program started.
+memory : 11878400
+2018-02-01 16:31:55.323151 | Program started.
+memory : 11874304
+2018-02-01 16:32:13.200174 | Program started.
+memory : 11878400
+2018-02-01 16:32:16.102340 | Program started.
+memory : 11874304
+2018-02-01 16:34:09.047800 | Program started.
+memory : 11866112
+no datetime | Program started.
+2018-02-01 16:35:20.274815 | Program started.
+memory : 11866112
+no datetime | Program started.
+2018-02-01 16:35:53.584757 | Program started.
+memory : 11890688
+no datetime | Program started.
+memory : 11341824
+2018-02-02 09:31:29.452111 | Program started.
+memory : 11898880
+2018-02-02 09:34:47.568835 | Program started.
+memory : 11898880
+2018-02-02 09:35:18.690970 | Program started.
+memory : 11866112
+no datetime | Program started.
+no datetime | Program started.
+no datetime | Program started.
+no datetime | Program started.
+no datetime | Program started.
+memory : 12255232
+no datetime | Program started.
+memory : 12316672
+no datetime | Program started.
+memory : 12308480
+2018-02-02 10:53:18.376249 | Program started.
+memory : 11804672
+no datetime | Program started.
+memory : 12234752
+2018-02-02 10:53:39.216706 | Program started.
+memory : 11776000
+no datetime | Program started.
+memory : 12222464
+2018-02-02 10:53:53.980289 | Program started.
+memory : 11812864
+no datetime | Program started.
+memory : 12247040
+no datetime | Program started.
+memory : 12300288
+no datetime | Program started.
+memory : 12333056
+no datetime | Program started.
+memory : 12328960
+no datetime | Program started.
+memory : 12333056
+no datetime | Program started.
+memory : 12308480
+no datetime | Program started.
+memory : 12029952
+no datetime | Program started.
+memory : 12267520
+no datetime | Program started.
+memory : 12242944
+no datetime | Program started.
+memory : 12226560
+no datetime | Program started.
+memory : 12492800
+no datetime | Program started.
+memory : 12214272
+no datetime | Program started.
+memory : 12484608
+no datetime | Program started.
+memory : 12193792
+no datetime | Program started.
+memory : 12218368
+no datetime | Program started.
+memory : 12488704
+no datetime | Program started.
+memory : 12177408
+no datetime | Program started.
+memory : 12152832
+no datetime | Program started.
+memory : 12148736
+no datetime | Program started.
+memory : 12148736
+no datetime | Program started.
+memory : 12169216
+no datetime | Program started.
+memory : 12124160
+no datetime | Program started.
+memory : 12169216
+no datetime | Program started.
+memory : 12201984
+no datetime | Program started.
+memory : 12144640
+no datetime | Program started.
+memory : 12132352
+no datetime | Program started.
+memory : 12156928
+no datetime | Program started.
+memory : 12222464
+no datetime | Program started.
+memory : 17514496
+no datetime | Program started.
+memory : 17473536
+2018-02-02 21:14:54.229190 | Program started.
+memory : 17526784
+

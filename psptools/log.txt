@@ -1,0 +1,16 @@
+2018-02-02 21:17:16.911456 | Program started.
+memory : 17592320
+2018-02-02 21:17:24.844107 | Program started.
+memory : 17723392
+2018-02-02 21:17:56.543678 | Program started.
+memory : 17580032
+2018-02-02 21:20:46.854909 | Program started.
+memory : 17723392
+2018-02-02 21:31:14.523664 | Program started.
+memory : 17530880
+2018-02-05 08:06:11.937233 | Program started.
+memory : 17690624
+2018-02-05 08:06:27.393634 | Program started.
+memory : 16982016
+2018-02-05 08:13:25.079200 | Program started.
+memory : 16986112
