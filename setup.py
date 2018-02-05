@@ -39,16 +39,9 @@ class RunTests(Command):
         else:
             print('Test Start')
         import tests
-        import time
-        print('1')
         ptests = unittest.TestSuite(tests.suite())
-        print('2')
         runner = unittest.TextTestRunner(verbosity=2)
-        print('3')
         results = runner.run(ptests)
-        print('4')
-        time.sleep(1)
-        print('5')
         sys.exit(0 if results.wasSuccessful() else 1)
 
 
@@ -87,15 +80,10 @@ setup(name='psptools',
       author_email='dltldls95@naver.com',
       url='https://github.com/Epikem/psptools.git',
       packages=['psptools'],
-      license='MIT',
+      license=open('LICENSE').read(),
       classifiers=classifiers,
-      install_requires=required,
-      tests_require=required,
-    #   install_requires=
-    #   [
-    #       'astunparse',
-    #       'mock'
-    #   ],
+      install_requires=['pypreprocessor'],
+      tests_require=['pypreprocessor'],
       cmdclass={
           'test': RunTests,
       })
