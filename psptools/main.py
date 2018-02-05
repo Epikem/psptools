@@ -63,10 +63,10 @@ import time
 #[Preprocess]#endif
 
 from datetime import datetime
-
-def convertoToBytes(arg):
+def convert_to_bytes(arg):
 	if isinstance(arg, bytes):
 		if(sys.version_info[0] >= 3):
+			return str(arg)
 			return arg.decode('utf-8')
 		return arg
 	elif isinstance(arg, str):
@@ -76,16 +76,35 @@ def convertoToBytes(arg):
 			return arg.encode('utf-8')
 	elif hasattr(arg, '__iter__'):
 		if(sys.version_info[0] >= 3):
-			return ' '.join(list(map(convertoToBytes, arg)))
+			return ' '.join(list(map(convert_to_bytes, arg)))
 		else:
-			return b' '.join(map(convertoToBytes, arg))
+			return b' '.join(map(convert_to_bytes, arg))
 	else:
-		if(sys.version_info[0] >= 3):
-			return str(arg)
+		return str(arg)
 		return str(arg).encode('utf-8')
+# def convert_to_bytes(arg):
+# 	if isinstance(arg, bytes):
+# 		if(sys.version_info[0] >= 3):
+# 			return str(arg)
+# 			return arg.decode('utf-8')
+# 		return arg
+# 	elif isinstance(arg, str):
+# 		if(sys.version_info[0] >= 3):
+# 			return arg
+# 		else:
+# 			return arg.encode('utf-8')
+# 	elif hasattr(arg, '__iter__'):
+# 		if(sys.version_info[0] >= 3):
+# 			return ' '.join(list(map(convert_to_bytes, arg)))
+# 		else:
+# 			return b' '.join(map(convert_to_bytes, arg))
+# 	else:
+# 		if(sys.version_info[0] >= 3):
+# 			return str(arg).encode('utf-8')
+# 		return str(arg).encode('utf-8')
 
 #region Default IO Functions
-# def convertoToBytes(arg):
+# def convert_to_bytes(arg):
 # 	print('convertToBytes')
 # 	# return str(arg)
 # 	if isinstance(arg, bytes):
@@ -100,9 +119,9 @@ def convertoToBytes(arg):
 # 	elif hasattr(arg, '__iter__'):
 # 		print('convert')
 # 		if(sys.version_info[0] >= 3):
-# 			return b' '.join(map(convertoToBytes, arg))
+# 			return b' '.join(map(convert_to_bytes, arg))
 # 		else:
-# 			return b' '.join(map(convertoToBytes, arg))
+# 			return b' '.join(map(convert_to_bytes, arg))
 # 	else:
 # 		return str(arg).encode('utf-8')
 
@@ -136,10 +155,12 @@ class edx_in:
 			self.stream = open(self.target, 'r', 1, encoding='utf-8')
 			self.mm = mmap.mmap(self.stream.fileno(), 0, access=mmap.ACCESS_READ)
 		else:
+			print('222222222222sdsdsddsd@@@s')
 			self.mm = None
 			self.isFileEmpty = True
 			self.stream = sys.stdin
 #[Preprocess]#else
+		print('@@@@@sd@@@s')
 		self.mm = None
 		self.isFileEmpty = True
 		self.stream = sys.stdin
@@ -158,7 +179,10 @@ class edx_in:
 	def next_line(self):
 		ret = None
 		try:
-			ret = b' '.join(self.lineTokens)
+			if(sys.version_info[0]<3):
+				ret = b' '.join(self.lineTokens)
+			else:
+				ret = ' '.join(self.lineTokens)
 			self.lineTokens.close()
 			if(ret == ''):
 				raise ValueError()
@@ -176,7 +200,7 @@ class edx_in:
 
 	def next_float(self):
 		return float(self.next_token())
-	def next_str(self,encoding = None):
+	def next_str(self,encoding = sys.stdin.encoding):
 		if(encoding):
 			return self.next_token().decode(encoding)
 		else:
@@ -203,6 +227,7 @@ class edx_in:
 			return ret
 		except:
 			self.lineTokens = self.getLineTokens(self.next_line())
+
 			return self.next_token()
 
 	#def all_tokens(self):
@@ -254,7 +279,7 @@ class edx_out:
 		pass
 #[Preprocess]#endif
 	def write(self, arg):
-		self.stream.write(convertoToBytes(arg))
+		self.stream.write(convert_to_bytes(arg))
 
 	def writeln(self, arg):
 		self.write(arg)
@@ -512,14 +537,10 @@ def longDivisionDigits(dividend, divisor):
 
 
 def solve():
-	in1 = ri()
-	put(in1)
-	debug(in1)
-	put('@@@@@')
-	debug('wwwww')
-	put('asddssdsd')
-	it()
-	put(combination(6,2))
+	val1 = ri()
+	str1 = rs()
+	debug(val1, str1)
+	put(str1 + str(val1))
 	pass
 
 
@@ -1987,7 +2008,7 @@ WriteTarget = os.path.join(IO_Dir, OutputFileName)
 
 try:
 	logger1 = logging.getLogger('log1')
-	debug = lambda *x: logger1.log(logging.DEBUG,convertoToBytes(x))
+	debug = lambda *x: logger1.log(logging.DEBUG,convert_to_bytes(x))
 		
 	PutLevel = 100
 	logging.PUT = PutLevel
@@ -2020,13 +2041,13 @@ with edx_in(ReadTarget) as Reader, edx_out(WriteTarget) as Writer:
 		outHandler.setFormatter(formatter)
 		logger1.addHandler(outHandler)
 		if(sys.version_info[0] >= 3):
-			put = lambda *args: logger1.log(logging.PUT,convertoToBytes(args))
-			info = lambda *args: logger1.log(logging.INFO,convertoToBytes(args))
-			critical = lambda *args: logger1.log(logging.CRITICAL,convertoToBytes(args))
+			put = lambda *args: logger1.log(logging.PUT,convert_to_bytes(args))
+			info = lambda *args: logger1.log(logging.INFO,convert_to_bytes(args))
+			critical = lambda *args: logger1.log(logging.CRITICAL,convert_to_bytes(args))
 		else:
-			put = lambda *args: logger1.log(logging.PUT,convertoToBytes(args))
-			info = lambda *args: logger1.log(logging.INFO,convertoToBytes(args))
-			critical = lambda *args: logger1.log(logging.CRITICAL,convertoToBytes(args))
+			put = lambda *args: logger1.log(logging.PUT,convert_to_bytes(args))
+			info = lambda *args: logger1.log(logging.INFO,convert_to_bytes(args))
+			critical = lambda *args: logger1.log(logging.CRITICAL,convert_to_bytes(args))
 	except:
 		debug = Writer.writeln
 		put = Writer.writeln
@@ -2060,8 +2081,14 @@ with edx_in(ReadTarget) as Reader, edx_out(WriteTarget) as Writer:
 	duration = time.time() - duration
 	debug("running time : " + str(duration))
 	if(sys.version_info[0] >= 3):
-		import psutil
-		log("memory : " + str(psutil.Process().memory_info()[0]))
+		try:
+			import psutil
+			log("memory : " + str(psutil.Process().memory_info()[0]))
+			pass
+		except ModuleNotFoundError:
+			print('psutil not installed. skipping memory log')
+			pass
+		pass
 	logf.close()
 
 	try:
