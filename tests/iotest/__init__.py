@@ -4,15 +4,11 @@ try:
 except ImportError:
     import unittest
 
-
-# import tests.iotest.edxiotest
 import tests.iotest.simpleTest
 
 def suite():
     result = unittest.TestSuite()
-    # result.addTests(unittest.makeSuite(tests.iotest.edxiotest.StringIOAsInputStdinTestcase))
-    # result.addTests(unittest.makeSuite(tests.iotest.edxiotest.BytesIOAsInputFileTestcase))
-    # result.addTests(unittest.makeSuite(tests.iotest.edxiotest.BytesIOAsInputStdinTestcase))
+    result.addTests(unittest.makeSuite(tests.iotest.simpleTest.MainTestCase))
     return result
 
 
