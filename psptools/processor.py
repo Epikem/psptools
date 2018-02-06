@@ -1,22 +1,10 @@
 import os
-print(os.path.abspath('.'))
-print(os.listdir())
-curdir = os.path.abspath('.')
-print(os.listdir())
-curdir = os.path.join(curdir, 'psptools')
-
-print(os.listdir())
-print(os.path.exists(os.path.join('D:/Users/siin/Source/Repos/psptools/psptools/main.py')))
-print(os.path.exists('D:/Users/siin/Source/Repos/psptools/psptools/main.py'))
 #[Preprocess]#exclude
 import sys
 
 from pypreprocessor import pypreprocessor
 
 #region Defines
-ArchiveBOJ = False
-Archive = False
-ArchiveEdX = False
 
 if sys.version[:3].split('.')[0] == '2':
 	pypreprocessor.defines.append('python2')
@@ -53,7 +41,6 @@ li.append('it')
 li.append('useless')
 li.append('modmul')
 li.append('memoized')
-li.append('readSequence')
 li.append('ToSpaceSeperatedString')
 li.append('combination')
 li.append('sumdigit')
@@ -72,8 +59,8 @@ def registerUsedFunctions():
 
 	#region Pre Build
 	pypreprocessor.readEncoding = 'utf-8'
-	pypreprocessor.input = 'D:/Users/siin/Source/Repos/psptools/psptools/main.py'
-	pypreprocessor.output = 'D:/Users/siin/Source/Repos/psptools/psptools/tmp.py' # run mode
+	pypreprocessor.input = 'main.py'
+	pypreprocessor.output = 'tmp.py' # run mode
 	pypreprocessor.run = True
 	pypreprocessor.resume = True
 	pypreprocessor.save = False
@@ -142,8 +129,8 @@ def counted(func):
 pypreprocessor.escapeChar = '#[Preprocess]#'
 pypreprocessor.encoding = 'utf-8'
 
-pypreprocessor.input = 'D:/Users/siin/Source/Repos/psptools/psptools/main.py'
-pypreprocessor.output = 'D:/Users/siin/Source/Repos/psptools/psptools/debug.py' # run mode
+pypreprocessor.input = 'main.py'
+pypreprocessor.output = 'debug.py' # run mode
 pypreprocessor.resume = True
 pypreprocessor.run = False
 pypreprocessor.save = True
@@ -174,8 +161,8 @@ for name in li:
 
 #region Solution Build
 
-pypreprocessor.input = 'D:/Users/siin/Source/Repos/psptools/psptools/main.py'
-pypreprocessor.output = 'D:/Users/siin/Source/Repos/psptools/psptools/solution.py' # run mode
+pypreprocessor.input = 'main.py'
+pypreprocessor.output = 'solution.py' # run mode
 pypreprocessor.resume = False
 pypreprocessor.run = False
 pypreprocessor.save = True

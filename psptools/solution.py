@@ -17,39 +17,21 @@
 #░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 
-
-InputFileName = 'input.txt'
-OutputFileName = 'output.txt'
-ReadTarget = None
-WriteTarget = None
-
-#endregion Defines
-
-
-import os
 import sys
-import codecs
-IO_Dir = '.'
-
-import fileinput
-import codecs
-import operator
-import functools
-import math
-import io
-import platform
-import collections
-import mmap
 import logging
 import logging.handlers
 
 
-from datetime import datetime
+import mmap
+InputFileName = 'input.txt'
+OutputFileName = 'output.txt'
+ReadTarget = os.path.join(IO_Dir, InputFileName)
+WriteTarget = os.path.join(IO_Dir, OutputFileName)
 
-def convertoToBytes(arg):
+def convert_to_bytes(arg):
 	if isinstance(arg, bytes):
 		if(sys.version_info[0] >= 3):
-			return arg.decode('utf-8')
+			return str(arg)
 		return arg
 	elif isinstance(arg, str):
 		if(sys.version_info[0] >= 3):
@@ -58,35 +40,11 @@ def convertoToBytes(arg):
 			return arg.encode('utf-8')
 	elif hasattr(arg, '__iter__'):
 		if(sys.version_info[0] >= 3):
-			return ' '.join(list(map(convertoToBytes, arg)))
+			return ' '.join(list(map(convert_to_bytes, arg)))
 		else:
-			return b' '.join(map(convertoToBytes, arg))
+			return b' '.join(map(convert_to_bytes, arg))
 	else:
-		if(sys.version_info[0] >= 3):
-			return str(arg)
-		return str(arg).encode('utf-8')
-
-#region Default IO Functions
-# def convertoToBytes(arg):
-# 	print('convertToBytes')
-# 	# return str(arg)
-# 	if isinstance(arg, bytes):
-# 		# if(sys.version_info[0] >= 3):
-# 		# 	return str(arg)
-# 		return arg
-# 	elif isinstance(arg, str):
-# 		if(sys.version_info[0] >= 3):
-# 			return arg.encode('utf-8')
-# 		else:
-# 			return arg.encode('utf-8')
-# 	elif hasattr(arg, '__iter__'):
-# 		print('convert')
-# 		if(sys.version_info[0] >= 3):
-# 			return b' '.join(map(convertoToBytes, arg))
-# 		else:
-# 			return b' '.join(map(convertoToBytes, arg))
-# 	else:
-# 		return str(arg).encode('utf-8')
+		return str(arg)
 
 # Copyright (c) 2018 Maxim Buzdalov
 class edx_in:
@@ -134,7 +92,10 @@ class edx_in:
 	def next_line(self):
 		ret = None
 		try:
-			ret = b' '.join(self.lineTokens)
+			if(sys.version_info[0]<3):
+				ret = b' '.join(self.lineTokens)
+			else:
+				ret = ' '.join(self.lineTokens)
 			self.lineTokens.close()
 			if(ret == ''):
 				raise ValueError()
@@ -152,7 +113,7 @@ class edx_in:
 
 	def next_float(self):
 		return float(self.next_token())
-	def next_str(self,encoding = None):
+	def next_str(self,encoding = sys.stdin.encoding):
 		if(encoding):
 			return self.next_token().decode(encoding)
 		else:
@@ -179,6 +140,7 @@ class edx_in:
 			return ret
 		except:
 			self.lineTokens = self.getLineTokens(self.next_line())
+
 			return self.next_token()
 
 	#def all_tokens(self):
@@ -221,7 +183,7 @@ class edx_out:
 				outf.close()
 				self.stream.close()
 	def write(self, arg):
-		self.stream.write(convertoToBytes(arg))
+		self.stream.write(convert_to_bytes(arg))
 
 	def writeln(self, arg):
 		self.write(arg)
@@ -241,27 +203,11 @@ sys.setrecursionlimit(2000)
 #region Helper Functions
 
 
-def it():
-	put('it')
-	pass
 
 
 
 
 
-
-
-
-def combination(n, r):
-	r = min(r, n - r)
-	if(r == 0):
-		return 1
-	if(r < 0): 
-		return 0
-	
-	numer = functools.reduce(operator.mul, range(n, n - r, -1))
-	denom = functools.reduce(operator.mul, range(1, r + 1))
-	return numer // denom
 
 
 
@@ -276,60 +222,24 @@ def combination(n, r):
 
 
 def solve():
-	in1 = ri()
-	put(in1)
-	debug(in1)
-	put('@@@@@')
-	debug('wwwww')
-	put('asddssdsd')
-	it()
-	put(combination(6,2))
+	val1 = ri()
+	str1 = rs()
+	debug(val1, str1)
+	put(str1 + str(val1))
 	pass
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#logging
-
-
-
-reader = None
-writer = None
-
-ReadTarget = os.path.join(IO_Dir, InputFileName)
-WriteTarget = os.path.join(IO_Dir, OutputFileName)
-
-
+# logging
 
 
 try:
 	logger1 = logging.getLogger('log1')
-	debug = lambda *x: logger1.log(logging.DEBUG,convertoToBytes(x))
+	debug = lambda *x: logger1.log(logging.DEBUG,convert_to_bytes(x))
 		
 	PutLevel = 100
 	logging.PUT = PutLevel
 	logging.addLevelName(PutLevel, 'PUT')
 	logger1.setLevel(logging.PUT)
 	formatter = logging.Formatter()
-	#put = lambda x: logger1.log(100,x)
-	#info = lambda x: logger1.log(logging.INFO,x)
-	#critical = lambda x: logger1.log(logging.CRITICAL,x)
 except:
 	pass
 
@@ -341,14 +251,14 @@ with edx_in(ReadTarget) as Reader, edx_out(WriteTarget) as Writer:
 		outHandler.setFormatter(formatter)
 		logger1.addHandler(outHandler)
 		if(sys.version_info[0] >= 3):
-			put = lambda *args: logger1.log(logging.PUT,convertoToBytes(args))
-			info = lambda *args: logger1.log(logging.INFO,convertoToBytes(args))
-			critical = lambda *args: logger1.log(logging.CRITICAL,convertoToBytes(args))
+			put = lambda *args: logger1.log(logging.PUT,convert_to_bytes(args))
+			info = lambda *args: logger1.log(logging.INFO,convert_to_bytes(args))
+			critical = lambda *args: logger1.log(logging.CRITICAL,convert_to_bytes(args))
 		else:
-			put = lambda *args: logger1.log(logging.PUT,convertoToBytes(args))
-			info = lambda *args: logger1.log(logging.INFO,convertoToBytes(args))
-			critical = lambda *args: logger1.log(logging.CRITICAL,convertoToBytes(args))
-	except:
+			put = lambda *args: logger1.log(logging.PUT,convert_to_bytes(args))
+			info = lambda *args: logger1.log(logging.INFO,convert_to_bytes(args))
+			critical = lambda *args: logger1.log(logging.CRITICAL,convert_to_bytes(args))
+	except ModuleNotFoundError: # judge does not have logging module.
 		debug = Writer.writeln
 		put = Writer.writeln
 		info = Writer.writeln

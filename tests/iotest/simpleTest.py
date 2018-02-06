@@ -18,7 +18,7 @@ class MainTestCase(TestCase):
 		try:
 			print(os.getcwd())
 			os.chdir(os.path.relpath('./psptools/'))
-			os.system('python processor.py')
+			os.system('python main.py')
 			
 			
 		except:

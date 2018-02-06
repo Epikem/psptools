@@ -17,40 +17,26 @@
 #░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 
-
-InputFileName = 'input.txt'
-OutputFileName = 'output.txt'
-ReadTarget = None
-WriteTarget = None
-
-#endregion Defines
-
-
-import os
 import sys
-import codecs
-IO_Dir = '.'
-
-import fileinput
-import codecs
-import operator
-import functools
-import math
-import io
-import platform
-import collections
-import mmap
 import logging
 import logging.handlers
 
+IO_Dir = '.'
+import io
+import os
 import time
-
 from datetime import datetime
 
-def convertoToBytes(arg):
+import mmap
+InputFileName = 'input.txt'
+OutputFileName = 'output.txt'
+ReadTarget = os.path.join(IO_Dir, InputFileName)
+WriteTarget = os.path.join(IO_Dir, OutputFileName)
+
+def convert_to_bytes(arg):
 	if isinstance(arg, bytes):
 		if(sys.version_info[0] >= 3):
-			return arg.decode('utf-8')
+			return str(arg)
 		return arg
 	elif isinstance(arg, str):
 		if(sys.version_info[0] >= 3):
@@ -59,35 +45,11 @@ def convertoToBytes(arg):
 			return arg.encode('utf-8')
 	elif hasattr(arg, '__iter__'):
 		if(sys.version_info[0] >= 3):
-			return ' '.join(list(map(convertoToBytes, arg)))
+			return ' '.join(list(map(convert_to_bytes, arg)))
 		else:
-			return b' '.join(map(convertoToBytes, arg))
+			return b' '.join(map(convert_to_bytes, arg))
 	else:
-		if(sys.version_info[0] >= 3):
-			return str(arg)
-		return str(arg).encode('utf-8')
-
-#region Default IO Functions
-# def convertoToBytes(arg):
-# 	print('convertToBytes')
-# 	# return str(arg)
-# 	if isinstance(arg, bytes):
-# 		# if(sys.version_info[0] >= 3):
-# 		# 	return str(arg)
-# 		return arg
-# 	elif isinstance(arg, str):
-# 		if(sys.version_info[0] >= 3):
-# 			return arg.encode('utf-8')
-# 		else:
-# 			return arg.encode('utf-8')
-# 	elif hasattr(arg, '__iter__'):
-# 		print('convert')
-# 		if(sys.version_info[0] >= 3):
-# 			return b' '.join(map(convertoToBytes, arg))
-# 		else:
-# 			return b' '.join(map(convertoToBytes, arg))
-# 	else:
-# 		return str(arg).encode('utf-8')
+		return str(arg)
 
 # Copyright (c) 2018 Maxim Buzdalov
 class edx_in:
@@ -135,7 +97,10 @@ class edx_in:
 	def next_line(self):
 		ret = None
 		try:
-			ret = b' '.join(self.lineTokens)
+			if(sys.version_info[0]<3):
+				ret = b' '.join(self.lineTokens)
+			else:
+				ret = ' '.join(self.lineTokens)
 			self.lineTokens.close()
 			if(ret == ''):
 				raise ValueError()
@@ -153,7 +118,7 @@ class edx_in:
 
 	def next_float(self):
 		return float(self.next_token())
-	def next_str(self,encoding = None):
+	def next_str(self,encoding = sys.stdin.encoding):
 		if(encoding):
 			return self.next_token().decode(encoding)
 		else:
@@ -180,6 +145,7 @@ class edx_in:
 			return ret
 		except:
 			self.lineTokens = self.getLineTokens(self.next_line())
+
 			return self.next_token()
 
 	#def all_tokens(self):
@@ -222,7 +188,7 @@ class edx_out:
 				outf.close()
 				self.stream.close()
 	def write(self, arg):
-		self.stream.write(convertoToBytes(arg))
+		self.stream.write(convert_to_bytes(arg))
 
 	def writeln(self, arg):
 		self.write(arg)
@@ -241,6 +207,7 @@ sys.setrecursionlimit(2000)
 
 #region Helper Functions
 
+import functools
 from functools import wraps
 
 def counted(func):
@@ -250,13 +217,6 @@ def counted(func):
 		return func(*args, **kwargs)
 	wrapper.count = 0
 	return wrapper
-
-# def counted(f):
-#     def wrapped(*args, **kwargs):
-#         wrapped.calls += 1
-#         return f(*args, **kwargs)
-#     wrapped.calls = 0
-#     return wrapped
 
 
 @counted
@@ -273,6 +233,8 @@ def useless():
 def modmul():
 	return 0
 
+import collections
+import functools
 @counted
 class memoized(object):
 	'''Decorator. Caches a function's return value each time it is called.
@@ -302,26 +264,12 @@ class memoized(object):
 			'''Support instance methods.'''
 			return functools.partial(self.__call__, obj)
 
-
-
-@counted
-def readSequence(elementType=None, inputLine=None, seperator=None, strip=True):
-	global readTarget
-	if (inputLine == None):
-		inputLine = readTarget.readline()
-	if strip:
-		inputLine = inputLine.strip()
-	if(isinstance(inputLine, bytes)):
-		return inputLine
-	if (elementType == None):
-		return [x for x in inputLine.split(seperator)]
-	return [elementType(x) for x in inputLine.split(seperator)]
-rl = RobertsSpaceIndustries = readSequence
-
 @counted
 def ToSpaceSeperatedString(targetList):
 	return " ".join(map(str, targetList))
 
+import operator
+import functools
 @counted
 def combination(n, r):
 	r = min(r, n - r)
@@ -416,36 +364,13 @@ def longDivisionDigits(dividend, divisor):
 
 
 def solve():
-	in1 = ri()
-	put(in1)
-	debug(in1)
-	put('@@@@@')
-	debug('wwwww')
-	put('asddssdsd')
-	it()
-	put(combination(6,2))
+	val1 = ri()
+	str1 = rs()
+	debug(val1, str1)
+	put(str1 + str(val1))
 	pass
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#logging
+# logging
 
 
 def gettime():
@@ -469,19 +394,9 @@ def log(str1):
 	pass
 
 pass
-
-reader = None
-writer = None
-
-ReadTarget = os.path.join(IO_Dir, InputFileName)
-WriteTarget = os.path.join(IO_Dir, OutputFileName)
-
-
-
-
 try:
 	logger1 = logging.getLogger('log1')
-	debug = lambda *x: logger1.log(logging.DEBUG,convertoToBytes(x))
+	debug = lambda *x: logger1.log(logging.DEBUG,convert_to_bytes(x))
 		
 	PutLevel = 100
 	logging.PUT = PutLevel
@@ -491,9 +406,6 @@ try:
 	debugHandler = logging.StreamHandler(sys.stdout)
 	debugHandler.setFormatter(formatter)
 	logger1.addHandler(debugHandler)
-	#put = lambda x: logger1.log(100,x)
-	#info = lambda x: logger1.log(logging.INFO,x)
-	#critical = lambda x: logger1.log(logging.CRITICAL,x)
 except:
 	pass
 
@@ -507,14 +419,14 @@ with edx_in(ReadTarget) as Reader, edx_out(WriteTarget) as Writer:
 		outHandler.setFormatter(formatter)
 		logger1.addHandler(outHandler)
 		if(sys.version_info[0] >= 3):
-			put = lambda *args: logger1.log(logging.PUT,convertoToBytes(args))
-			info = lambda *args: logger1.log(logging.INFO,convertoToBytes(args))
-			critical = lambda *args: logger1.log(logging.CRITICAL,convertoToBytes(args))
+			put = lambda *args: logger1.log(logging.PUT,convert_to_bytes(args))
+			info = lambda *args: logger1.log(logging.INFO,convert_to_bytes(args))
+			critical = lambda *args: logger1.log(logging.CRITICAL,convert_to_bytes(args))
 		else:
-			put = lambda *args: logger1.log(logging.PUT,convertoToBytes(args))
-			info = lambda *args: logger1.log(logging.INFO,convertoToBytes(args))
-			critical = lambda *args: logger1.log(logging.CRITICAL,convertoToBytes(args))
-	except:
+			put = lambda *args: logger1.log(logging.PUT,convert_to_bytes(args))
+			info = lambda *args: logger1.log(logging.INFO,convert_to_bytes(args))
+			critical = lambda *args: logger1.log(logging.CRITICAL,convert_to_bytes(args))
+	except ModuleNotFoundError: # judge does not have logging module.
 		debug = Writer.writeln
 		put = Writer.writeln
 		info = Writer.writeln
@@ -538,16 +450,15 @@ with edx_in(ReadTarget) as Reader, edx_out(WriteTarget) as Writer:
 	duration = time.time() - duration
 	debug("running time : " + str(duration))
 	if(sys.version_info[0] >= 3):
-		import psutil
-		log("memory : " + str(psutil.Process().memory_info()[0]))
-	logf.close()
-
-	try:
-		fileinput.close()
-	except:
+		try:
+			import psutil
+			log("memory : " + str(psutil.Process().memory_info()[0]))
+			pass
+		except ModuleNotFoundError:
+			print('psutil not installed. skipped memory log')
+			pass
 		pass
-
-	# minifier.run()
+	logf.close()
 	pass
 
 
