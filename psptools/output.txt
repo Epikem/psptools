@@ -1,5 +1,2 @@
-DEBUG   :Start------------------------
-DEBUG   :3 7
-PUT     :73
-DEBUG   :End------------------------
-DEBUG   :running time : 0.002000093460083008
+73
+b'd f e w'

@@ -23,6 +23,8 @@ import logging.handlers
 
 
 import mmap
+import os
+IO_Dir = '.'
 InputFileName = 'input.txt'
 OutputFileName = 'output.txt'
 ReadTarget = os.path.join(IO_Dir, InputFileName)
@@ -53,6 +55,7 @@ class edx_in:
 	def create_lineTokenizer(self):
 		if(self.mm):
 			for line in iter(self.mm.readline, ''):
+				print(line)
 				yield line
 		else:
 			for line in iter(self.stream.readline, ''):
@@ -99,7 +102,9 @@ class edx_in:
 			self.lineTokens.close()
 			if(ret == ''):
 				raise ValueError()
-			return ret
+			if(isinstance(ret, bytes)):
+				return ret.decode(encoding='utf-8')
+			else: return str(ret)
 		except:
 			pass
 
@@ -226,6 +231,7 @@ def solve():
 	str1 = rs()
 	debug(val1, str1)
 	put(str1 + str(val1))
+	put(rl())
 	pass
 
 # logging

@@ -34,7 +34,6 @@ import logging.handlers
 #[Preprocess]#endif
 
 #[Preprocess]#ifdef debug
-IO_Dir = '.'
 import io
 import os
 import time
@@ -43,6 +42,8 @@ from datetime import datetime
 
 #[Preprocess]#ifdef UseFileIO
 import mmap
+import os
+IO_Dir = '.'
 InputFileName = 'input.txt'
 OutputFileName = 'output.txt'
 ReadTarget = os.path.join(IO_Dir, InputFileName)
@@ -460,6 +461,7 @@ def solve():
 	str1 = rs()
 	debug(val1, str1)
 	put(str1 + str(val1))
+	debug(rl())
 	pass
 
 # logging
