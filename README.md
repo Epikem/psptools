@@ -15,7 +15,8 @@ solution.py created. Debug, info, critical log level is for debug only
 and solution.py prints only put log level.
 
 ### Dependencies
- - pypreprocessor > 0.75
+ - pypreprocessor > 0.75 
+ (https://github.com/interpreters/pypreprocessor : Use `pip install git+https://github.com/interpreters/pypreprocessor.git`)
  - psutil (optional)
 
 ### Usage:
@@ -39,10 +40,10 @@ created and executed, creating below output.txt file.
 
 - output.txt (created by main.py) :
 ```text
-DEBUG :Start\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
+DEBUG :Start------------------------
 DEBUG :120 epi
 PUT :epi120
-DEBUG :End\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
+DEBUG :End------------------------
 DEBUG :running time : 0.0
 ```
 
@@ -55,6 +56,6 @@ epi120
 Also each time you run, run data is appended to log.txt
 - log.txt :
 ```text
-2018-02-05 13:57:47.043218 \| Program started.
+2018-02-05 13:57:47.043218 | Program started.
 memory : 11657216
 ```
