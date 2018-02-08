@@ -26,6 +26,9 @@ import processor
 #[Preprocess]#endexclude
 
 import sys
+inEncoding = sys.stdin.encoding
+outEncoding = sys.stdout.encoding
+logEncoding = sys.stderr.encoding
 #[Preprocess]#ifdef boj
 
 #[Preprocess]#else
@@ -91,14 +94,14 @@ class edx_in:
 				if(self.isFileEmpty):
 					return self
 			else:
-				with open(self.target, 'w', encoding='utf-8') as newf:
+				with open(self.target, 'w') as newf:
 					newf.write('')
 				return self
 			# if(sys.version_info[0] > 3):
 			# 	self.stream = open(self.target, 'r', encoding='utf-8')
 			# else:
 			# 	self.stream = open(self.target, 'rb', 1)
-			self.stream = open(self.target, 'r', 1, encoding='utf-8')
+			self.stream = open(self.target, 'r', 1, inEncoding)
 			self.mm = mmap.mmap(self.stream.fileno(), 0, access=mmap.ACCESS_READ)
 		else:
 			self.mm = None
@@ -144,11 +147,8 @@ class edx_in:
 
 	def next_float(self):
 		return float(self.next_token())
-	def next_str(self,encoding = sys.stdin.encoding):
-		if(encoding):
-			return self.next_token().decode(encoding)
-		else:
-			return self.next_token()
+	def next_str(self):
+		return self.next_token()
 		#return self.next_token().decode('utf-8')
 	def getLineTokens(self, line):
 		for token in iter(line.split()):
@@ -191,10 +191,10 @@ class edx_out:
 				# 	self.stream = open(self.target, 'w', encoding='utf-8')
 				# else:
 				# 	self.stream = open(self.target, 'wb', 1)
-				self.stream = open(self.target, 'w', 1, encoding='utf-8')
+				self.stream = open(self.target, 'w', 1, outEncoding)
 			else:
 				if(sys.version_info[0] >= 3):
-					self.stream = open(self.target, 'w', 1, encoding='utf-8')
+					self.stream = open(self.target, 'w', 1, outEncoding)
 				else:
 					self.stream = io.BytesIO()
 #[Preprocess]#else
@@ -215,7 +215,7 @@ class edx_out:
 				# 	outf = open(self.target, 'w', encoding='utf-8')
 				# else:
 				# 	outf = open(self.target, 'wb', 1)
-				outf = open(self.target, 'w', 1, encoding='utf-8')
+				outf = open(self.target, 'w', 1, outEncoding)
 				outf.write(self.stream.getvalue())
 				outf.close()
 				self.stream.close()
@@ -477,10 +477,10 @@ def gettime():
 def memory():
 	pass
 
-logf = io.open(os.path.join(IO_Dir, "log.txt"), "a", encoding='utf-8')
+logf = io.open(os.path.join(IO_Dir, "log.txt"), "a", logEncoding)
 
 if(sys.version_info[0] < 3):
-	content = (gettime() + " | Program started.\n").encode('utf-8')
+	content = (gettime() + " | Program started.\n").encode(logEncoding)
 	logf.write(unicode(content))
 else:
 	content = (gettime() + " | Program started.\n")

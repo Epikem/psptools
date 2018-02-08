@@ -68,7 +68,7 @@ classifiers = [
 
 
 def description():
-    lines = open('README.rst', 'rb').read().splitlines(False)
+    lines = open('README.md', 'r', encoding='utf-8').read().splitlines(False)
     return '\n' + str(b'\n'.join(lines)) + '\n'
 
 
