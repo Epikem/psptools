@@ -1,3 +1,5 @@
+# -*- coding:utf-8 -*-
+from __future__ import print_function
 #!/usr/bin/env python
 
 #NYAN NYAN
@@ -18,6 +20,14 @@
 
 
 import sys
+ReadEncoding = sys.stdin.encoding
+WriteEncoding = sys.stdout.encoding
+LogEncoding = sys.stderr.encoding
+ReadEncoding = 'utf-8'
+WriteEncoding = 'utf-8'
+LogEncoding = 'utf-8'
+PythonVersion = sys.version_info[0]
+ReadEncoding = 'bytes'
 import logging
 import logging.handlers
 
@@ -35,24 +45,76 @@ ReadTarget = os.path.join(IO_Dir, InputFileName)
 WriteTarget = os.path.join(IO_Dir, OutputFileName)
 
 def convert_to_bytes(arg):
-	if isinstance(arg, bytes):
-		if(sys.version_info[0] >= 3):
-			return str(arg)
-		return arg
-	elif isinstance(arg, str):
-		if(sys.version_info[0] >= 3):
+	if(PythonVersion < 3):
+
+		if isinstance(arg, bytes):
 			return arg
-		else:
-			return arg.encode('utf-8')
-	elif hasattr(arg, '__iter__'):
-		if(sys.version_info[0] >= 3):
-			return ' '.join(list(map(convert_to_bytes, arg)))
-		else:
+		elif isinstance(arg, str):
+			return arg.encode()
+		elif hasattr(arg, '__iter__'):
 			return b' '.join(map(convert_to_bytes, arg))
+		else:
+			return bytes(arg)
+	else:
+		if isinstance(arg, bytes):
+			return arg.decode(WriteEncoding)
+		elif isinstance(arg, str):
+			return arg
+		elif hasattr(arg, '__iter__'):
+			return ' '.join(map(convert_to_bytes, arg))
+		else:
+			return str(arg)
+
+		pass
+
+	# if(WriteEncoding == 'bytes'):
+	# 	if isinstance(arg, bytes):
+	# 		return arg
+	# 	elif isinstance(arg, str):
+	# 		return arg.encode()
+	# 	elif hasattr(arg, '__iter__'):
+	# 		return b' '.join(map(convert_to_bytes, arg))
+	# 	else:
+	# 		return bytes(arg)
+	# elif(WriteEncoding != 'bytes'):
+	# 	if isinstance(arg, bytes):
+	# 		return arg.decode(WriteEncoding)
+	# 	elif isinstance(arg, str):
+	# 		return arg
+	# 	elif hasattr(arg, '__iter__'):
+	# 		return ' '.join(map(convert_to_bytes, arg))
+	# 	else:
+	# 		return str(arg)
+	# else:
+	# 	raise ValueError
+
+	if isinstance(arg, bytes):
+		return arg.decode(WriteEncoding)
+	elif isinstance(arg, str):
+		return arg
+	elif hasattr(arg, '__iter__'):
+		return ' '.join(map(convert_to_bytes, arg))
 	else:
 		return str(arg)
 
-# Copyright (c) 2018 Maxim Buzdalov
+	# if isinstance(arg, bytes):
+	# 	if(PythonVersion >= 3):
+	# 		return str(arg)
+	# 	return arg
+	# elif isinstance(arg, str):
+	# 	if(PythonVersion >= 3):
+	# 		return arg
+	# 	else:
+	# 		return arg.encode('utf-8')
+	# elif hasattr(arg, '__iter__'):
+	# 	if(PythonVersion >= 3):
+	# 		return ' '.join(list(map(convert_to_bytes, arg)))
+	# 	else:
+	# 		return b' '.join(map(convert_to_bytes, arg))
+	# else:
+	# 	return str(arg)
+
+# Copyright (c) 2018 Maxim Buzdalov. Modified by Epikem
 class edx_in:
 	def __init__(self, target = None):
 		self.target = target
@@ -71,14 +133,17 @@ class edx_in:
 				if(self.isFileEmpty):
 					return self
 			else:
-				with open(self.target, 'w', encoding='utf-8') as newf:
+				with open(self.target, 'w') as newf:
 					newf.write('')
 				return self
-			# if(sys.version_info[0] > 3):
+			# if(PythonVersion > 3):
 			# 	self.stream = open(self.target, 'r', encoding='utf-8')
 			# else:
 			# 	self.stream = open(self.target, 'rb', 1)
-			self.stream = open(self.target, 'r', 1, encoding='utf-8')
+			if(ReadEncoding == 'bytes'):
+				self.stream = open(self.target, 'rb')
+			else:
+				self.stream = open(self.target, 'r', 1, ReadEncoding)
 			self.mm = mmap.mmap(self.stream.fileno(), 0, access=mmap.ACCESS_READ)
 		else:
 			self.mm = None
@@ -98,33 +163,38 @@ class edx_in:
 	def next_line(self):
 		ret = None
 		try:
-			if(sys.version_info[0]<3):
+			if(ReadEncoding == 'bytes'):
 				ret = b' '.join(self.lineTokens)
+				if(ret == b''):
+					raise ValueError()
 			else:
 				ret = ' '.join(self.lineTokens)
-			self.lineTokens.close()
-			if(ret == ''):
-				raise ValueError()
-			return ret
-		except:
+				if(ret == ''):
+					raise ValueError()
+		except (ValueError, TypeError) as e:
+			self.lineTokens.close()			
+			if(hasattr(self.lines, 'next')):
+				ret = self.lines.next()
+			if(hasattr(self.lines, '__next__')):
+				ret = self.lines.__next__()
 			pass
+		finally:
+			if(ReadEncoding == 'bytes'):
+				ret = ret
+			else:
+				ret = ret.decode(ReadEncoding)
+			return ret
 
-		if(hasattr(self.lines, 'next')):
-			ret = self.lines.next()
-		if(hasattr(self.lines, '__next__')):
-			ret = self.lines.__next__()
-		return ret
 	def next_int(self):
 		return int(self.next_token())
 
 	def next_float(self):
 		return float(self.next_token())
-	def next_str(self,encoding = sys.stdin.encoding):
-		if(encoding):
-			return self.next_token().decode(encoding)
-		else:
-			return self.next_token()
-		#return self.next_token().decode('utf-8')
+	def next_str(self):
+		ret = self.next_token()
+		if(isinstance(ret, bytes)):
+			return ret.decode()
+		return ret
 	def getLineTokens(self, line):
 		for token in iter(line.split()):
 			yield token
@@ -142,16 +212,13 @@ class edx_in:
 				ret = self.lineTokens.next()
 			if(hasattr(self.lineTokens, '__next__')):
 				ret = self.lineTokens.__next__()
-			
 			return ret
 		except:
 			self.lineTokens = self.getLineTokens(self.next_line())
 
 			return self.next_token()
 
-	#def all_tokens(self):
-	#	return self.tokens
-
+# Copyright (c) 2018 Maxim Buzdalov. Modified by Epikem
 class edx_out:
 	def __init__(self, target = None):
 		self.target = target
@@ -161,16 +228,19 @@ class edx_out:
 		self.is_cpython = (platform.python_implementation() == 'CPython')
 		if(self.target):
 			if self.is_cpython:
-				# if(sys.version_info[0] > 3):
-				# 	self.stream = open(self.target, 'w', encoding='utf-8')
-				# else:
-				# 	self.stream = open(self.target, 'wb', 1)
-				self.stream = open(self.target, 'w', 1, encoding='utf-8')
-			else:
-				if(sys.version_info[0] >= 3):
-					self.stream = open(self.target, 'w', 1, encoding='utf-8')
+				# self.stream = open(self.target, 'wb', 1)
+
+				if(PythonVersion < 3):
+					self.stream = open(self.target, 'wb', 1)
 				else:
+					self.stream = open(self.target, 'w', 1, WriteEncoding)
+			else:
+				# self.stream = io.BytesIO()
+
+				if(PythonVersion < 3):
 					self.stream = io.BytesIO()
+				else:
+					self.stream = open(self.target, 'w', 1, WriteEncoding)
 		else:
 			self.stream = sys.stdout
 		return self
@@ -180,11 +250,12 @@ class edx_out:
 			if self.is_cpython:
 				self.stream.close()
 			else:
-				# if(sys.version_info[0] > 3):
-				# 	outf = open(self.target, 'w', encoding='utf-8')
-				# else:
-				# 	outf = open(self.target, 'wb', 1)
-				outf = open(self.target, 'w', 1, encoding='utf-8')
+
+				# outf = open(self.target, 'wb', 1)
+				if(PythonVersion < 3):
+					outf = open(self.target, 'wb', 1)
+				else:
+					outf = open(self.target, 'w', 1, WriteEncoding)
 				outf.write(self.stream.getvalue())
 				outf.close()
 				self.stream.close()
@@ -192,19 +263,24 @@ class edx_out:
 		self.stream.write(convert_to_bytes(arg))
 
 	def writeln(self, arg):
-		self.write(arg)
-		self.write(b'\n')
+		if(WriteEncoding == 'bytes'):
+			self.write(b'\n')
+		else:
+			self.write('\n')
 
 	def test(this, expression):
 		frame = sys._getframe(1)
 		exp = expression
 		ans = repr(eval(exp, frame.f_globals, frame.f_locals))
-		this.debug('test : ' + exp + ' = ' + ans)
+		if(WriteEncoding == 'bytes'):
+			this.debug(b'test : ' + exp.encode(WriteEncoding) + b' = ' + ans.encode(WriteEncoding))
+		else:
+			this.debug('test : ' + exp + ' = ' + ans)
 		pass
 	
 #endregion Default IO Functions
 
-sys.setrecursionlimit(2000)
+sys.setrecursionlimit(100)
 
 #region Helper Functions
 
@@ -380,16 +456,16 @@ def gettime():
 def memory():
 	pass
 
-logf = io.open(os.path.join(IO_Dir, "log.txt"), "a", encoding='utf-8')
+logf = io.open(os.path.join(IO_Dir, "log.txt"), "a", encoding = LogEncoding)
 
-if(sys.version_info[0] < 3):
-	content = (gettime() + " | Program started.\n").encode('utf-8')
+if(PythonVersion < 3):
+	content = (gettime() + " | Program started.\n").encode(encoding = LogEncoding)
 	logf.write(unicode(content))
 else:
 	content = (gettime() + " | Program started.\n")
 	logf.write(content)
 def log(str1):
-	if(sys.version_info[0] < 3):
+	if(PythonVersion < 3):
 		print(unicode(str1), file = logf)
 	else:
 		print(str1, file = logf)
@@ -420,7 +496,7 @@ with edx_in(ReadTarget) as Reader, edx_out(WriteTarget) as Writer:
 		outHandler = logging.StreamHandler(Writer.stream)
 		outHandler.setFormatter(formatter)
 		logger1.addHandler(outHandler)
-		if(sys.version_info[0] >= 3):
+		if(PythonVersion >= 3):
 			put = lambda *args: logger1.log(logging.PUT,convert_to_bytes(args))
 			info = lambda *args: logger1.log(logging.INFO,convert_to_bytes(args))
 			critical = lambda *args: logger1.log(logging.CRITICAL,convert_to_bytes(args))
@@ -451,7 +527,7 @@ with edx_in(ReadTarget) as Reader, edx_out(WriteTarget) as Writer:
 	debug("End------------------------")
 	duration = time.time() - duration
 	debug("running time : " + str(duration))
-	if(sys.version_info[0] >= 3):
+	if(PythonVersion >= 3):
 		try:
 			import psutil
 			log("memory : " + str(psutil.Process().memory_info()[0]))

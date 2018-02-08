@@ -15,15 +15,18 @@ from subprocess import call
 
 class MainTestCase(TestCase):
 	def test_main(self):
-		try:
-			print(os.getcwd())
-			os.chdir(os.path.relpath('./psptools/'))
-			os.system('python main.py')
-			
-			
-		except:
-			assert(1==2)
-			pass
+		# import codecs
+		# utf8reader = codecs.getreader('utf-8')
+		# utf8writer = codecs.getwriter('utf-8')
+		# utf8error = codecs.getwriter('utf-8')
+
+		# sys.stdin = utf8reader(sys.stdin)
+		# sys.stdout = utf8writer(sys.stdout)
+		# sys.stderr = utf8error(sys.stderr)
+
+		print(os.getcwd())
+		os.chdir(os.path.relpath('./psptools/'))
+		os.system('python main.py')
 		pass
 
 	def xtest_edxin_readString(self):
