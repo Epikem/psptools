@@ -155,6 +155,7 @@ memory : 17014784
 2018-02-24 17:30:22.585684 | Program started.
 2018-02-24 17:30:29.111691 | Program started.
 2018-02-24 18:26:18.502801 | Program started.
+<<<<<<< HEAD
 2018-02-24 18:41:11.321501 | Program started.
 2018-02-24 18:41:23.051615 | Program started.
 2018-02-24 18:41:38.490102 | Program started.
@@ -243,3 +244,6 @@ memory : 17014784
 2018-02-24 20:30:48.687402 | Program started.
 2018-02-24 20:31:11.860691 | Program started.
 2018-02-24 20:46:47.554401 | Program started.
+=======
+>>>>>>> bdf2df1c127a2454053715299d19c2534fb16249
+2018-02-24 20:57:40.112858 | Program started.
