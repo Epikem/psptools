@@ -58,6 +58,7 @@ def registerUsedFunctions():
 	# li.append('it')
 
 	#region Pre Build
+	print('asdoadsjo fu9jw3n8 t8jw08jtwah9 t wj890jp')
 	pypreprocessor.readEncoding = 'utf-8'
 	pypreprocessor.input = 'main.py'
 	pypreprocessor.output = 'tmp.py' # run mode
@@ -74,7 +75,7 @@ def registerUsedFunctions():
 
 	pypreprocessor.parse()
 
-	
+
 	TryRemove('PreBuild')
 	#endregion Pre Build
 
@@ -126,8 +127,9 @@ def counted(func):
 #[Preprocess]#exclude
 
 #region Debug Build
-pypreprocessor.escapeChar = '#[Preprocess]#'
-pypreprocessor.encoding = 'utf-8'
+pypreprocessor.escape = '#[Preprocess]#'
+pypreprocessor.readEncoding = 'utf-8'
+pypreprocessor.writeEncoding = 'utf-8'
 
 pypreprocessor.input = 'main.py'
 pypreprocessor.output = 'debug.py' # run mode
@@ -145,12 +147,12 @@ TryRemove('boj')
 pypreprocessor.parse()
 	# except:
 	# 	pass
-		
+
 import importlib
 from debug import *
 def str_to_class(str):
 	from functools import reduce
-	
+
 	return reduce(getattr, str.split("."), sys.modules[__name__])
 for name in li:
 	# try:
@@ -170,7 +172,8 @@ pypreprocessor.save = True
 TryRemove('PreBuild')
 # TryAppend('readSequence')
 TryRemove('debug')
-TryAppend('UseFileIO')
+# TryAppend('UseFileIO')
+TryRemove('UseFileIO')
 TryRemove('boj')
 pypreprocessor.parse()
 
