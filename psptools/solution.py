@@ -1,5 +1,3 @@
-# -*- coding:utf-8 -*-
-from __future__ import print_function
 #!/usr/bin/env python
 
 #NYAN NYAN
@@ -40,15 +38,14 @@ OutputFileName = 'output.txt'
 ReadTarget = os.path.join(IO_Dir, InputFileName)
 WriteTarget = os.path.join(IO_Dir, OutputFileName)
 
-def convert_to_bytes(arg):
+def format(arg):
 	if(PythonVersion < 3):
-
 		if isinstance(arg, bytes):
 			return arg
 		elif isinstance(arg, str):
 			return arg.encode()
 		elif hasattr(arg, '__iter__'):
-			return b' '.join(map(convert_to_bytes, arg))
+			return b' '.join(map(format, arg))
 		else:
 			return bytes(arg)
 	else:
@@ -57,58 +54,10 @@ def convert_to_bytes(arg):
 		elif isinstance(arg, str):
 			return arg
 		elif hasattr(arg, '__iter__'):
-			return ' '.join(map(convert_to_bytes, arg))
+			return ' '.join(map(format, arg))
 		else:
 			return str(arg)
-
 		pass
-
-	# if(WriteEncoding == 'bytes'):
-	# 	if isinstance(arg, bytes):
-	# 		return arg
-	# 	elif isinstance(arg, str):
-	# 		return arg.encode()
-	# 	elif hasattr(arg, '__iter__'):
-	# 		return b' '.join(map(convert_to_bytes, arg))
-	# 	else:
-	# 		return bytes(arg)
-	# elif(WriteEncoding != 'bytes'):
-	# 	if isinstance(arg, bytes):
-	# 		return arg.decode(WriteEncoding)
-	# 	elif isinstance(arg, str):
-	# 		return arg
-	# 	elif hasattr(arg, '__iter__'):
-	# 		return ' '.join(map(convert_to_bytes, arg))
-	# 	else:
-	# 		return str(arg)
-	# else:
-	# 	raise ValueError
-
-	if isinstance(arg, bytes):
-		return arg.decode(WriteEncoding)
-	elif isinstance(arg, str):
-		return arg
-	elif hasattr(arg, '__iter__'):
-		return ' '.join(map(convert_to_bytes, arg))
-	else:
-		return str(arg)
-
-	# if isinstance(arg, bytes):
-	# 	if(PythonVersion >= 3):
-	# 		return str(arg)
-	# 	return arg
-	# elif isinstance(arg, str):
-	# 	if(PythonVersion >= 3):
-	# 		return arg
-	# 	else:
-	# 		return arg.encode('utf-8')
-	# elif hasattr(arg, '__iter__'):
-	# 	if(PythonVersion >= 3):
-	# 		return ' '.join(list(map(convert_to_bytes, arg)))
-	# 	else:
-	# 		return b' '.join(map(convert_to_bytes, arg))
-	# else:
-	# 	return str(arg)
 
 # Copyright (c) 2018 Maxim Buzdalov. Modified by Epikem
 class edx_in:
@@ -256,7 +205,7 @@ class edx_out:
 				outf.close()
 				self.stream.close()
 	def write(self, arg):
-		self.stream.write(convert_to_bytes(arg))
+		self.stream.write(format(arg))
 
 	def writeln(self, arg):
 		if(WriteEncoding == 'bytes'):
@@ -312,7 +261,7 @@ def solve():
 
 try:
 	logger1 = logging.getLogger('log1')
-	debug = lambda *x: logger1.log(logging.DEBUG,convert_to_bytes(x))
+	debug = lambda *x: logger1.log(logging.DEBUG,format(x))
 		
 	PutLevel = 100
 	logging.PUT = PutLevel
@@ -330,13 +279,13 @@ with edx_in(ReadTarget) as Reader, edx_out(WriteTarget) as Writer:
 		outHandler.setFormatter(formatter)
 		logger1.addHandler(outHandler)
 		if(PythonVersion >= 3):
-			put = lambda *args: logger1.log(logging.PUT,convert_to_bytes(args))
-			info = lambda *args: logger1.log(logging.INFO,convert_to_bytes(args))
-			critical = lambda *args: logger1.log(logging.CRITICAL,convert_to_bytes(args))
+			put = lambda *args: logger1.log(logging.PUT,format(args))
+			info = lambda *args: logger1.log(logging.INFO,format(args))
+			critical = lambda *args: logger1.log(logging.CRITICAL,format(args))
 		else:
-			put = lambda *args: logger1.log(logging.PUT,convert_to_bytes(args))
-			info = lambda *args: logger1.log(logging.INFO,convert_to_bytes(args))
-			critical = lambda *args: logger1.log(logging.CRITICAL,convert_to_bytes(args))
+			put = lambda *args: logger1.log(logging.PUT,format(args))
+			info = lambda *args: logger1.log(logging.INFO,format(args))
+			critical = lambda *args: logger1.log(logging.CRITICAL,format(args))
 	except ModuleNotFoundError: # judge does not have logging module.
 		debug = Writer.writeln
 		put = Writer.writeln

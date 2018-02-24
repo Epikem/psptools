@@ -24,13 +24,14 @@ class MainTestCase(TestCase):
 		# sys.stdout = utf8writer(sys.stdout)
 		# sys.stderr = utf8error(sys.stderr)
 
-		print(os.getcwd())
+		# print(os.getcwd())
+		print()
 		os.chdir(os.path.relpath('./psptools/'))
 		os.system('python main.py')
 		pass
 
 	def xtest_edxin_readString(self):
-		print(os.getcwd())
+		# print(os.getcwd())
 		os.chdir(os.path.relpath('./psptools/'))
 		os.system('python processor.py')
 		pass
